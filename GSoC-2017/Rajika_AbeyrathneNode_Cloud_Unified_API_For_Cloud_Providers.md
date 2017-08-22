@@ -23,7 +23,7 @@ NodeCloud is an easy to use abstract API which will remove the burden of switchi
 
 ### [Project Demo Video](https://www.youtube.com/playlist?list=PLOIyWoYcO107EfXZBqNUn49LjtodWLNbL)
 
-### [Project Wiki](https://github.com/scorelab/nodecloud/wiki)
+### [Project Wiki](https://github.com/rajikaimal/nodecloud/wiki)
 
 ### [GSoC Blog](https://medium.com/nodecloud)
 
