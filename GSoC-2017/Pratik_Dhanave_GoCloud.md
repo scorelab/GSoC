@@ -1,4 +1,4 @@
-# gocloud
+# GoCloud
 ## Student Info
 * Name - Pratik Dhanave
 * Email - i.pratikdhanave@gmail.com
