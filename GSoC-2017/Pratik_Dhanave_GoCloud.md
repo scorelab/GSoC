@@ -45,7 +45,7 @@ Created tutorial series.
 	1. AWS
 		- EC2
 		- AWS Storage Service
-                - Amazon Elastic Container Service(ECS) 
+		- Amazon Elastic Container Service(ECS) 
 		- AWS Elastic Load Balancing
 		- AWS Route5S
 	2. GCP
@@ -73,4 +73,5 @@ Created tutorial series.
 - [Aws-signature-version-4](http://docs.aws.amazon.com/general/latest/gr/signature-version-4.html)
 - [Google-cloud-documentation](https://cloud.google.com/docs/)
 - [AWS and Google Cloud platform comparison](https://cloud.google.com/docs/compare/aws/)
+
 
