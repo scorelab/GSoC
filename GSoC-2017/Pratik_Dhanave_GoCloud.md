@@ -60,7 +60,7 @@ Created tutorial series.
 - Added documentation for developed APIs.
 - Added examples for developed APIs.
 - Added Developer API documentation using godoc for developed APIs.
-- Created gocloud getting started tutorial series.
+- Created gocloud getting started video tutorial series.
 
 ### What left
 
