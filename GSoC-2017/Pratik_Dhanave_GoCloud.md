@@ -33,8 +33,9 @@ Support for following services were added,
 - Container
 - Load Balancing
 - DNS
-for authentication with AWS cloud I implemented signature-version-2 and signature-version-4 method.
-for authentication with Google cloud I implemented OAuth client and  service account authentication method.
+- for authentication with AWS cloud I implemented signature-version-2 and signature-version-4 method.
+- for authentication with Google cloud I implemented OAuth client and  service account authentication method.
+
 Along with development of APIs, I added documentation and unit tests.
 Created tutorial series.
 
@@ -73,3 +74,4 @@ Created tutorial series.
 - [Aws-signature-version-4](http://docs.aws.amazon.com/general/latest/gr/signature-version-4.html)
 - [Google-cloud-documentation](https://cloud.google.com/docs/)
 - [AWS and Google Cloud platform comparison](https://cloud.google.com/docs/compare/aws/)
+
