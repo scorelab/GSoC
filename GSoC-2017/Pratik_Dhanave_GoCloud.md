@@ -21,7 +21,7 @@ gocloud is a standard library for Go that abstracts away differences among multi
 
 ### [Project Wiki](https://github.com/PratikDhanave/gocloud-v2/wiki)
 
-### [GSoC Blog](http://GSoCBlog)
+### [GSoC Blog](https://pratikdhanave.github.io/blog/2017/08/27/gocloud-google-summer-of-code-final-report/)
 
 ### Work Summary
 For GSoC 2017 I have initiated the project from scratch and added support for AWS and Google cloud platform (GCP).
@@ -73,5 +73,6 @@ Created tutorial series.
 - [Aws-signature-version-4](http://docs.aws.amazon.com/general/latest/gr/signature-version-4.html)
 - [Google-cloud-documentation](https://cloud.google.com/docs/)
 - [AWS and Google Cloud platform comparison](https://cloud.google.com/docs/compare/aws/)
+
 
 
