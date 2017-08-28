@@ -29,9 +29,27 @@ Drone Comm is community platform which is help to meet drone owners and drone re
 ### [GSoC Blog](http://GSoCBlog)
 
 ### Work Summary
+Developed Drone Comm as project of Google Summer of Code 2017.
+
+This is new concept given by. SCoRe lab organization. First I started to designed project architecture. In this case I have decided to implement seperate backend and frontend. In implementation phase first I have developed backend. Drone Comm backend has RESTful API. This API exposes Drone Comm services. Frontend web application consume these backend REST API. 
+
+Nodejs used to developed backend implementation and backend REST API structure built using Express Framework. I used MongoDb to persist Drone Comm data like user detail, drone detail & drone task detail. This is Drone Comm backend setup.
+
+Angular 4 used to develop frontend web application. This frontend web app has Drone Comm user interfaces. These interfaces communicate with Drone Comm Backend.
+
+In this GSoC period I have done above mention things.
 
 ### What Covered
+* Designed system archiitecture
+* Implemented backend services
+* Backend services used MongoDB get and persist to the system data. In this case used Mongoose ORM to communicate between MongoDB database and backend REST API services.
+* JSON Web Token(JWT) used to managed Drone Comm System authentication and authorization.
+* Implemented queue based message passing pattern to notify newly added drone tasks to drone pilots. 
+* Frontend include log in, registration, drone create, create drone task ...etc. These UI component implemented in frontend web application.
 
 ### What left
+* Bid or response for drone tasks.
+* Private chat between users.(most of time private chat between drone client and crone pilots).
+* Do Payment through Drone Comm.
 
 ### Reference
