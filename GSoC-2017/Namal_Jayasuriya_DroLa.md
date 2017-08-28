@@ -16,9 +16,9 @@ A secure drone monitering system for a central authority Using LORA. Each drone 
 
 ### [Commits during GSoC 2017](https://github.com/NamalJayasuriya/drola/commits/master)
 
-### [Project Demo Video](http://LinkToDemoVideo)
+### [Project Demo Video](https://www.youtube.com/watch?v=1I--f2gv1WM&list=UUuT-aJUcxQLe6E5IRniEX6A&index=1)
 
-### [Project Wiki](http://github.com)
+### [Project Wiki](https://github.com/scorelab/drola/wiki)
 
 ### [GSoC Blog](http://GSoCBlog)
 
