@@ -20,8 +20,6 @@ Drone Comm is community platform which is help to meet drone owners and drone re
 
 ### [Commits during GSoC 2017](https://github.com/scorelab/Drone-Comm/commits/master)
 
-### [Project Demo Video](http://LinkToDemoVideo)
-
 ### [Project Wiki](https://github.com/Amila1991/Drone-Comm/wiki)
 
 ### [GSoC Blog](https://medium.com/@amilakarunathilaka.12/gsoc-experience-e823aa4e0165)
