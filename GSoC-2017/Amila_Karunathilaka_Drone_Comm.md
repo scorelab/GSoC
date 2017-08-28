@@ -31,25 +31,25 @@ Drone Comm is community platform which is help to meet drone owners and drone re
 ### Work Summary
 Developed Drone Comm as project of Google Summer of Code 2017.
 
-This is new concept given by. SCoRe lab organization. First I started to designed project architecture. In this case I have decided to implement seperate backend and frontend. In implementation phase first I have developed backend. Drone Comm backend has RESTful API. This API exposes Drone Comm services. Frontend web application consume these backend REST API. 
+This is a new concept introduced by SCoRe lab organization. First I started to design project architecture. In this case I decided to implement two separate components as backend and frontend. In implementation phase I developed the backend initially. Drone Comm backend has RESTful APIs. These APIs expose Drone Comm services and frontend web application consumes these backend REST APIs.
 
-Nodejs used to developed backend implementation and backend REST API structure built using Express Framework. I used MongoDb to persist Drone Comm data like user detail, drone detail & drone task detail. This is Drone Comm backend setup.
+Nodejs is used for backend implementation and backend REST API structure built using Express Framework. I used MongoDb to persist Drone Comm data like user detail, drone detail & drone task detail. This is the setting up of Drone Comm backend.
 
-Angular 4 used to develop frontend web application. This frontend web app has Drone Comm user interfaces. These interfaces communicate with Drone Comm Backend.
+Angular 4 is used to develop frontend web application. This frontend web application has Drone Comm user interfaces. These interfaces communicate with Drone Comm Backend.
 
-In this GSoC period I have done above mention things.
+Above mentioned areas are covered in this GSoC project throughout the period.
 
 ### What Covered
-* Designed system archiitecture
-* Implemented backend services
-* Backend services used MongoDB get and persist to the system data. In this case used Mongoose ORM to communicate between MongoDB database and backend REST API services.
-* JSON Web Token(JWT) used to managed Drone Comm System authentication and authorization.
-* Implemented queue based message passing pattern to notify newly added drone tasks to drone pilots. 
-* Frontend include log in, registration, drone create, create drone task ...etc. These UI component implemented in frontend web application.
+* System architecture design
+* Backend services implementation
+* Backend services using MongoDB to retrieve and persist system data. (Used Mongoose ORM to communicate between MongoDB database and backend REST API services).
+* JSON Web Token(JWT) used to manage Drone Comm System authentication and authorization.
+* Queue based message passing pattern to notify newly added drone tasks to drone pilots implementation.
+* Frontend implementation including login, registration, drone create, create drone task ...etc. These UI components are implemented in frontend web application.
 
 ### What left
-* Bid or response for drone tasks.
-* Private chat between users.(most of time private chat between drone client and crone pilots).
+* Drone pilots bid or response for drone tasks.
+* Private chat between users.(most of time private chat between drone client and drone pilots).
 * Do Payment through Drone Comm.
 
 ### Reference
