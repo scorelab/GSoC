@@ -45,8 +45,6 @@ Replace variable types for secure data communication
 Resolving Issue- #125View current user's user name on logout menu.
 	https://github.com/scorelab/Bassa/pull/127
 
-### [Project Demo Video](http://LinkToDemoVideo)
-
 ### [Project Wiki](http://github.com)
 
 https://github.com/scorelab/Bassa/wiki
