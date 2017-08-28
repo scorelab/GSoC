@@ -28,6 +28,7 @@ This project was conducted in order to create a portal for individuals and resea
 * Integration of firease services
 * Implemented publication lists and publications
 * Implemented publication and publication list manipulation part
+* Implemented categorization and search functionalities
 * Implemented sharing feature for publications and publication lists
 ### What left
 * Need to create the feedback providing part
