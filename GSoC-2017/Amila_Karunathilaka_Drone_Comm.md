@@ -12,8 +12,6 @@
 ### Project Abstract
 Drone Comm is community platform which is help to meet drone owners and drone required people. using this platform drone required people can request drone from the community. And drone pilot who has drone can be hire their drones and can get income. In this case drone requester publish he/she task(purpose) description and request drone through this community platform. These open task request forward to drone pilot and drone pilot bid for these task.
 
-### [GSoC Project Page](http://LinikToYourGSoCProjectPage)
-
 ### [GSoC Project Proposal](https://docs.google.com/a/cse.mrt.ac.lk/document/d/1Pj5INineHwD-yIHs4ibBRlRCJnYPRDlgZC8zREV_nr8/edit?usp=sharing)
 
 ### [GitHub Organization Repo](https://github.com/scorelab/Drone-Comm)
