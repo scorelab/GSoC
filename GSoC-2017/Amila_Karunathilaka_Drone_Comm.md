@@ -26,7 +26,7 @@ Drone Comm is community platform which is help to meet drone owners and drone re
 
 ### [Project Wiki](https://github.com/Amila1991/Drone-Comm/wiki)
 
-### [GSoC Blog](http://GSoCBlog)
+### [GSoC Blog](https://medium.com/@amilakarunathilaka.12/gsoc-experience-e823aa4e0165)
 
 ### [API Documentation](https://drive.google.com/open?id=1hbae5COEZc82dPIb3Jp3H5eDjJp8n1SFj0j6_l1avbU)
 
@@ -58,4 +58,3 @@ In this GSoC period I have done above mention things.
 * [Nodejs Express Framework](https://expressjs.com)
 * [Angular 4 Framework](https://angular.io)
 * [Mongoose ORM](http://mongoosejs.com)
-*
