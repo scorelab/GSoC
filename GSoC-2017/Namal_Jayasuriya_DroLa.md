@@ -8,7 +8,7 @@ A secure drone monitering system for a central authority Using LORA. Each drone 
 
 ### [GSoC Project Page](https://summerofcode.withgoogle.com/projects/#5995323712339968)
 
-### [GSoC Project Proposal](https://storage.googleapis.com/summerofcode-prod.appspot.com/gsoc/core_project/doc/5863729068507136_1491227001_DroLaproposal_.pdf?Expires=1504085190&GoogleAccessId=summerofcode-prod%40appspot.gserviceaccount.com&Signature=E2A9q3TUup7dMoldvkhk7F97bHU71I03harb6KsCAziv%2Fe1IgZWG3t5rTlUPZcX7Ww4wTSoyPhWPmaO5P95LUg6H6CE%2FtkD2RG7LOwB7EeeJVME3CXX30HiOihkTHAZ39kITmOL1QF2%2FPVVeryaPBPsTsH9ENkzue3%2BQuYB8qAUMs02zKhZ4uONFjfcNeh1pYH0L5hOsSM9%2B21CD2smlw4CEB96eiGZum00ABXkQ%2BdrFDVlI1N3tF6jOhC2xxk6VfVELvpXzxM6ofcQeDwrYdKz1lvhcNYK3F2aluFng20u1kE%2BVuyaYQOhEL6KeFvs4ZA1olt%2FxHUCOVCFqdbvQgw%3D%3D)
+### [GSoC Project Proposal](https://docs.google.com/document/d/1-pXsKezPtq4lK4zOukn4ZdbWuOBoAXDFYSu32KRCHws/edit?usp=sharing)
 
 ### [GitHub Organization Repo](https://github.com/scorelab/drola)
 
