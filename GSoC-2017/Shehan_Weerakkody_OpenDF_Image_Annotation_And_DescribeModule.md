@@ -26,7 +26,7 @@ Nowadays, digital forensic tools are often used to investigate cyber crimes, whi
 ### [GSoC Blog](http://GSoCBlog)
 
 ### Work Summary
-During the last three months in GSoC 2017 I have implemented an image annotation REST API for the OpenDF digital forensic tool. First of all I implemented a basic image recognition model using different pre-trained Convolutional Neural Network models such VGG16, VGG19 and RestNet50. With use of Flask pthon framework I implemented a REST API which takes image file UUID as the input and it returns the predictions as a JSON response.  
+During the last three months in GSoC 2017 I have implemented an image annotation REST API for the OpenDF digital forensic tool. First of all I implemented a basic image recognition model using different pre-trained Convolutional Neural Network models such VGG16, VGG19 and RestNet50. With use of Flask python framework I implemented a REST API which takes image file UUID as the input and it returns the predictions as a JSON response.  
 
 Then we use the Google Cloud Vision API to annotate the given image. This has a huge amount of performance improvement. The image annotation results will return within 3 seconds. Finally we Dockerized the application. Using this image annotation module users can predict the image content. Also, Investigation organizations can use following models based on their requirements by simply editting the properties.conf file.  
 
