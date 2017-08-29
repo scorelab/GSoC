@@ -4,7 +4,7 @@
 e.n.jayasuriya@gmail.com
 
 ### Project Abstract
-A secure drone monitering system for a central authority Using LORA. Each drone has a externaly mounted unit on it. It transmit it's location and time ina secure way when flying. 
+A secure drone monitering system for a central authority Using LORA. Each drone has a externaly mounted unit on it. It transmit it's location and time in a secure way when it is flying. 
 
 ### [GSoC Project Page](https://summerofcode.withgoogle.com/projects/#5995323712339968)
 
@@ -18,9 +18,7 @@ A secure drone monitering system for a central authority Using LORA. Each drone 
 
 ### [Project Demo Video](https://www.youtube.com/watch?v=1I--f2gv1WM&list=UUuT-aJUcxQLe6E5IRniEX6A&index=1)
 
-### [Project Wiki](https://github.com/scorelab/drola/wiki/Drola)
-
-### [GSoC Blog](http://GSoCBlog)
+### [Project Wiki](https://github.com/NamalJayasuriya/drola/wiki/Drola)
 
 ### Work Summary
 
@@ -28,16 +26,16 @@ Built a secure drone monitering system. Central authority can monitor the locati
 
 I built a server system and browser application to the Central authority.
 
-Designed a hardware unit and built thr firmware for the end node.
+Designed a hardware unit and built the firmware for the end node.
 
-Design a effient message protocol for the system.
+Design a secure and effient message protocol for the system.
 
 
 ### What Covered
 
-Web server and web Apllication Client to monitor drones.
+Web server and web client apllication to monitor drones.
 
-Api to get drone locations from serial port and send them to browser applications.
+Api to get drone locations from serial port, decrypt them and send them to browser applications.
 
 End node Hardware module.
 
@@ -45,7 +43,7 @@ End node Firmware.
 
 Base node Hardware module.
 
-An effient message protocol.
+An effient and secure message protocol.
 
 
 ### What left
