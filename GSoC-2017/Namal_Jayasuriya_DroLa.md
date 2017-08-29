@@ -8,7 +8,7 @@ A secure drone monitering system for a central authority Using LORA. Each drone 
 
 ### [GSoC Project Page](https://summerofcode.withgoogle.com/projects/#5995323712339968)
 
-### [GSoC Project Proposal](https://storage.googleapis.com/summerofcode-prod.appspot.com/gsoc/core_project/doc/5863729068507136_1491227001_DroLaproposal_.pdf?Expires=1503747614&GoogleAccessId=summerofcode-prod%40appspot.gserviceaccount.com&Signature=I6S94JK%2F46hxAXRjdLnrRMGkxngUikM2hBL61Dt6P9nZNQztrw6ZNVdrQdhaZf7staD2uzC8ymc21V0eVW4ih76YWeKjNioLsQ7TkDM3PUDg9KpOp557MqGm5CRV4A3VSbecFgpoBqj%2FsFmLgA8lqGiQB%2F2ZzMFY1ZFWbhQAT2FZ76Rlhzqb2lGBnpP52HMrcka7kd6oG0pClUCsKrhya3LQIg9VK2qbwpbqM5EEwuJV%2B8MrzE%2BGeLsH1P4wfnRVyDkYwCDf%2BXYq00c%2BKALBfCsWI7q7sF%2BD04KfJcfF7F4ZAbVEGaxZL61Ha6sQVCx2EmTCpnEyri9ztYj4zU2zkw%3D%3D)
+### [GSoC Project Proposal](https://storage.googleapis.com/summerofcode-prod.appspot.com/gsoc/core_project/doc/5863729068507136_1491227001_DroLaproposal_.pdf?Expires=1504085190&GoogleAccessId=summerofcode-prod%40appspot.gserviceaccount.com&Signature=E2A9q3TUup7dMoldvkhk7F97bHU71I03harb6KsCAziv%2Fe1IgZWG3t5rTlUPZcX7Ww4wTSoyPhWPmaO5P95LUg6H6CE%2FtkD2RG7LOwB7EeeJVME3CXX30HiOihkTHAZ39kITmOL1QF2%2FPVVeryaPBPsTsH9ENkzue3%2BQuYB8qAUMs02zKhZ4uONFjfcNeh1pYH0L5hOsSM9%2B21CD2smlw4CEB96eiGZum00ABXkQ%2BdrFDVlI1N3tF6jOhC2xxk6VfVELvpXzxM6ofcQeDwrYdKz1lvhcNYK3F2aluFng20u1kE%2BVuyaYQOhEL6KeFvs4ZA1olt%2FxHUCOVCFqdbvQgw%3D%3D)
 
 ### [GitHub Organization Repo](https://github.com/scorelab/drola)
 
