@@ -45,7 +45,6 @@ Rewrite currect Angular front end using ReactJs. Used [react-boilerplate](https:
 ### What left
 
 - Connect API to Project View UI
-- Connect API to Admin Setting UI
 - Implement Current Process UI
 
 ### Reference
