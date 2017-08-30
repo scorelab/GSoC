@@ -11,7 +11,7 @@ DroneSym is a web app that allows simulating drone fleets and monitoring them in
 ### [GitHub Organization Repo](https://github.com/scorelab/DroneSym)
 ### [GitHub Personal Repo](https://github.com/hasa93/DroneSym)
 ### [Commits during GSoC 2017](https://github.com/scorelab/DroneSym/commits?author=hasa93)
-### [Project Demo Video](https://github.com/hasa93/DroneSym/wiki)
+### [Project Demo Video](https://drive.google.com/file/d/0B0xVuKx6qWJJQ0N1MTIyVXRValE/view?usp=sharing)
 
 ### [Project Wiki](https://github.com/hasa93/DroneSym/wiki)
 
