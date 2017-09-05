@@ -22,19 +22,19 @@ Bassa is an automated download queue which tries to minimize bandwidth wastage.O
 
 ### [Commits during GSoC 2017](http://github.com/commits)
 
-*Resolving Issue #122 - Fix the bug which caused to admin panel cannot accessible after refresh the web page.
+- Resolving Issue #122 - Fix the bug which caused to admin panel cannot accessible after refresh the web page.
 	- https://github.com/scorelab/Bassa/pull/134
 
-*Implement new functionality to give system running configuration using single configuration file.
+- Implement new functionality to give system running configuration using single configuration file.
 	- https://github.com/scorelab/Bassa/pull/133
 
-*Implement Message handler function to avoid server crash when it handles multiple download requests.
+- Implement Message handler function to avoid server crash when it handles multiple download requests.
 	- https://github.com/scorelab/Bassa/pull/131
 
-*Change data tranfering method for secure data trasfer in between frontend and backend.
+- Change data tranfering method for secure data trasfer in between frontend and backend.
 	- https://github.com/scorelab/Bassa/pull/129
 
-*Resolving Issue-#125 - Implement new feature to view current user's user name on logout menu.
+- Resolving Issue-#125 - Implement new feature to view current user's user name on logout menu.
 	- https://github.com/scorelab/Bassa/pull/127
 
 *Dockerizing the project - Implemented two Dockerfiles to run frontend services and backend services and run those files using docker-compose file. This function is partially completed.
