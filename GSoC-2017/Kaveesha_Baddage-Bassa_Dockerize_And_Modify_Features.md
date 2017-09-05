@@ -12,13 +12,13 @@ GitHub Profile :https://github.com/KaveeshBaddage
 
 Bassa is an automated download queue which tries to minimize bandwidth wastage.Objectives of the project was dockerize Bassa project to simply run the project without complex configurations and fix bugs which caused to improper execution of the web application. I fixed several bugs and implemented several features in the project.
 
-### [GSoC Project Page](http://LinikToYourGSoCProjectPage)(https://summerofcode.withgoogle.com/dashboard/project/4885623415504896/overview/)
+### [GSoC Project Page](https://summerofcode.withgoogle.com/dashboard/project/4885623415504896/overview/)
 
-### [GSoC Project Proposal](http://LinikToYourGSoCProjectProposal)(https://docs.google.com/document/d/1qof_0eGaeYPTahNvu9YK_6TuFofjPqiaEbf7i4gOb_E/edit?usp=sharing)
+### [GSoC Project Proposal](https://docs.google.com/document/d/1qof_0eGaeYPTahNvu9YK_6TuFofjPqiaEbf7i4gOb_E/edit?usp=sharing)
 
-### [GitHub Organization Repo](http://github.com/repo)(https://github.com/scorelab/Bassa)
+### [GitHub Organization Repo](https://github.com/scorelab/Bassa)
 
-### [GitHub Personal Repo](http://github.com/repo)(https://github.com/KaveeshBaddage/Bassa)
+### [GitHub Personal Repo](https://github.com/KaveeshBaddage/Bassa)
 
 ### [Commits during GSoC 2017](http://github.com/commits)
 
