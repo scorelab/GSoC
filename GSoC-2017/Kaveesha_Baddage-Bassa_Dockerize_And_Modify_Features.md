@@ -40,9 +40,9 @@ Bassa is an automated download queue which tries to minimize bandwidth wastage.O
 *Dockerizing the project - Implemented two Dockerfiles to run frontend services and backend services and run those files using docker-compose file. This function is partially completed.
 	https://github.com/KaveeshBaddage/Bassa/tree/Dockerizing
 
-### [Project Wiki](http://github.com)
+### [Project Wiki](https://github.com/scorelab/Bassa/wiki)
 
-https://github.com/scorelab/Bassa/wiki
+
 
 ### Work Summary
 
