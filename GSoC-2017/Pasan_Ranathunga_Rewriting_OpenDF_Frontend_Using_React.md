@@ -15,7 +15,7 @@ Most digital forensics tools are just command line tools. These kind of command 
 
 ### [GSoC Project Page](https://summerofcode.withgoogle.com/projects/#4518119103004672)
 
-### [GSoC Project Proposal](http://LinikToYourGSoCProjectProposal)
+### [GSoC Project Proposal](https://storage.googleapis.com/summerofcode-prod.appspot.com/gsoc/core_project/doc/5283723223236608_1491231407_RewritingOpenDFfrontendusingReact_pasan_ranathunga.pdf?Expires=1504680139&GoogleAccessId=summerofcode-prod%40appspot.gserviceaccount.com&Signature=WQGDKf%2BFx98f%2BHhGu44JbY7oggH0gtRoRby4DHLd4%2FbSQn9bz1xh0hB98TcsdXD%2FAwuMmZFvmEuhV1CHMYlZRNYzeCUuTHBvdpxEs3QV7o6h2GnYaAmjc6yBwHceYZUNQ%2FadmFIPIsUE8L2xx%2BHB%2F2eLrYr6arknVlpaP12EfzLMwcuwNBh4z7eWf%2FcVIy5XYqOkSidrMokWLaJmimRGPstT09axggTcZ5NWwqnU%2BiIFheCtb7NUplzhWaf7USpck0IzqPLkBPFX9jNsmpBtxhKJYEMhOlt%2FTmKEyzSbylVcL3S4ieC0OnflRhyLwGrpkzcneeXSvBAQM4TNNRuIJA%3D%3D)
 
 ### [GitHub Organization Repo](https://github.com/scorelab/OpenDF)
 
@@ -23,11 +23,8 @@ Most digital forensics tools are just command line tools. These kind of command 
 
 ### [Commits during GSoC 2017](https://github.com/scorelab/OpenDF/commits/react-ui?author=pmartz92)
 
-### [Project Demo Video](http://LinkToDemoVideo)
+### [Project Wiki](https://github.com/scorelab/OpenDF/wiki)
 
-### [Project Wiki](http://github.com)
-
-### [GSoC Blog](http://GSoCBlog)
 
 ### Work Summary
 
