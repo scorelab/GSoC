@@ -23,19 +23,19 @@ Bassa is an automated download queue which tries to minimize bandwidth wastage.O
 ### [Commits during GSoC 2017](http://github.com/commits)
 
 *Resolving Issue #122 - Fix the bug which caused to admin panel cannot accessible after refresh the web page.
-	-https://github.com/scorelab/Bassa/pull/134
+	- https://github.com/scorelab/Bassa/pull/134
 
 *Implement new functionality to give system running configuration using single configuration file.
-	-https://github.com/scorelab/Bassa/pull/133
+	- https://github.com/scorelab/Bassa/pull/133
 
 *Implement Message handler function to avoid server crash when it handles multiple download requests.
-	-https://github.com/scorelab/Bassa/pull/131
+	- https://github.com/scorelab/Bassa/pull/131
 
 *Change data tranfering method for secure data trasfer in between frontend and backend.
-	-https://github.com/scorelab/Bassa/pull/129
+	- https://github.com/scorelab/Bassa/pull/129
 
 *Resolving Issue-#125 - Implement new feature to view current user's user name on logout menu.
-	-https://github.com/scorelab/Bassa/pull/127
+	- https://github.com/scorelab/Bassa/pull/127
 
 *Dockerizing the project - Implemented two Dockerfiles to run frontend services and backend services and run those files using docker-compose file. This function is partially completed.
 	https://github.com/KaveeshBaddage/Bassa/tree/Dockerizing
@@ -46,21 +46,21 @@ Bassa is an automated download queue which tries to minimize bandwidth wastage.O
 
 ### Work Summary
 
--Solved server crashing problem when it runs several download requests.
--Solved several bugs which caused to improper execution of the web application.
--Created new functionalities to enhance web application usability and performance.
--Partially done the dockerizing the project
+- Solved server crashing problem when it runs several download requests.
+- Solved several bugs which caused to improper execution of the web application.
+- Created new functionalities to enhance web application usability and performance.
+- Partially done the dockerizing the project
 
 ### What Covered
 
--Resolved several bugs which caused to improper execution of the web application.
-	-Fix authentication failure problem which caused to admin panel cannot accessible after refresh the web page.
-	-Replace data tranfering variable types for secure data trasfer between backend and frontend
+- Resolved several bugs which caused to improper execution of the web application.
+	- Fix authentication failure problem which caused to admin panel cannot accessible after refresh the web page.
+	- Replace data tranfering variable types for secure data trasfer between backend and frontend
 	
--Create new functionalities to enhance web application usability and performance.
-	-Implement Message handler function which solves server crashing problem when it runs several download requests.
-	-Create functionality to view current user on logout menu.
-	-Create functionality to load system configuration using a single file.
+- Create new functionalities to enhance web application usability and performance.
+	- Implement Message handler function which solves server crashing problem when it runs several download requests.
+	- Create functionality to view current user on logout menu.
+	- Create functionality to load system configuration using a single file.
 
 ### What left
 
@@ -69,7 +69,7 @@ Change the system routing - Implemented two Dockerfiles to run frontend services
 
 ### Reference
 
--[Thread handling in python](https://docs.python.org/3/library/threading.html)
--[Access Java Web Token](https://jwt.io/)
--[Docker Documentation](https://docker-curriculum.com/#setup)
+- [Thread handling in python](https://docs.python.org/3/library/threading.html)
+- [Access Java Web Token](https://jwt.io/)
+- [Docker Documentation](https://docker-curriculum.com/#setup)
 
