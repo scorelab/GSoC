@@ -4,9 +4,9 @@ Bassa - Dockerize and modify features
 
 ## Student Info
 
-Name :Kaveesha Baddage
-Email :kbaddage98@gmail.com
-GitHub Profile :https://github.com/KaveeshBaddage
+- Name :Kaveesha Baddage
+- Email :kbaddage98@gmail.com
+- GitHub Profile :https://github.com/KaveeshBaddage
 
 ### Project Abstract
 
