@@ -64,7 +64,7 @@ Bassa is an automated download queue which tries to minimize bandwidth wastage.O
 
 ### What left
 
-Change the system routing which will support to run sytem on docker containers
+Change the system routing which will support to run the system on docker containers
 - Implemented two Dockerfiles to run frontend services and backend services inside two containers and implemented docker-compose file to connect those containers. Have to change system routing which will support to communicate between two containers and run the system inside those containers.
 
 
