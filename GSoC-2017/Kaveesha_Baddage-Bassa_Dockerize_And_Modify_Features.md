@@ -1,77 +1,76 @@
 # Project Name
 
-Bassa - Automated Download Queue for Enterprise to take the best use of Internet bandwidth 
+Bassa - Dockerize and modify features
 
 ## Student Info
 
-Name :Kaveesha Baddage
-Email :kbaddage98@gmail.com
-GitHub Profile :https://github.com/KaveeshBaddage
+- Name :Kaveesha Baddage
+- Email :kbaddage98@gmail.com
+- GitHub Profile :https://github.com/KaveeshBaddage
 
 ### Project Abstract
 
-Bassa solves the problem of wasting internet bandwidth by queuing a download if it is larger than a given threshold value in high traffic and when the traffic is low, it completes the download of the files. After the files are downloaded, the users can get their files from the local servers which do not require external internet bandwidth.
+Bassa is an automated download queue which tries to minimize bandwidth wastage.Objectives of the project was dockerize Bassa project to simply run the project without complex configurations and fix bugs which caused to improper execution of the web application. I fixed several bugs and implemented several features in the project.
 
-### [GSoC Project Page](http://LinikToYourGSoCProjectPage)
+### [GSoC Project Page](https://summerofcode.withgoogle.com/dashboard/project/4885623415504896/overview/)
 
-https://summerofcode.withgoogle.com/dashboard/project/4885623415504896/overview/
+### [GSoC Project Proposal](https://docs.google.com/document/d/1qof_0eGaeYPTahNvu9YK_6TuFofjPqiaEbf7i4gOb_E/edit?usp=sharing)
 
-### [GSoC Project Proposal](http://LinikToYourGSoCProjectProposal)
+### [GitHub Organization Repo](https://github.com/scorelab/Bassa)
 
-https://docs.google.com/document/d/1qof_0eGaeYPTahNvu9YK_6TuFofjPqiaEbf7i4gOb_E/edit?usp=sharing
-
-### [GitHub Organization Repo](http://github.com/repo)
-
-https://github.com/scorelab/Bassa
-
-### [GitHub Personal Repo](http://github.com/repo)
-
-https://github.com/KaveeshBaddage/Bassa
+### [GitHub Personal Repo](https://github.com/KaveeshBaddage/Bassa)
 
 ### [Commits during GSoC 2017](http://github.com/commits)
 
-Resolving Issue #122 -Admin section can accessible after refresh web page
-	https://github.com/scorelab/Bassa/pull/134
+- Resolving Issue #122 - Fix the bug which caused to admin panel cannot accessible after refresh the web page.
+	- https://github.com/scorelab/Bassa/pull/134
 
-Implement functionality to give system running configuration using single configuration file
-	https://github.com/scorelab/Bassa/pull/133
+- Implement new functionality to give system running configuration using single configuration file.
+	- https://github.com/scorelab/Bassa/pull/133
 
-Implement Message handler function
-	https://github.com/scorelab/Bassa/pull/131
+- Implement Message handler function to avoid server crash when it handles multiple download requests.
+	- https://github.com/scorelab/Bassa/pull/131
 
-Replace variable types for secure data communication
-	https://github.com/scorelab/Bassa/pull/129
+- Change data tranfering method for secure data trasfer in between frontend and backend.
+	- https://github.com/scorelab/Bassa/pull/129
 
-Resolving Issue- #125View current user's user name on logout menu.
-	https://github.com/scorelab/Bassa/pull/127
+- Resolving Issue-#125 - Implement new feature to view current user's user name on logout menu.
+	- https://github.com/scorelab/Bassa/pull/127
 
-### [Project Wiki](http://github.com)
+*Dockerizing the project - Implemented two Dockerfiles to run frontend services and backend services and run those files using docker-compose file. This function is partially completed.
+	https://github.com/KaveeshBaddage/Bassa/tree/Dockerizing
 
-https://github.com/scorelab/Bassa/wiki
+### [Project Wiki](https://github.com/scorelab/Bassa/wiki)
+
+
 
 ### Work Summary
 
-Resolved several bugs which caused to improper execution of the web application
-Create new functionalities to enhance web application usability and performance.
+- Solved server crashing problem when it runs several download requests.
+- Solved several bugs which caused to improper execution of the web application.
+- Created new functionalities to enhance web application usability and performance.
+- Partially done the dockerizing the project
 
 ### What Covered
 
-Resolved several bugs which caused to improper execution of the web application.
-	Fix authentication failure problem
-	Replace variable types for secure data communication
+- Resolved several bugs which caused to improper execution of the web application.
+	- Fix authentication failure problem which caused to admin panel cannot accessible after refresh the web page.
+	- Replace data tranfering variable types for secure data trasfer between backend and frontend
 	
-Create new functionalities to enhance web application usability and performance.
-	Implement Message handler function
-	Create functionality to view current user
-	Create functionality to load system configuration using single file.
+- Create new functionalities to enhance web application usability and performance.
+	- Implement Message handler function which solves server crashing problem when it runs several download requests.
+	- Create functionality to view current user on logout menu.
+	- Create functionality to load system configuration using a single file.
 
 ### What left
 
-Dockerize Bassa project
+Change the system routing which will support to run the system on docker containers
+- Implemented two Dockerfiles to run frontend services and backend services inside two containers and implemented docker-compose file to connect those containers. Have to change system routing which will support to communicate between two containers and run the system inside those containers.
+
 
 ### Reference
 
-https://docs.python.org/3/library/threading.html
-https://jwt.io/
-https://docker-curriculum.com/#setup
+- [Thread handling in python](https://docs.python.org/3/library/threading.html)
+- [Access Java Web Token](https://jwt.io/)
+- [Docker Documentation](https://docker-curriculum.com/#setup)
 
