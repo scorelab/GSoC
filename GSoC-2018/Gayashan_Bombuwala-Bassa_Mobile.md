@@ -20,7 +20,7 @@ Bassa is automated download queue for the enterprise to take the best use of the
 
 ### [Commits during GSoC 2018](https://github.com/gayashanbc/Bassa-mobile/commits?author=gayashanbc)
 
-### [Project Demo Video](http://LinkToDemoVideo)
+### [Project Demo Video](https://youtu.be/YtQtahyo3SE)
 
 ### [Project Wiki](https://github.com/gayashanbc/Bassa-mobile/wiki)
 
