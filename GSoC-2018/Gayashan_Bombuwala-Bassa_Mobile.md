@@ -8,7 +8,7 @@
 - LinkedIn Profile: https://www.linkedin.com/in/gayashanbc/
 
 ### Project Abstract
-Bassa is automated download queue for the enterprise to take the best use of their internet bandwidth. It is capable of avoiding redundant downloads within an enterprise. Currently, users interact with Bassa using the Bassa web-app. The objective of this project is to design and implement a new mobile app for Bassa.
+Bassa is automated download queue for the enterprise to take the best use of their internet bandwidth. It is capable of avoiding redundant downloads within an enterprise. Currently, users interact with Bassa using the Bassa web-app. The objective of this project is to design and implement a new mobile app for Bassa using the React Native stack.
 
 ### [GSoC Project Page](https://summerofcode.withgoogle.com/projects/#6521578305617920)
 
