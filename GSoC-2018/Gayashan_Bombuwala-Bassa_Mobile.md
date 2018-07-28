@@ -4,21 +4,21 @@
 
 ### Project Abstract
 
-### [GSoC Project Page](http://LinikToYourGSoCProjectPage)
+### [GSoC Project Page](https://summerofcode.withgoogle.com/projects/#6521578305617920)
 
 ### [GSoC Project Proposal](http://LinikToYourGSoCProjectProposal)
 
-### [GitHub Organization Repo](http://github.com/repo)
+### [GitHub Organization Repo](https://github.com/scorelab/Bassa-mobile)
 
-### [GitHub Personal Repo](http://github.com/repo)
+### [GitHub Personal Repo](https://github.com/gayashanbc/Bassa-mobile)
 
-### [Commits during GSoC 2017](http://github.com/commits)
+### [Commits during GSoC 2018](https://github.com/scorelab/Bassa-mobile/commits?author=gayashanbc)
 
 ### [Project Demo Video](http://LinkToDemoVideo)
 
-### [Project Wiki](http://github.com)
+### [Project Wiki](https://github.com/gayashanbc/Bassa-mobile/wiki)
 
-### [GSoC Blog](http://GSoCBlog)
+### [GSoC Blog](https://medium.com/@gayashanbc)
 
 ### Work Summary
 
