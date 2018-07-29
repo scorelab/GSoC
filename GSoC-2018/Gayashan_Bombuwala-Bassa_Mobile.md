@@ -44,4 +44,7 @@ Completed the all of the above mentioned tasks.
 - N/A
 
 ### Reference
-- N/A
+- [React Native](https://facebook.github.io/react-native/)
+- [Redux](https://redux.js.org/)
+- [Jest](https://jestjs.io/)
+- [InVision](https://www.invisionapp.com/)
