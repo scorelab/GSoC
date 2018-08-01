@@ -14,7 +14,7 @@ CLocal Azure is an local emulator to test or mock the Azure Services without dep
 
 ### [GSoC Project Proposal](https://drive.google.com/open?id=1-VnJFRaNZNawGCZp38K6JRzd1C-6zoRP)
 
-### [GitHub Organization Repo](https://github.com/cloudlibz/clocal-azure
+### [GitHub Organization Repo](https://github.com/cloudlibz/clocal-azure)
 
 ### [GitHub Personal Repo](http://github.com/lakindu95/clocal-azure)
 
