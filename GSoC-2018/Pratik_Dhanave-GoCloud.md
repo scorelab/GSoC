@@ -6,7 +6,7 @@
 
 
 ### Project Abstract
-gocloud is a standard library for Go that abstracts away differences among multiple cloud providers. The gocloud compute package is designed to make it easy to provision and work with VMs. Developing golang package for interacting with Google compute engine and AWS EC2 using a unified API.
+gocloud is a standard library for Go that abstracts away differences among multiple cloud providers. Developing golang package for interacting with Google cloud,AWS, Digi Ocean, Ali Cloud using a unified API.
 
 ### [GSoC Project Page](https://summerofcode.withgoogle.com/projects/#6643006694752256)
 
@@ -34,8 +34,7 @@ Support for following services were added,
 - Analytics
 - Notification Service
 - Stream Data Processing
-- for authentication with AWS cloud I implemented signature-version-4 get method  and signature-version-4 with authetication   
-  header method.
+- for authentication with AWS cloud I implemented signature-version-4 get method  and signature-version-4 with authetication header method.
 - for authentication with Google cloud I implemented OAuth client and  service account authentication method.
 
 Along with development of APIs, I added documentation and unit tests.
