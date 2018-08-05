@@ -24,7 +24,7 @@ Rewrite core architecture so addition of new cloud providers is easy. Follow plu
 
 ### [Project Demo Video](http://LinkToDemoVideo)
 
-### [Project Wiki](http://github.com)
+### [Project Wiki](https://github.com/cloudlibz/nodecloud-core/blob/master/README.md)
 
 ### [GSoC Blog](https://medium.com/nodecloud)
 
