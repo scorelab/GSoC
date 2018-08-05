@@ -28,12 +28,13 @@ CLocal Azure is an local emulator to test or mock the Azure Services without dep
 
 ### Work Summary
 
-For the GSoC 2018, I 've initiate the project from the scratch and added support for three services to emulate locally. 
+For the GSoC 2018, I've initiate the project from the scratch and added support for four services to emulate locally. 
 
 Services added,
 - Azure Functions
 - Azure Storage (Blob, Queue & Tables)
 - Azure CosmosDB 
+- API App Service
 
 Along with the above implementations, I have added sample projects for each service in the project itself and added an article every week and created a video series for each service.
 
@@ -41,12 +42,13 @@ Along with the above implementations, I have added sample projects for each serv
 
 For the initial stage I have covered the following services. 
 
-1. Azure Functions
-2. Azure Storage
+1. Azure Functions (function init, function start, function stop)
+2. Azure Storage (storage start, storage clear, storage stop)
     - Blob
     - Queue
     - Table
-3. Azure Cosmos DB
+3. Azure Cosmos DB (cosmosdb init, cosmosdb start, cosmosdb stop)
+4. API App Service (api start)
 
 ### What left
 
@@ -59,3 +61,4 @@ For the initial stage I have covered the following services.
 - [Azure Functions Documentation for Local Run](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local)
 - [Azure Cosmos DB Emulator](https://docs.microsoft.com/en-us/azure/cosmos-db/local-emulator)
 - [Azure Storage Emulator](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-emulator)
+- [Azure API App Service sample](https://github.com/Huachao/azure-content/blob/master/articles/app-service-api/app-service-api-nodejs-api-app.md)
