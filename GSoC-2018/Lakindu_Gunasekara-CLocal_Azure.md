@@ -5,6 +5,7 @@
 * Name - Lakindu Gunasekara
 * Email - lakindu1995@gmail.com
 * GitHub profile - https://github.com/lakindu95
+* LinkedIn profile - https://www.linkedin.com/in/lakindu-gunasekara
 
 ### Project Abstract
 
@@ -50,11 +51,12 @@ For the initial stage I have covered the following services.
 3. Azure Cosmos DB (cosmosdb init, cosmosdb start, cosmosdb stop)
 4. API App Service (api start)
 
+And added a script to run all services at once (sh compose.sh)
+
 ### What left
 
 - Portential to add more services 
 - Add additional commands for services 
-- Functionality to up all services at once
 
 ### Reference
 
