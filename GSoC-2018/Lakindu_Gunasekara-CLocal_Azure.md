@@ -1,9 +1,12 @@
-# CLocal Azure
+# Project Name
+
+CLocal-Azure
 
 ## Student Info
 
 * Name - Lakindu Gunasekara
 * Email - lakindu1995@gmail.com
+* University - Informatics Institute of Technology, Sri Lanka
 * GitHub profile - https://github.com/lakindu95
 * LinkedIn profile - https://www.linkedin.com/in/lakindu-gunasekara
 
