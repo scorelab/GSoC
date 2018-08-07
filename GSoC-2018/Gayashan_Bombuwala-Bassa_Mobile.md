@@ -25,7 +25,7 @@ Bassa is automated download queue for the enterprise to take the best use of the
 
 ### [Project Wiki](https://github.com/gayashanbc/Bassa-mobile/wiki)
 
-### [GSoC Blog](https://medium.com/@gayashanbc)
+### [GSoC Blog](https://medium.com/@gayashanbc/gsoc-2018-summary-b628da48659)
 
 ### Work Summary
 - Implement Sign-In functionality
