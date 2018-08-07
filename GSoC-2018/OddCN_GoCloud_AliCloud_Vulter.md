@@ -22,9 +22,9 @@ GoCloud is a standard library for Go that abstracts away differences among multi
 
 ### Project Demo Video
 
-[Ali-cloud](https://www.youtube.com/playlist?list=PLcDQypWNHCeiym0jmezozjQhEbe84oh-q)
+[Ali-cloud tutorial videos](https://www.youtube.com/playlist?list=PLcDQypWNHCeiym0jmezozjQhEbe84oh-q)
 
-[Vultr](https://www.youtube.com/playlist?list=PLcDQypWNHCeiXMQZBmfIKTeYTWYUdWVwj)
+[Vultr tutorial videos](https://www.youtube.com/playlist?list=PLcDQypWNHCeiXMQZBmfIKTeYTWYUdWVwj)
 
 ### [Project Wiki](https://github.com/cloudlibz/gocloud/wiki)
 
