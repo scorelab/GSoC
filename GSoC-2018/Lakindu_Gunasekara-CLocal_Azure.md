@@ -22,7 +22,7 @@ CLocal Azure is an local emulator to test or mock the Azure Services without dep
 
 ### [GitHub Personal Repo](http://github.com/lakindu95/clocal-azure)
 
-### [Commits during GSoC 2018](https://github.com/cloudlibz/clocal-azure/commits/master)
+### [Commits during GSoC 2018](https://github.com/cloudlibz/clocal-azure/pull/2)
 
 ### [Project Demo Video](https://www.youtube.com/playlist?list=PLbd4A5tkijhDGRQp6BcrwGhRvS0TU8zhQ)
 
@@ -54,7 +54,7 @@ For the initial stage I have covered the following services.
 3. Azure Cosmos DB (cosmosdb init, cosmosdb start, cosmosdb stop)
 4. API App Service (api start)
 
-And added a script to run all services at once (sh compose.sh)
+- Added a script to run all services at once (sh compose.sh)
 
 ### What left
 
