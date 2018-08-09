@@ -12,7 +12,7 @@
 
 ### [GitHub Personal Repo](http://github.com/repo)
 
-### [Commits during GSoC 2017](http://github.com/commits)
+### [Commits during GSoC 2018](http://github.com/commits)
 
 ### [Project Demo Video](http://LinkToDemoVideo)
 
