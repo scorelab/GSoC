@@ -26,7 +26,7 @@ Bassa is an automated download queue for enterprises use. If a software can down
 
 ### [Commits during GSoC 2018](https://github.com/scorelab/Bassa/pulls?q=is%3Apr+author%3Avivonk+label%3AGSoC-2018+is%3Aopen)
 
-### [Project Demo Video](http://LinkToDemoVideo)
+### [Project Demo Video](https://drive.google.com/open?id=1S64628FH_pBS5XJjjmXy5dx99qR7xbda)
 
 ### [Project Wiki](https://github.com/scorelab/Bassa/blob/master/README.md)
 
@@ -35,9 +35,21 @@ I have updated my work details on common community group so that everyone be upd
 Probably could be found on keyword search `Nirmal Bassa`
 
 ### Work Summary
+Implementing Download feature was really exciting because it have many edge cases that you have to think for and have to make a solution for all the cases. So here are my things that I have implemented so far : 
+* Download feature for single/multiple files where the files are compressed in a single file. [#464](https://github.com/scorelab/Bassa/pull/464), [#465](https://github.com/scorelab/Bassa/pull/465), [#472](https://github.com/scorelab/Bassa/pull/472)
+* Files could be shared with a single link and link could be generated from front end it self. Whenever someone create a sharing link, it will compress those files in a single zip file and save it to tmp folder and when user hit that link, file will be sent. [#479](https://github.com/scorelab/Bassa/pull/479)
+* Created a grid view of downloaded files on front end side for better look [#463](https://github.com/scorelab/Bassa/pull/463)
+* Separated declaration of endpoints and it's logic, basically mappings are declared in a single module where logical parts are in different modules. [#475](https://github.com/scorelab/Bassa/pull/475)
+
+After this work, Bassa is full with it's basic purpose which means now user can download the files which he/she put in queue to download. I have got many new skills like debugging, code styles, compression and much more.
+
 
 
 ### What Covered
+1. Download feature
+2. Sharing feature
+3. Refactoring codebase
+4. UI changes
 
 ### What left
 * Update Bassa documentation
