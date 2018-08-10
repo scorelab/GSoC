@@ -20,7 +20,7 @@ EtherBeat is an Ethereum blockchain analyzer. It provides a set of functions whi
 
 ### [GitHub Personal Repo](https://github.com/prabushitha/EtherBeat)
 
-### [Commits during GSoC 2017](https://github.com/prabushitha/EtherBeat/commits/parser)
+### [Commits during GSoC 2018](https://github.com/prabushitha/EtherBeat/commits/parser)
 
 ### [Project Demo Video](http://LinkToDemoVideo)
 
