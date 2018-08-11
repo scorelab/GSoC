@@ -20,7 +20,7 @@ Soundcom is an open source android based app focussing on near field communicati
 
 ### [GitHub Personal Repo](http://github.com/singhalpiyush12/soundcom)
 
-### [Commits during GSoC 2017](https://github.com/singhalpiyush12/soundcom/commits/master)
+### [Commits during GSoC 2018](https://github.com/singhalpiyush12/soundcom/commits/master)
 
 ### [Project Demo Video](https://drive.google.com/file/d/1QSEJx1tP35t-_ZtvqYZ-KsA3ZNMTRbLB/view?usp=sharing)
 
