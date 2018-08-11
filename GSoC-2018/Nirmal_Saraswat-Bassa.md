@@ -28,7 +28,7 @@ Bassa is an automated download queue for enterprises use. If a software can down
 
 ### [Project Demo Video](https://drive.google.com/open?id=1S64628FH_pBS5XJjjmXy5dx99qR7xbda)
 
-### [Project Wiki](https://github.com/scorelab/Bassa/blob/master/README.md)
+### [Project Wiki](https://github.com/scorelab/Bassa/wiki)
 
 ### [GSoC Blog](https://groups.google.com/forum/#!forum/score-community)
 I have updated my work details on common community group so that everyone be updated that what's going with the Bassa
