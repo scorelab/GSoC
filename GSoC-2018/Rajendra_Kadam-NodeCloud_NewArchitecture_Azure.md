@@ -22,7 +22,7 @@ Rewrite core architecture so addition of new cloud providers is easy. Follow plu
 
 ### [Commits during GSoC 2018](https://github.com/cloudlibz/nodecloud-azure-plugin/commits?author=raju249)
 
-### [Project Demo Video](http://LinkToDemoVideo)
+### Project Demo Video
 
 ### [Project Wiki](https://github.com/cloudlibz/nodecloud-core/blob/master/README.md)
 
