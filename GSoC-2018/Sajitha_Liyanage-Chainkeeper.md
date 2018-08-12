@@ -46,7 +46,6 @@ ChainKeeper is a web application to explore and analyze block-chain data for use
 - Can view block data using block hash
 - Can view tx data using tx hash
 - Can get data from REST endpoints
-- Can tag transactions
 - Can connect BlockSci with ChainKeeper
 - Chain-Kleaner - Taint Analysis platform
 
