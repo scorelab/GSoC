@@ -19,7 +19,7 @@ Stackle is a web communication portal aimed at providing Open Source organizatio
 
 ### [GitHub Personal Repo](https://github.com/shivamarora96/stackle)
 
-### [Commits during GSoC 2018](https://github.com/scorelab/Stackle/commits/master)
+### [Commits during GSoC 2018](https://github.com/scorelab/Stackle/commits?author=shivamarora96)
 
 ### [Project Wiki](https://github.com/scorelab/Stackle/wiki)
 
@@ -41,6 +41,7 @@ During GSOC-2018, Structuring of routes has been implemented. Along With this, a
 * Implemented Comment and Reply Model from scratch.
 * Populating and connecting the relational Models and their respective REST-APIs JSON-data.
 * Testing of the API calls.
+* Beautify the code to improve readability.
 
 
 ### What left
