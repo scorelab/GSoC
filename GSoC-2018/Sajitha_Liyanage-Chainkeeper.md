@@ -15,19 +15,19 @@ ChainKeeper is a web application to explore and analyze block-chain data for use
 
 ### [GSoC Project Proposal](https://docs.google.com/document/d/10nTSVxTE8ZOjnqaSvFG-icPl-lSD1kT0YEA_UtN4I_I/edit?usp=sharing)
 
-### [GitHub Organization Repo]
+### GitHub Organization Repo
 - [ChainKeeper Repo](https://github.com/scorelab/ChainKeeper)  - Web based application to explore and analyze block-chain 
 - [ChainCleaner Repo](https://github.com/scorelab/chain-cleaner) - Sub feature of ChainKeeper for taint analysis of Bitcoin
 
 ### [GitHub Personal Repo](https://github.com/sajithaliyanage/ChainKeeper)
 
-### [Commits during GSoC 2018]
+### Commits during GSoC 2018
 - [ChainKeeper Repo](https://github.com/scorelab/ChainKeeper/commits?author=sajithaliyanage)
 - [ChainCleaner Repo](https://github.com/scorelab/chain-cleaner/commits?author=sajithaliyanage)
 
 ### [Project Wiki](https://github.com/sajithaliyanage/ChainKeeper/wiki)
 
-### [GSoC Blog]
+### GSoC Blog
 - [GSoC 2018 Journey with SCoRe Lab — EPI 1](https://medium.com/@sajithaliyanage/gsoc-2018-journey-with-score-lab-part-1-b6a71c046dd7)
 - [GSoC 2018 Journey with SCoRe Lab — EPI 2](https://medium.com/@sajithaliyanage/gsoc-2018-journey-with-score-lab-epi-2-d6cbd5371526)
 - [GSoC 2018 Journey with SCoRe Lab — EPI 3](https://medium.com/@sajithaliyanage/gsoc-2018-journey-with-score-lab-epi-3-ce0e87f94793)
