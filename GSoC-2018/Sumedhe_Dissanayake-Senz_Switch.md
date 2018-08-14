@@ -23,7 +23,7 @@ SenZ Switch is a high-speed message passing system which can be used to do the c
 
 ### [Commits during GSoC 2018](https://github.com/scorelab/senz/commits?author=sumedhe)
 
-### [Project Demo Video](http://LinkToDemoVideo)
+### [Project Demo Video](https://youtu.be/QXyGK5AwvFI)
 
 ### [Project Wiki](https://github.com/sumedhe/senz/wiki)
 
@@ -35,7 +35,7 @@ For GSoC 2018, I have implemented the main functions of the SenZ switch using Sc
 Things covered in GSoC coding period
 - Senz message parser to parse message queries
 - TCP Socket
-- Akka models for device connections and socket
+- Akka models for device sessions and the socket
 - RSA Key Generation module
 - Session manager to handle connected devices
 - Database module to use mongodb
@@ -54,3 +54,4 @@ Things covered in GSoC coding period
 2. [Scala Documentation](https://docs.scala-lang.org)
 3. [Modern Functional Programming and Actors With Scala and Akka](https://pdfs.semanticscholar.org/1f1e/398b39a77681e0c83feb12e2bcdace133728.pdf)
 4. [Azure IoTHubReact](https://azure.github.io/toketi-iothubreact)
+5. [MySensors.info](http://mysensors.info/senz.html)
