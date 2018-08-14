@@ -38,7 +38,6 @@ Continuing the existing code base for the react-ui and adding more components an
  - Implemented the View Project UI
  - Configured API calls for view a project
  - Implemented a toast service and component for the whole project
- - Implemented a login page UI
  - Refactoring the code base
 
 
