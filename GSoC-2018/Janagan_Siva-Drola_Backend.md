@@ -21,7 +21,7 @@ Redesign and Implement the DroLa system as a real time database based system ins
 
 ### [GitHub Personal Repo](https://github.com/janagan1993/drola/tree/drola_generalized)
 
-### [Commits during GSoC 2017](https://github.com/scorelab/drola/commits/general-develop)
+### [Commits during GSoC 2018](https://github.com/scorelab/drola/commits/general-develop)
 
 <!--### [Project Demo Video](http://LinkToDemoVideo)-->
 
