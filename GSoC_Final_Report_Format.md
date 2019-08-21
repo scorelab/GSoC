@@ -55,8 +55,10 @@ Created tutorials.
 		- Datastore
 		- Google Cloud DNS
 		- Google Cloud Storage
-  3. Azure
-   - Virtual Machine
+
+	3. Azure
+		- Virtual Machine
+
 
 - Added unit tests for developed cli.
 - Added documentation for developed cli.
