@@ -24,7 +24,7 @@ In Sri Lanka, the transportation tracking problem is a huge challenge. The passe
 
 ### [GitHub Personal Repo](https://github.com/shehand/TrackPal)
 
-### [Commits during GSoC 2018](https://github.com/scorelab/TrackPal/commits?author=shehand)
+### [Commits during GSoC 2019](https://github.com/scorelab/TrackPal/commits?author=shehand)
 
 ### [Project Demo Video](https://drive.google.com/open?id=10HCShntPdY99JS23T1mV3rTgBzv-KU5q)
 
