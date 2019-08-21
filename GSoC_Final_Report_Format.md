@@ -5,7 +5,7 @@
 * Name - Tharaka Romesh Hewavitharana
 * Email - tharakaromesh@gmail.com
 * GitHub profile - https://github.com/TRomesh
-* Twitter - @DTRomesh
+* Twitter - [@DTRomesh](https://twitter.com/DTRomesh)
 
 ### Project Abstract
 
