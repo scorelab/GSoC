@@ -1,5 +1,4 @@
-# Project Name
-TensorMap
+# TensorMap
 ## Student Info
 * Name: Durgesh Kumar
 * Email: dkumar@ce.iitr.ac.in
