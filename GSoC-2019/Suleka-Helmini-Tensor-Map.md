@@ -12,7 +12,7 @@ TensorMap
 
 ### Project Abstract
 
-Tensormap is a web application that enables users to create deep learning models using a graphical interface without having to know how to code. We hope that this will help as a stepping stone to individuals who are starting to explore the deep learning paradigm.
+TensorMap is a web application that will allow the users to create machine learning algorithms visually. TensorMap supports reverse engineering of the visual layout to a Tensorflow implementation in Python. The goal of the project is to let beginners play with machine learning algorithms in Tensorflow without less background knowledge about the library. 
 
 ### [GSoC Project Page](https://summerofcode.withgoogle.com/projects/?fbclid=IwAR25OLx_wNZgAi9Sleg4VJl502SEfXnWbFg7WEnOpm9Ddy6y7--rYVFPiCc#4742286959706112)
 
@@ -34,20 +34,67 @@ Tensormap is a web application that enables users to create deep learning models
 * [PR 4](https://github.com/scorelab/TensorMap/pull/34)
 * [PR 5](https://github.com/scorelab/TensorMap/pull/35)
 
+
 ### Work Summary
 
-The basic workflow of the application was implemented which includes uploading a dataset, doing manipulations on dataset, getting auto generated code, executing model and visualize progress and finally getting resultant metric values.
+For GSoC 2019, I mainly worked on developing the Flask backend for TensorMap and I also worked on adding logic and UI to several frontend components.
 
+### What was Covered
 
-### What Covered
-
-For the GSoC 2019, I've worked on creating the flask backend for the application and several react frontend components.
- - Refactored the flask server to make it more scalable and more consistent
+Backend 
+ * Setup intial backend architecture
+ * Implemented backend routes to handle auto generating of python Tensorflow (Keras) code according to the created model to:
+   * Initialize environment for code auto generation according to experiment type (Binary Classification, Multiclass Classification, Regression)
+   * Add new keras layer
+   * Edit layer
+   * Delete layer
+   * Specify experiments configurations (number of epoch, loss function and etc)
+   * Specify pre-processing information (features, labels, train and test splits and etc)
+   * Download auto generated code file
+   * Write validation for experiment type and model specific information
+   * Remove initialized environment information
+ * Implement database structure for application
+ * Implement backend routes to handle pre-processing of data:
+   * Upload CSV data
+   * Render CSV data
+   * Perform CSV manipulations:
+     * Add data row
+     * Edit data row
+     * Delete data row
+     * Delete column
+   * Specify features, labels and train percentage for experiment
+   * Download edited CSV
+ * Implement backend route to execute created model:
+   * Create keras compatible JSON to genrate Keras model from recived layer informaation
+   * Provide progress of training for each epoch
+   * Provide resultant metric values according to experiment type 
+ 
+ Frontend
+  * Implement logic and user interface for uploading data CSV
+  * Implementing logic and user interface for visualizing the uploaded data and let users perform manipulations on data:
+     * Add data row
+     * Edit data row
+     * Delete data row
+     * Delete column
+     * Sort column
+     * Filter column
+     * Search for data in table 
  
 
-### What left
+### What is left
 
+* Testing
+* Improving Documentation
 
+### Project Demo
+
+As mentioned before, I mainly worked on the backend of the application thus, I have only included some screenshots of the frontend components I implemeted. 
+
+Add data view
+![](/relative/path/to/img.jpg?raw=true "Optional Title")
+
+Visualize data view
+![](/relative/path/to/img.jpg?raw=true "Optional Title")
 
 ### Reference
 
@@ -55,3 +102,4 @@ For the GSoC 2019, I've worked on creating the flask backend for the application
 * [React JS](https://reactjs.org)
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 * [material-table](https://material-table.com/#/)
+* [SQLAlchemy](https://www.sqlalchemy.org)
