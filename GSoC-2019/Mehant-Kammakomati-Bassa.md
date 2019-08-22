@@ -10,7 +10,7 @@
 ### Project Abstract
 Bassa is an automated download queue for communities. It is an n-tier application which needs extra layers of code to make it ready for production use. Bassa has been completely containerized using docker and with docker-compose integration it made setting up and usage for developers 90% easier than before. Further these containers can be deployed over a Kubernetes cluster giving a powerful orchestration capability. 
 
-### [GSoC Project Page](tobefilled)
+### [GSoC Project Page](https://summerofcode.withgoogle.com/projects/#6393245309861888)
 
 ### [GSoC Project Proposal](https://drive.google.com/file/d/1kG25acRkI59siPG-TK9Fq86HIQgJpTzE/view?usp=sharing)
 
