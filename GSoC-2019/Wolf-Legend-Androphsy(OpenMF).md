@@ -1,7 +1,10 @@
-# Project Name
+# OpenMF - Redesign Androphsy(OpenMF) backend in Python
 
 ## Student Info
-
+- Name - Harish Ghunawat
+- Email - harish.ghunawat1@gmail.com
+- University - IIT Roorkee
+- Github Profile - [Wolf-Legend](https://github.com/wolf-legend)
 ### Project Abstract
 
 ### [GSoC Project Page](http://LinikToYourGSoCProjectPage)
