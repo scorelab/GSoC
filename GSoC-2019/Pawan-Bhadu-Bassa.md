@@ -20,7 +20,7 @@ Bassa is an automated download queue web-app. Bassa has been integrated with an 
 
 ### [Commits during GSoC 2019](https://github.com/scorelab/Bassa/pulls?q=is%3Apr+author%3Ademon-36+label%3AGSoC-2019)
 
-### [Project Demo Video](http://LinkToDemoVideo)
+### [Project Demo Video](https://drive.google.com/file/d/12jMXkuwwNm22M4EdkRNmEChoyIiPRf_o/view?usp=sharing)
 
 ### [Project Wiki](https://github.com/scorelab/Bassa/wiki)
 
