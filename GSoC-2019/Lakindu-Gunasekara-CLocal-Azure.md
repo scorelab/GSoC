@@ -12,7 +12,7 @@ CLocal-Azure
 
 ### Project Abstract
 
-CLocal Azure is an local emulator to test or mock the Azure Services without deploying into Azure Platform, and provide easiness for developer by reducing the cost. Our goal is to have all azure possible local services into one single project and provide easiness to run a whole azure project locally. Currently project supports azure functions, azure storage and azure cosmos db emulators to run locally. 
+CLocal Azure is an local emulator to test or mock the Azure Services without deploying into Azure Platform, and provide easiness for developer by reducing the cost. Our goal is to have all azure possible local services into one single project and provide easiness to run a whole azure project locally. Currently the project supports up to 8 services and 4 of them were written during the GSoC 2019 period.
 
 ### [GSoC Project Page](https://summerofcode.withgoogle.com/projects/#5495000714969088)
 
@@ -20,12 +20,13 @@ CLocal Azure is an local emulator to test or mock the Azure Services without dep
 
 ### [GitHub Organization Repo](https://github.com/cloudlibz/clocal-azure)
 
-### [GitHub Personal Repo](http://github.com/lakindu95/clocal-azure)
+### [GitHub Personal Repo](https://github.com/lakindu95/clocal-azure)
 
 ### Commits during GSoC 2019
 
-* [Pull Request 1](http://github.com/cloudlibz/clocal-azure/pull/56)
-* [Pull Request 2](http://github.com/cloudlibz/clocal-azure/pull/57)
+* [Pull Request 1](https://github.com/cloudlibz/clocal-azure/pull/56)
+* [Pull Request 2](https://github.com/cloudlibz/clocal-azure/pull/57)
+* [Pull Request 3](https://github.com/cloudlibz/clocal-azure/pull/58)
 
 ### [Project Demo Video](https://www.youtube.com/playlist?list=PLbd4A5tkijhDGRQp6BcrwGhRvS0TU8zhQ)
 
@@ -35,19 +36,22 @@ CLocal Azure is an local emulator to test or mock the Azure Services without dep
 
 ### Work Summary
 
-For the GSoC 2019, I have been working on adding more services to the project. And a new emulators has been created from scratch as well.
+During the period of 2019, I have been adding more services to CLocal Azure project. The added services are mentioned below and one of the services are written from scratch covering the basic functioanlities.
 
 Services added,
 - Azure CLI
 - Azure SQL Server
 - Azure KeyVault
-- API App Search (Built from scratch)
+- Azure Search (Built from scratch)
 
-To add value to the services above, a video demo series has been added to the clocal azure youtube playlist and weekly medium articles were written to give the updates of the progress.
+To add value to the services above, a video demo series has been added to the clocal azure youtube playlist and weekly medium articles were written to give the updates of the progress. For more information regarding the summary please see the link below.
+
+* [GSoC Summary](https://medium.com/@lakindu1995/gsoc-2019-summary-fbafcb351cdc)
+
 
 ### What Covered
 
-For the initial stage I have covered the following services. 
+For the GSoC period, I have covered the following services. 
 
 1. Azure CLI (cli start, cli stop)
 2. Azure SQL Server (sql start, sql stop)
@@ -58,7 +62,8 @@ For the initial stage I have covered the following services.
 
 ### What left
 
-- Add more services to emulate 
+- Add more services to emulate.
+- Add more features on Azure Search service.
 
 ### Reference
 
