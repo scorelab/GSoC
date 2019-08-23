@@ -51,9 +51,9 @@ A huge thanks to mentor @agentmilindu for their time and energy with the project
 
 ## What was done
 
-I worked on various areas of Dunner major ones including: Dunner Code, Dunner Cookbook, Release automation, Dunner GoCD Plugin and Documentation guides.
+I worked on various areas of Dunner major ones including: Dunner, Dunner Cookbook, Release automation, Dunner GoCD Plugin and Documentation guides.
 
-#### Dunner Core
+### Dunner
 
 * Feature to initialize a project with dunner from command-line
 * Implemented Dunner installation through packages as below for all OS/Platform and use Bintray to host some of these packages.
@@ -72,14 +72,14 @@ I worked on various areas of Dunner major ones including: Dunner Code, Dunner Co
 * Added colored ouput and better logging on terminal
 * Integrated with CodeCov and improved code coverage of Dunner
 
-#### [Dunner Cookbook](https://github.com/leopardslab/dunner-cookbook)
+### [Dunner Cookbook](https://github.com/leopardslab/dunner-cookbook)
 
 A collection of Dunner recipes, which can be used as templates during initialization of Dunner in a project.
 
 * Designed the structure of this repository so it can be used by Dunner core and by any external sources
 * Implemented recipes which can be used to develop, build, deploy and release Golang projects all inside Docker container
 
-#### [Dunner GoCD Plugin](https://github.com/leopardslab/dunner-gocd-plugin)
+### [Dunner GoCD Plugin](https://github.com/leopardslab/dunner-gocd-plugin)
 
 * Performed a feasiblity study and implemented Dunner GoCD Task Plugin for GoCD, an open-source CI/CD Server
 * Ability to create a Dunner task with all configurations like mounts, image, envs etc
@@ -87,18 +87,18 @@ A collection of Dunner recipes, which can be used as templates during initializa
 * Recognized in [GoCD Offical website](https://www.gocd.org/plugins/#task)
 * Release and [usage docs](https://github.com/leopardslab/dunner-gocd-plugin#dunner-gocd-plugin) of plugin along with a demo video
 
-#### CI/CD and Release Automation
+### CI/CD and Release Automation
 
 Having integrated with CI/CD tools, Dunner has every commit tested, merged and ready to release. Dunner releases are now automated completely! Starting from Github releases, dunner packages publishing to various external repositories like [Bintray](https://bintray.com/leopardslab), Snap, HomeBrew are all just a click work.
 Integrated with GoReleaser library for generation of distribution packages and shell scripts to publish some artifacts to Bintray.
 
-#### [Dunner Website](http://dunner.io)
+### [Dunner Website](http://dunner.io)
 
 * Chose a suitable Gatsby template to use for Dunner website
 * Implemented Dunner cookbook page to show all available recipes along with Dunner task file in markdown
 * Integrated with Travis CI and added usage docs
 
-#### Documentation
+### Documentation
 
 I believe having a great open source project comes from how easy it is to get started for the community via the
 project wall, lucid code, documentation and communication channels. I wrote various guides for Dunner and related repositories and made videos for certain usecases.
@@ -116,7 +116,7 @@ Related PRs: [PR #144](https://github.com/leopardslab/dunner/pull/144)
 
 * **Task Scheduling**: With ability to schedule tasks, Dunner can run docker tasks in background.
 * **Task Profiling**: Statistics on Dunner task execution can be useful to monitor for user.
-* **Event driven execution**: With events defined for tasks like `Step X Started`, `Image Pull Started`, `Task `Y` Completed`, it becomes easier for a reciever like Live Output in browser to listen these events and show results
+* **Event driven execution**: With events defined for tasks like `Step X Started`, `Image Pull Started`, `Task Y Completed`, it becomes easier for a reciever like Live Output in browser to listen these events and show results
 * **Notifications**: When run as daemon, notifications can be sent about execution status through various channels.
 
 ## References
