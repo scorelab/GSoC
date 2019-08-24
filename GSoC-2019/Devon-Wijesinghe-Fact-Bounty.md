@@ -16,7 +16,7 @@ The Fact Bounty project is intended to solve the issue of the spread of fake new
 
 ### [GSoC Project Page](https://summerofcode.withgoogle.com/projects/#6151883448647680)
 
-### [GSoC Project Proposal](https://storage.googleapis.com/summerofcode-prod.appspot.com/gsoc/core_project/doc/5072094512021504_1554807435_My_GSOC_Proposal.pdf?Expires=1566470340&GoogleAccessId=summerofcode-prod%40appspot.gserviceaccount.com&Signature=VspqDj0KPjA1Mw4QBjZUJCfexXGmMR7Z2nj%2FSQUBsA4CYCUdY9ezEEknIBQmMIoE7OXePe02eidcuhTfF6l8exB8e8dnt4QbV7dQ2rKGzdZvtj1abBd0nksuLpAXGPErUSrIYtvqv6DIw8%2B54U2Hj937fuhGhUC6osDMlc%2BkbXYZwHMdF43AUMlrUDlrDrQAXOy5m%2BCKHMOz40JLQfWLbK7m7uttLCIZGrQCrrAhTnIzlXbYyh0IcOqQNz0MtI%2B7LsNzdXGXMAKoZ3rXn4J5JHIdxAmYEd8IfnI%2BC72Q5MXLtmO0bk1QZ8KBSwyv79nLjn90SoaTJ7%2FGlbcgeOAE7w%3D%3D)
+### [GSoC Project Proposal](https://docs.google.com/document/d/1AOJtRl8ZouNxeXw5BhjtaG-Z09-8qjT0m3F3s29OjDY/edit?usp=sharing)
 
 ### [GitHub Organization Repo](https://github.com/scorelab/fact-Bounty)
 
