@@ -2,9 +2,8 @@
 OpenIoE - Implement User Interface for OpenIoE
 
 ## Student Info
-* Name - DE SILVA
+* Name - D.DE SILVA
 * Email - dande9304@gmail.com
-* University - RMIT
 * GitHub profile - https://github.com/dande9304
 
 ### Project Abstract
