@@ -22,9 +22,9 @@ Below is the list of tasks I completed for this project:
 
 ### [GSoC Project Proposal](https://docs.google.com/document/d/1NyjKDUtW6P5XD96WwCVZr_trpPAY3noAx_5_NcBi9AA/edit?usp=sharing)
 
-### [GitHub Organization Repo](https://github.com/scorelab)
+### [GitHub Organization Repo](https://github.com/scorelab/bassa)
 
-### [GitHub Personal Repo](http://github.com/scorelab/bassa)
+### [GitHub Personal Repo](http://github.com/singhrohan62/bassa)
 
 ### [Commits during GSoC 2018](https://github.com/scorelab/Bassa/commits/develop?author=singhrohan62)
 
