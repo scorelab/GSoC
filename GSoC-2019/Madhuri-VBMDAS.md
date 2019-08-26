@@ -10,7 +10,7 @@ The ultimate objective of this project is to develop an automated software syste
 
 ### [GSoC Project Page](https://summerofcode.withgoogle.com/projects/#6230572819546112)
 
-### [GSoC Project Proposal](https://storage.googleapis.com/summerofcode-prod.appspot.com/gsoc/core_project/doc/5973315217260544_1554818026_Vision_based_machine_drawing_analyzing_systemVBMDAS.pdf?Expires=1566806439&GoogleAccessId=summerofcode-prod%40appspot.gserviceaccount.com&Signature=JGgUf6ZHkLxM5K88RC6Zg8mmV%2FHzcmLq3BF1dQe66FELl1ovEtfd647m2%2Fx6TcNCwlAn0m3Z5vlbsQFS5LvLEvRmMuGLeoNPfz%2BmZbDNXASkbZ08%2FblqHeFPmpJvQ3cDeg7YNENvbBCnMg6va089%2B0%2FiHYvnqv3LfCXAFqoq3riIR9TWWFB9sXuh9zBspUBCWwkW46rADMHpATu1q03V14FVuzWrbD%2B3eGiamj9Tv0cKcIP7%2BsrAkFgLvSsfuGhHIF%2FcAORPSgu1PRSgqPfLlY3OTAqg39dQb0%2FyRKQcDtKav3tGb5cDTWgjlhWAyX3SSgJe5aIdkeyHxfPmI6eL%2Fw%3D%3D)
+### [GSoC Project Proposal](https://docs.google.com/document/d/e/2PACX-1vTsQWAEQ_3Dy2ctLuV5D3AzwAAuF-_m7D2sscE1comOryg5FdMmb7mHBO7bJYXkcICPcnq6Vdh77iME/pub)
 
 ### [GitHub Organization Repo](https://github.com/scorelab/VBMDAS)
 
