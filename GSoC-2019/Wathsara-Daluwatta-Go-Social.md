@@ -20,7 +20,7 @@ People can start by signup to the application using Facebook or Google. When som
 
 ### [GitHub Personal Repo](https://github.com/Wathsara/AnimalRescue)
 
-### [Commits during GSoC 2018](https://github.com/scorelab/AnimalRescue/commits/master)
+### [Commits during GSoC 2019](https://github.com/scorelab/AnimalRescue/commits/master)
 
 ### [Project Demo Video](https://drive.google.com/file/d/1Efb4CDYzobjaBgs0-1Hy_83IfK63Ib84/view?usp=sharing)
 
