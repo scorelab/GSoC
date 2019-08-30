@@ -17,7 +17,7 @@ ChainKeeper Analysis Library is a platform where user can analyse the blockchain
 
 ### [GitHub Personal Repo](https://github.com/poornimarangoda/ChainKeeper)
 
-### [Commits during GSoC 2018](https://github.com/scorelab/ChainKeeper/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+author%3Apoornimarangoda)
+### [Commits during GSoC 2019](https://github.com/scorelab/ChainKeeper/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+author%3Apoornimarangoda)
 
 ### [Project Wiki](https://github.com/scorelab/ChainKeeper/tree/master/analysis-library/gdoc)
 
