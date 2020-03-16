@@ -67,9 +67,9 @@ Two cloud services - DigitalOcean & AliCloud, were successfully added to Nodeclo
   * DigitalOcean - Mock Level SDK
 
 ### What left
-  * A little bit of unit testing for AliCloud
-  * Pushing a stable AliCloud source to GitHub
-  * User-friendly documentation for the beginners
+  * <del> A little bit of unit testing for AliCloud
+  * <del> Pushing a stable AliCloud source to GitHub
+  * <del> User-friendly documentation for the beginners
 
 ### After GSoC
 There are several exciting features and integration-worthy modules that I came across while scraping the respective SDKs. These features are of absolute importance in isolation and would be a great addition to the respective plugins. Although, due to strict and confined schedule, I could not have integrated them while staying on track with the schedule at the same time. So I would love to stay in touch with Nodecloud and become an active contributor after GSoC ends. I aim to slowly and steadily add these modules to the respective plugins one-by-one. I also wish to become the maintainer of these plugins and publish them to npm.
