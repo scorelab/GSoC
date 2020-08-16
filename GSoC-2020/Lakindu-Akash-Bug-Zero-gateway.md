@@ -3,26 +3,26 @@
 ## Student Info
 
 * Name - Lakindu
-* Email - 
-* GitHub Profile - 
-* Medium - 
-* Twitter - []()
+* Email - lakinduakash@gmail.com
+* GitHub Profile - https://github.com/lakinduakash
+* Medium - https://medium.com/@lakinduakash
+* Twitter - [@lakinduakash](https://twitter.com/lakinduakash)
 
 ### Project Abstract
 
-### [GSoC Project Page](https://summerofcode.withgoogle.com/projects/)
+### [GSoC Project Page](https://summerofcode.withgoogle.com/projects/#5072594765611008)
 
 ### [GSoC Project Proposal]()
 
-### [GitHub Organization Repo]()
+### [GitHub Organization Repo](https://github.com/bug-zero/bugzero-gateway)
 
-### [GitHub Personal Repo]()
+### [GitHub Personal Repo](https://github.com/lakinduakash/bugzero-gateway)
 
-### [Commits during GSoC 2020]()
+### [Commits during GSoC 2020](https://github.com/bug-zero/bugzero-gateway/commits/master)
 
-### [Project Demo Video]()
+### [Project Demo Video](https://youtu.be/yVDkD6LIkBI)
 
-### [GSoC Blog]()
+### [GSoC Blog](https://medium.com/scorelab/gsoc-with-scorelab-2020-85bb68602183)
 
 ### Work Summary
 
