@@ -1,4 +1,4 @@
-# ChainKeeper - Optimized Blockchain Analytical Interface
+# ChainKeeper-Analytics - Optimized Blockchain Analytical Interface
 
 ## Student Info
 
@@ -11,16 +11,16 @@
 ### Project Abstract
 ChainKeeper analytic is a bitcoin analysis project for identifying mixing transactions/wallets. Chain keeper analytics made to gather data from truested sources and model them into a graph then run some graph-based machine learning analytics like Node2Vec, Path2Vec, Link predection, etc.  The ultimate goal of the Chainkeeprt analytic is to build an unsupervised graph-based mixing network detecting analytic engine and deploy it with the SCoRe Lab Chain keeper project. 
 
-### [GSoC Project Page](https://summerofcode.withgoogle.com/organizations/6706542746796032/)
-
-### [GSoC Project Proposal](https://drive.google.com/file/d/1OCVJhKlWM0bDbK9efICEh0gBrs9C5NQS/view?usp=sharing)
-
-### [GitHub Organization Repo](https://github.com/scorelab/ChainKeeper-Analytics)
-
-### [GitHub Personal Repo](https://github.com/Ammoniya/ChainKeeper-Analytics)
-
-### [Commits during GSoC 2020](https://github.com/Ammoniya/ChainKeeper-Analytics/commits/master)
-
+### GSoC Project Page
+* [GSoC 2020 - SCoRe Lab ](https://summerofcode.withgoogle.com/organizations/6706542746796032/)
+### GSoC Project Proposal
+* [ChainKeeper-Analytics project proposal](https://drive.google.com/file/d/1OCVJhKlWM0bDbK9efICEh0gBrs9C5NQS/view?usp=sharing)
+### GitHub Organization Repo
+* [scorelab/ChainKeeper-Analytics](https://github.com/scorelab/ChainKeeper-Analytics)
+### GitHub Personal Repo
+* [Ammoniya/ChainKeeper-Analytics](https://github.com/Ammoniya/ChainKeeper-Analytics)
+### Commits during GSoC 2020
+* [Ammoniya/ChainKeeper-Analytics/commits/](https://github.com/Ammoniya/ChainKeeper-Analytics/commits/master)
 ### [Project Demo Video]()
 
 ### GSoC Blog(s)
