@@ -28,14 +28,12 @@ ChainKeeper analytic is a bitcoin analysis project for identifying mixing transa
 [Walletexplorer](https://medium.com/scorelab/walletexplorer-e3d4a7adc4c0)
 
 ### Work Summary
-Chainkeepr analytic is a bitcoin mixing network detecting engine. Since it was the start of the project, the major requirements were to identify some trusted data sources, gather some required amount of data and conduct some graph-based data analysis on top of the data. The project had two phases. One is to gather the data and other one is to build the model. During the GSoC time period, I have discovered some trusted data sources, coded data crawlers, automated crawlers, modeled collected data into a graph, conducted an analysis on top of the modeled graph and built the primary analysis model. 
-<br><br><br>
-![Untitled Diagram (3)](https://user-images.githubusercontent.com/20130001/90658529-4e34a700-e261-11ea-93bf-b53f0d906350.png)
+Chainkeepr analytic is a bitcoin mixing network detecting engine. Since it was the start of the project, the major requirements were to identify some trusted data sources, gather some required amount of data and conduct some graph-based data analysis on top of the data. The project had two phases. One is to gather the data and other one is to build the model. During the GSoC time period, I have discovered some trusted data sources, coded data crawlers, automated crawlers, modeled collected data into a graph, conducted an analysis on top of the modeled graph and built the primary analysis [model.](https://user-images.githubusercontent.com/20130001/90658529-4e34a700-e261-11ea-93bf-b53f0d906350.png)
 <br><br><br>
 ### What Covered
 Follow shows the summary of my contribution to the chain keeper analytic during GSoC 2020.
 ##### Data gathering crawlers
-* Created bitcoinabuse and walletexplorer d ata gathering crawlers. [[PR-2]](https://github.com/scorelab/ChainKeeper-Analytics/pull/2)
+* Created bitcoinabuse and walletexplorer data gathering crawlers. [[PR-2]](https://github.com/scorelab/ChainKeeper-Analytics/pull/2)
 * Optimized and debugged bitcoinabuse and walletexplorer and created the walletexplorer scan crawler. [[PR-3]](https://github.com/scorelab/ChainKeeper-Analytics/pull/3)
 * Containerized BlockSci tool. [[PR-4]](https://github.com/scorelab/ChainKeeper-Analytics/pull/4)
 ##### Data Analysis
@@ -47,5 +45,15 @@ Follow shows the summary of my contribution to the chain keeper analytic during 
 * Clustering graph nodes.  [[PR-12]](https://github.com/scorelab/ChainKeeper-Analytics/pull/12)
 
 ### What left
+Following remaining works are not a part of my proposal but I see those as some good potentials to the successor this project.
+<br><br>
+* Collect more trusted data sources and create data gathering crawlers to those sources. 
+* Scale the graph (probably using a graph data based like arango DB or neo4j).
+* Validate existing models.
+* Build more models and validate them (Figure out retain period, noise tolerance, accuracy, etc).
+* Integrate to [SCoRe Lab ChainKeepr](https://github.com/scorelab/ChainKeeper) project.
 
 ### Reference
+* BlockSci- A high-performance tool for blockchain science and exploration [BlockSci](https://github.com/citp/BlockSci)
+* Walletexplorer - Bitcoin block explorer with address grouping and wallet labeling [walletexplorer](https://www.walletexplorer.com/)
+* Bitcoinabuse - Tracking bitcoin addresses used by ransomware, blackmailers, fraudsters, etc. [bitcoinabuse](https://www.bitcoinabuse.com/)
