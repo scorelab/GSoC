@@ -9,7 +9,7 @@
 * Twitter - https://twitter.com/deravindus
 
 ### Project Abstract
-ChainKeeper analytic is a bitcoin analysis project for identifying mixing transactions/wallets. Chain keeper analytics made to gather data from truested sources and model them into a graph then run some graph-based machine learning analytics like Node2Vec, Path2Vec, Link predection, etc.  The ultimate goal of the Chainkeeprt analytic is to build an unsupervised graph-based mixing network detecting analytic engine and deploy it with the SCoRe Lab Chain keeper project. 
+ChainKeeper analytic is a bitcoin analysis project for identifying mixing transactions/wallets. Chain keeper analytics is made to gather data from truested sources and model them into a graph, then run some graph-based machine learning analytics like Node2Vec, Path2Vec, Link predection, etc.  The ultimate goal of the Chainkeeprt analytic is to build an unsupervised graph-based mixing network detecting analytic engine and deploy it with the SCoRe Lab Chain keeper project. 
 
 ### GSoC Project Page
 * [GSoC 2020 - SCoRe Lab ](https://summerofcode.withgoogle.com/organizations/6706542746796032/)
@@ -21,7 +21,9 @@ ChainKeeper analytic is a bitcoin analysis project for identifying mixing transa
 * [Ammoniya/ChainKeeper-Analytics](https://github.com/Ammoniya/ChainKeeper-Analytics)
 ### Commits during GSoC 2020
 * [Ammoniya/ChainKeeper-Analytics/commits/](https://github.com/Ammoniya/ChainKeeper-Analytics/commits/master)
-### [Project Demo Video]()
+### Project Demo Video
+* The following video shows some examples of developed crawlers and how crawlers work. - [Video1 Link](https://drive.google.com/file/d/1EnlyJRoeZ3iqRRIdIwfQIDtu7VT4ZA3b/view?usp=sharing) <br>
+* The following video shows some examples of data analysis and model built  (link prediction, node2vec, path2vec, clustering, etc). - [Video2 Link](https://drive.google.com/file/d/1_WvANMyL7A1YUQ1Z0D3DdsBxF9qQFNvg/view?usp=sharing) <br>
 
 ### GSoC Blog(s)
 [Bitcoin Hunting with SCoRe Lab GSOC 2020](https://medium.com/scorelab/bitcoin-hunting-with-score-lab-gsoc-2020-73037a572f3c) <br>
@@ -45,7 +47,7 @@ Follow shows the summary of my contribution to the chain keeper analytic during 
 * Clustering graph nodes.  [[PR-12]](https://github.com/scorelab/ChainKeeper-Analytics/pull/12)
 
 ### What left
-Following remaining works are not a part of my proposal but I see those as some good potentials to the successor this project.
+Following remaining works are not a part of my proposal but I see good potentials in them for a successor this project.
 <br><br>
 * Collect more trusted data sources and create data gathering crawlers to those sources. 
 * Scale the graph (probably using a graph data based like arango DB or neo4j).
@@ -54,6 +56,6 @@ Following remaining works are not a part of my proposal but I see those as some 
 * Integrate to [SCoRe Lab ChainKeepr](https://github.com/scorelab/ChainKeeper) project.
 
 ### Reference
-* BlockSci- A high-performance tool for blockchain science and exploration [BlockSci](https://github.com/citp/BlockSci)
-* Walletexplorer - Bitcoin block explorer with address grouping and wallet labeling [walletexplorer](https://www.walletexplorer.com/)
-* Bitcoinabuse - Tracking bitcoin addresses used by ransomware, blackmailers, fraudsters, etc. [bitcoinabuse](https://www.bitcoinabuse.com/)
+* BlockSci- A high-performance tool for blockchain science and exploration [[BlockSci]](https://github.com/citp/BlockSci)
+* Walletexplorer - Bitcoin block explorer with address grouping and wallet labeling [[walletexplorer]](https://www.walletexplorer.com/)
+* Bitcoinabuse - Tracking bitcoin addresses used by ransomware, blackmailers, fraudsters, etc. [[bitcoinabuse]](https://www.bitcoinabuse.com/)
