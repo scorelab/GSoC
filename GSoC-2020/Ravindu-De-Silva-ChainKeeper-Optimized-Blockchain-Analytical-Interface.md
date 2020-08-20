@@ -22,8 +22,8 @@ ChainKeeper analytic is a bitcoin analysis project for identifying mixing transa
 ### Commits during GSoC 2020
 * [Ammoniya/ChainKeeper-Analytics/commits/](https://github.com/Ammoniya/ChainKeeper-Analytics/commits/master)
 ### Project Demo Video
-* The following video shows some examples of developed crawlers and how crawlers work. - [Video1 Link](https://drive.google.com/file/d/1EnlyJRoeZ3iqRRIdIwfQIDtu7VT4ZA3b/view?usp=sharing) <br>
-* The following video shows some examples of data analysis and model built  (link prediction, node2vec, path2vec, clustering, etc). - [Video2 Link](https://drive.google.com/file/d/1_WvANMyL7A1YUQ1Z0D3DdsBxF9qQFNvg/view?usp=sharing) <br>
+* The following video shows, how crawlers work. - [Video1 Link](https://drive.google.com/file/d/1EnlyJRoeZ3iqRRIdIwfQIDtu7VT4ZA3b/view?usp=sharing) <br>
+* The following video shows, data analysis and model built  (link prediction, node2vec, path2vec, clustering, etc). - [Video2 Link](https://drive.google.com/file/d/1_WvANMyL7A1YUQ1Z0D3DdsBxF9qQFNvg/view?usp=sharing) <br>
 
 ### GSoC Blog(s)
 [Bitcoin Hunting with SCoRe Lab GSOC 2020](https://medium.com/scorelab/bitcoin-hunting-with-score-lab-gsoc-2020-73037a572f3c) <br>
@@ -52,8 +52,7 @@ Following remaining works are not a part of my proposal but I see good potential
 * Collect more trusted data sources and create data gathering crawlers to those sources. 
 * Scale the graph (probably using a graph data based like arango DB or neo4j).
 * Validate existing models.
-* Build more models and validate them (Figure out retain period, noise tolerance, accuracy, etc).
-* Integrate to [SCoRe Lab ChainKeepr](https://github.com/scorelab/ChainKeeper) project.
+* Build more models and validate them (Figure out retrain period, noise tolerance, accuracy, etc).
 
 ### Reference
 * BlockSci- A high-performance tool for blockchain science and exploration [[BlockSci]](https://github.com/citp/BlockSci)
