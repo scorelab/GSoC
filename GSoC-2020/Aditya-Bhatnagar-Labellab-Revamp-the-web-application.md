@@ -26,7 +26,7 @@ LabelLab is an image labeling tool for a researcher. It was started with a visio
 
 ### Work Summary
 This is a comprehensive list of the milestones that were achieved for Revamping the Backend-
-### Milestone 1- (Issue #283)
+### Milestone 1-
 - [x] Finalize the idea and structure of the project.
 - [x] Set up basic layout of the backend server Flask and integrate the database.
 - [x] Start writing new models.
@@ -34,7 +34,7 @@ This is a comprehensive list of the milestones that were achieved for Revamping 
 - [x] Implement user token as well as OAuth2 based authentication with Google,  Facebook, GitHub.
 - [x] Start writing tests for existing frontend in react and redux and for the backend.
 - [x] Complete documentation for the labeller.
-### Milestone 2- (Issue #283)
+### Milestone 2-
 - [x] Implement the functions to convert data to be displayed as statistical diagrams.
 - [x] Write Analytics and Classification routes.
 - [x] Complete making the Image formatting/editing tool.
