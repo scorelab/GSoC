@@ -41,7 +41,7 @@ CodeLabz is a platform where the users can engage with online tutorials and the 
 - [GSoC 2020 with SCoRe Lab — Week 12](https://medium.com/scorelab/gsoc-2020-with-score-lab-week-12-b517cabb68c)
 - [GSoC 2020 with SCoRe Lab — Week 13](https://medium.com/scorelab/gsoc-2020-with-score-lab-week-13-72c67771c269)
 - [GSoC 2020 with SCoRe Lab — Week 14](https://medium.com/scorelab/gsoc-2020-with-score-lab-week-14-f2fb84a4cab0)
-- [GSoC 2020 with SCoRe Lab — Week 15](https://medium.com/@niweera/gsoc-2020-with-score-lab-week-15-9c0ffda49655)
+- [GSoC 2020 with SCoRe Lab — Week 15](https://medium.com/scorelab/gsoc-2020-with-score-lab-week-15-9c0ffda49655)
 
 ### Work Summary
 
