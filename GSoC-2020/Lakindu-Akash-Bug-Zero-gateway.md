@@ -12,7 +12,7 @@
 
 ### [GSoC Project Page](https://summerofcode.withgoogle.com/projects/#5072594765611008)
 
-### [GSoC Project Proposal]()
+### [GSoC Project Proposal](https://docs.google.com/document/d/1EaNYNpOtgcpeXXvsl0YM0rvAXhugV_3Uqxnq2NXoq4c/edit?usp=sharing)
 
 ### [GitHub Organization Repo](https://github.com/bug-zero/bugzero-gateway)
 
