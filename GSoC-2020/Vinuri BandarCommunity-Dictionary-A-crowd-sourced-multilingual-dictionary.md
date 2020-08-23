@@ -21,7 +21,7 @@ Community Dictionary includes words/terms from multiple languages, representing 
 
 ### [GitHub Personal Repo](https://github.com/VinuriBandara/com-dictionary)
 
-### [Commits during GSoC 2020](https://github.com/scorelab/com-dictionary/commits)
+### [Commits during GSoC 2020](https://github.com/scorelab/com-dictionary/pulls?q=is%3Apr+is%3Aclosed+author%3AVinuriBandara)
 
 ### [Project Demo Video](https://drive.google.com/drive/folders/1NR8BiUEQ1sj5FXew4iZdFTa0Co1iMJKe?usp=sharing)
 
