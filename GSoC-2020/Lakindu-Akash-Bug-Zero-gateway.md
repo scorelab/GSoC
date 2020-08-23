@@ -18,7 +18,7 @@
 
 ### [GitHub Personal Repo](https://github.com/lakinduakash/bugzero-gateway)
 
-### [Commits during GSoC 2020](https://github.com/bug-zero/bugzero-gateway/commits/master)
+### [Commits during GSoC 2020](https://github.com/bug-zero/bugzero-gateway/commits?author=lakinduakash)
 
 ### [Project Demo Video](https://youtu.be/yVDkD6LIkBI)
 
