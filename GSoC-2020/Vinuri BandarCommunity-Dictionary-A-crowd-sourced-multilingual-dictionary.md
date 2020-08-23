@@ -23,7 +23,7 @@ Community Dictionary includes words/terms from multiple languages, representing 
 
 ### [Commits during GSoC 2020](https://github.com/scorelab/com-dictionary/commits)
 
-### [Project Demo Video](https://drive.google.com/file/d/10UryK6zbm7EIxeJmQqgkI0TmIekRimC7/view?usp=sharing)
+### [Project Demo Video](https://drive.google.com/drive/folders/1NR8BiUEQ1sj5FXew4iZdFTa0Co1iMJKe?usp=sharing)
 
 ### [GSoC Blog](https://medium.com/@vinugayanthika/all-my-gsoc-memories-8d9d3d1f8950?source=friends_link&sk=4bd8656c99bf1bf11575361d7ecd8487)
 
