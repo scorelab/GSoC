@@ -26,8 +26,22 @@
 
 ### Work Summary
 
+- VPN server and client implementaion
+- Automatation scripts to create VPN server
+- API to control the VPN access
+
 ### What Covered
 
+- Implemeted creating and automating the VPN server
+- Added certificate and token based authentication for clients
+- Add client configuration scripts for Ubuntu and Android
+- Implement the API for controling client access to the VPN server
+- Dockerized the API
+- Documentation (Wiki)
+
 ### What left
+- Filtering VPN logs by users
 
 ### Reference
+
+- [StrongSwan](https://www.strongswan.org/)
