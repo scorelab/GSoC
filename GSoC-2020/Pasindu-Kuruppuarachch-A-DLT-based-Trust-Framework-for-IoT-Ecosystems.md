@@ -26,9 +26,11 @@ of this Access Control Model and the DLT network associated with it to help with
 ### [GSoC Project Proposal](https://summerofcode.withgoogle.com/serve/6053633696727040/)
 
 ### GitHub Organization Repo
+[HLF-Scaffold](https://github.com/leopardslab/hlf-scaffold) <br>
+[D-IoT-A](https://github.com/leopardslab/d-iot-a)
 
 ### GitHub Personal Repo
-[HLF-Scaffold](https://github.com/pasinduwalawaka/hlf-scaffold) 
+[HLF-Scaffold](https://github.com/pasinduwalawaka/hlf-scaffold) <br>
 [D-IoT-A](https://github.com/pasinduwalawaka/d-iot-a)
 
 
