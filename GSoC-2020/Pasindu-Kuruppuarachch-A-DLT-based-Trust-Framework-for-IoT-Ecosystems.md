@@ -52,7 +52,7 @@ D-IoT-A
 * Chaincode for testing the implemented DLT network. [`PR-4`](https://github.com/leopardslab/d-iot-a/pull/4)
 
 HLF-Scaffold
-* Desiging of the system architecture [`Wiki`] (https://github.com/leopardslab/hlf-scaffold/wiki/Architecture)
+* Desiging of the system architecture [`Wiki`](https://github.com/leopardslab/hlf-scaffold/wiki/Architecture)
 * Implemented HLF and prerequists installation shell scripts [`PR-1`](https://github.com/leopardslab/hlf-scaffold/pull/1/files)
 * Implemented the Crypto Config Generator [`PR-3`] (https://github.com/leopardslab/hlf-scaffold/pull/3/files)|
 [`PR-4`] (https://github.com/leopardslab/hlf-scaffold/pull/4/files)
