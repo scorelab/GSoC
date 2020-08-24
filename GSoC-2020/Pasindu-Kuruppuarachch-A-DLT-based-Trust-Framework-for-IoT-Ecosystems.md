@@ -54,9 +54,9 @@ D-IoT-A
 HLF-Scaffold
 * Desiging of the system architecture [`Wiki`](https://github.com/leopardslab/hlf-scaffold/wiki/Architecture)
 * Implemented HLF and prerequists installation shell scripts [`PR-1`](https://github.com/leopardslab/hlf-scaffold/pull/1/files)
-* Implemented the Crypto Config Generator [`PR-3`] (https://github.com/leopardslab/hlf-scaffold/pull/3/files)|
-[`PR-4`] (https://github.com/leopardslab/hlf-scaffold/pull/4/files)
-* Implemented the Configtx generation using Python YAML library [`PR-5`] (https://github.com/leopardslab/hlf-scaffold/pull/5/files)
+* Implemented the Crypto Config Generator [`PR-3`](https://github.com/leopardslab/hlf-scaffold/pull/3/files) |
+[`PR-4`](https://github.com/leopardslab/hlf-scaffold/pull/4/files)
+* Implemented the Configtx generation using Python YAML library [`PR-5`](https://github.com/leopardslab/hlf-scaffold/pull/5/files)
 * Set of YAML assets needed in network generation [`PR-6`] (https://github.com/leopardslab/hlf-scaffold/pull/6/files)
 
 
