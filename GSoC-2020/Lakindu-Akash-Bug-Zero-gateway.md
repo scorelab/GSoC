@@ -37,6 +37,7 @@ Implement  an open-source reusable and scalable  VPN gateway for  bug bounty pla
 - VPN server and client implementaion
 - Automatation scripts to create VPN server
 - API to control the VPN access
+- [Project's Wiki](https://github.com/bug-zero/bugzero-gateway/wiki)
 
 ### What Covered
 
@@ -45,7 +46,7 @@ Implement  an open-source reusable and scalable  VPN gateway for  bug bounty pla
 - Add client configuration scripts for Ubuntu and Android
 - Implement the API for controling client access to the VPN server
 - Dockerized the API
-- Documentation (Wiki)
+- [Documentation (Wiki)](https://github.com/bug-zero/bugzero-gateway/wiki)
 
 ### What left
 - Filtering VPN logs by users
