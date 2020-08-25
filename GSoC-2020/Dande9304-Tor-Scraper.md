@@ -25,9 +25,20 @@ The Tor Scraper is a dark web tor hidden service crawler. It starts crawling fro
 ### [GSoC Blog]()
 
 ### Work Summary
+* Create develop interactive and attractive user-interface
+* Add user management module
+* Improve current crawler progress monitoring system
 
 ### What Covered
+Completed all the above mentioned tasks.
 
 ### What left
+* Documentation need to be updated.
+* Code need to be optimize more. 
+* Complete more of the testing for the project. 
+
+
 
 ### Reference
+* Tor Scraper - (https://github.com/scorelab/TorScrapper)
+* Python - (https://www.python.org/)
