@@ -1,8 +1,8 @@
-# Akash	Bug Zero gateway
+# Bug Zero gateway by Lakindu Akash
 
 ## Student Info
 
-* Name - Lakindu
+* Name - Lakindu Akash
 * Email - lakinduakash@gmail.com
 * GitHub Profile - https://github.com/lakinduakash
 * Medium - https://medium.com/@lakinduakash
