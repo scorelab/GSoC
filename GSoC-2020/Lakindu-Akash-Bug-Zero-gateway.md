@@ -30,6 +30,8 @@ Implement  an open-source reusable and scalable  VPN gateway for  bug bounty pla
 
 ### [Project Demo Video](https://youtu.be/yVDkD6LIkBI)
 
+[![Watch the video](https://img.youtube.com/vi/yVDkD6LIkBI/hqdefault.jpg)](https://youtu.be/yVDkD6LIkBI)
+
 ### [GSoC Blog](https://medium.com/scorelab/gsoc-with-scorelab-2020-85bb68602183)
 
 ### Work Summary
@@ -49,7 +51,7 @@ Implement  an open-source reusable and scalable  VPN gateway for  bug bounty pla
 - [Documentation (Wiki)](https://github.com/bug-zero/bugzero-gateway/wiki)
 
 ### What left
-- Filtering VPN logs by users
+- Filtering VPN logs by users and other critarias
 
 ### Reference
 
