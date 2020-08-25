@@ -10,6 +10,14 @@
 
 ### Project Abstract
 
+While bug bounty programs (Such as Bug Zero)  are running, organizations may want to expose their system to the outer public (Hackers) to explore the system and capture the vulnerabilities as much as they can. This process is too old and less manipulatable for the bug bounty platform. And considering the security exposing a vulnerable system via public cyberspace can be much worse, even the organization is letting access to a sandboxed environment. Tracking the hacker’s activities, controlling the user levels of the exposed system, monitoring who is accessing it, are still remaining questions on bounty hunting platforms.
+
+#### Project goals
+
+Giving a VPN gateway to connect the hacker and the organization via a VPN to address all the remaining questions which I pointed above.
+Implement  an open-source reusable and scalable  VPN gateway for  bug bounty platforms in order to answer all questions above.
+
+
 ### [GSoC Project Page](https://summerofcode.withgoogle.com/projects/#5072594765611008)
 
 ### [GSoC Project Proposal](https://docs.google.com/document/d/1EaNYNpOtgcpeXXvsl0YM0rvAXhugV_3Uqxnq2NXoq4c/edit?usp=sharing)
