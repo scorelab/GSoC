@@ -24,9 +24,9 @@ Dengue Stop is a project which helps medical officials to monitor the dengue inc
 
 ### [Commits during GSoC 2020](https://github.com/scorelab/DengueStop/commits?author=donomalvindula)
 
-### [Project Demo Video]()
+### [Project Demo Video](https://youtu.be/eGlVXmKyJw8)
 
-### [GSoC Blog]()
+### [GSoC Blog](https://medium.com/@omalwijegunawardana/consolidated-gsoc-blogs-e9adc59b4628)
 
 ### Work Summary
 During GSoC 2020, I have covered almost all the planned milestones. The project had 3 main deliverables as listed below.
