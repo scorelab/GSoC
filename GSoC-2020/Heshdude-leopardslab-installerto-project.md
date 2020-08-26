@@ -1,4 +1,4 @@
-# NodeCloud
+# Automated deployments and testing for installer.to
 
 ## Student Info
 
