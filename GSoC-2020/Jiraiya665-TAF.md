@@ -37,6 +37,6 @@ For GSOC 2020, I implemented the TAF system to provide the necessary actions of 
 * Code optimization
 * Documentation
 ### Reference
-- [Aspire Systems] (https://blog.aspiresys.com/testing/design-patterns-in-test-automation-world/)
-- [Automation Rhapsody] (https://automationrhapsody.com/design-patterns-every-test-automation-engineer-should-know/)
-- [Seleniumhq.org] (https://www.selenium.dev/documentation/en/)
+- [Aspire Systems](https://blog.aspiresys.com/testing/design-patterns-in-test-automation-world/)
+- [Automation Rhapsody](https://automationrhapsody.com/design-patterns-every-test-automation-engineer-should-know/)
+- [Seleniumhq.org](https://www.selenium.dev/documentation/en/)
