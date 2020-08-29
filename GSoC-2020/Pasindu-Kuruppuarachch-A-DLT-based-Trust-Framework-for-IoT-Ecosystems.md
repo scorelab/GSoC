@@ -40,6 +40,7 @@ of this Access Control Model and the DLT network associated with it to help with
 
 
 ### Work Summary
+Implemented the smart contracts that can handle a simple access granting/revokation process.
 Implemented the test DLT network to deploy Access Control Depolyment. While developing we recogonize the potential deployment and development pipiline for a HLF-DLT based application. 
 So that we mainly focused on building the necesory toolkit for a HLF based application where we implemented a tool tool is for setting up a Hyperledger Fabric network easily using minimal number of CLI commands.
 This tool can be used to generate the necessory infrastructure and configurations for the Decentralized Access Control project. 
@@ -50,6 +51,7 @@ D-IoT-A
 * Design a DLT consortium cosnsit of 4 Organizations (For testign purposes) which includes the configuration of the Crypto-Assets and Configtx. [`PR-1`](https://github.com/scorelab/Bassa/pull/918)
 * Introduced the HLF-Scaffold to the developement and deployment pipeline. [`PR-2`](https://github.com/leopardslab/d-iot-a/pull/2) 
 * Chaincode for testing the implemented DLT network. [`PR-4`](https://github.com/leopardslab/d-iot-a/pull/4)
+* Chaincode for Access Control Handling. [`PR-5`](https://github.com/leopardslab/d-iot-a/pull/5)
 
 HLF-Scaffold
 * Desiging of the system architecture [`Wiki`](https://github.com/leopardslab/hlf-scaffold/wiki/Architecture)
@@ -58,8 +60,11 @@ HLF-Scaffold
 [`PR-4`](https://github.com/leopardslab/hlf-scaffold/pull/4/files)
 * Implemented the Configtx generation using Python YAML library [`PR-5`](https://github.com/leopardslab/hlf-scaffold/pull/5/files)
 * Set of YAML assets needed in network generation [`PR-6`](https://github.com/leopardslab/hlf-scaffold/pull/6/files)
+* Introduced the Ruamel YAML library for YAML file handling. It preserseved the comments and order of YMAL structure in Fabric configurations. [`PR-7`](https://github.com/leopardslab/hlf-scaffold/pull/7)
 
 
 ### What left
 * Docker-Compose generation
-* Custom arguments 
+* Functions for editing a consortium definition. 
+* Chaincode for adding Access Policies
+* Packaging
