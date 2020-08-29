@@ -47,8 +47,8 @@ This project was conducted in order to implement a lightweight agent run on the 
 ### What left
 
 - Implementation of ukiyo dashboard
-- Complete more of the testing for the project.
-- Implementat the scheduler feature that can be configured for all the time zones.
+- Complete more of the testing for the project
+- Implement the scheduler feature that will be configured for all the time zones
 
 ### Reference
 
