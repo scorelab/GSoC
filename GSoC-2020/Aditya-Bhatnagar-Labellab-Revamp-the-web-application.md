@@ -63,7 +63,8 @@ This is a comprehensive list of the milestones that were achieved for Revamping 
 ![team-dashboard](https://user-images.githubusercontent.com/43586052/89099631-69548980-d40e-11ea-84f1-079175e1b95d.png)
 <br/>
 
-![roles](https://drive.google.com/file/d/13o8VPfWI_X7-1q7lvX8F0xpTamQdoxBD/view?usp=sharing)
+<img src="https://drive.google.com/file/d/13o8VPfWI_X7-1q7lvX8F0xpTamQdoxBD/view?usp=sharing"/>
+
 </div>
 <br/>
 
@@ -91,10 +92,10 @@ This is a comprehensive list of the milestones that were achieved for Revamping 
 ![path-tracking-feature](https://user-images.githubusercontent.com/43586052/87772052-d37e0380-c83e-11ea-9f5c-30cb8edba490.png)
 <br/>
 
-![path-tracking-feature](https://drive.google.com/file/d/1uPsF_f3gLcOJmq-JNsBSrLEpOofj552_/view?usp=sharing)
+<img src="https://drive.google.com/file/d/1uPsF_f3gLcOJmq-JNsBSrLEpOofj552_/view?usp=sharing"/>
 <br/>
 
-![path-tracking](https://drive.google.com/file/d/1vaHsb6q5fabQYO4Rl5W9QFmJ_mk_y1jt/view?usp=sharing)
+<img src="https://drive.google.com/file/d/1vaHsb6q5fabQYO4Rl5W9QFmJ_mk_y1jt/view?usp=sharing"/>
 </div>
 <br/>
 
