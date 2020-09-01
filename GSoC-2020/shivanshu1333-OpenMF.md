@@ -24,7 +24,7 @@ OpenMF is an open-source forensic tool for Android smartphones that helps digita
 
 ### [Project Demo Video](https://drive.google.com/drive/folders/1hXjU1fDdyFiTVKL2d0yx0302bxBAlr8X?usp=sharing)
 
-### [GSoC Blog](https://medium.com/p/77061ef6c193/edit)
+### [GSoC Blog](https://medium.com/scorelab/gsoc2-all-blogs-in-one-place-77061ef6c193)
 
 ### Work Summary
 OpenMF is an open-source forensic tool for Android smartphones that helps digital forensicinvestigators throughout the life cycle of digital forensic investigation. Initially OpenMF was avaiable as a command line tool only, the main target for GSoC'20 was to create a web client for OpenMF. The work targeted during this period was to add support for web client for this command-line tool with additional features like Admin, Management and Extractor roles. These roles have different privileges to the tool and as a whole, it becomes a complete open-source forensic tool for Android smartphones which then can be used by any organization.
