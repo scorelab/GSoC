@@ -18,7 +18,7 @@ Labellab is an image labeling and classification tool for researchers. Currently
 
 ### [GitHub Organization Repo](https://github.com/scorelab/LabelLab)
 
-### [GitHub Personal Repo](https://github.com/cazci)
+### [GitHub Personal Repo](https://github.com/cazci/LabelLab)
 
 ### [Commits during GSoC 2020](https://github.com/scorelab/LabelLab/commits?author=cazci)
 
