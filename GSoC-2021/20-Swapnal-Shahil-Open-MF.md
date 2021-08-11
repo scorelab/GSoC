@@ -1,13 +1,29 @@
 # SCoRe Lab: OpenMF Analytics API and UI Development
 ## Student Info
 
-* Name - Swapnal Shahil
-* User Name - swapnalshahil
-* Email - swapnalsahil@gmail.com
-* GitHub Profile - https://github.com/swapnalshahil
-* Medium - https://swapnalshahil.medium.com
-* Twitter - [eulersgamma](https://twitter.com/eulersgamma)
-* Linkedin - [swapnalshahil](https://www.linkedin.com/in/swapnalshahil)
+<div container>
+<table ">
+
+<tr>
+<td>
+ Name - Swapnal Shahil                                                                                                              <br>
+ User Name - swapnalshahil                                                                                                          <br>
+ Email - swapnalsahil@gmail.com                                                                                                     <br>
+ GitHub Profile - https://github.com/swapnalshahil&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<br>
+ Medium - https://swapnalshahil.medium.com                                                                                          <br>
+ Twitter - <a href="https://twitter.com/eulersgamma">eulersgamma</a>                                                                <br>
+  Linkedin - <a href="https://www.linkedin.com/in/swapnalshahil">swapnalshahil</a><br>
+</td>
+<td>
+<a href="https://github.com/swapnalshahil"><img src="https://avatars.githubusercontent.com/u/58564017?v=4?" height="260px" width="260px;" alt=""/></a>
+</td>
+
+</tr>
+</table>
+</div>
+
 # Project Abstract
 
 OpenMF is an open-source forensic tool for Android smartphones that helps digital forensic investigators throughout the life cycle of digital forensic investigation. OpenMF is currently able to extract data of SMS(text messages), Facebook, WhatsApp, Browser history, Bluetooth data, EXIF data from images, Location history, General information of the device, Call logs, and Contacts. Data can be extracted from CMD as well as using API(POSTMAN) or from Frontend also.
