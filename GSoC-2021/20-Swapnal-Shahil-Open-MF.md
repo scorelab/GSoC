@@ -41,7 +41,7 @@ Also OpenMF is now able for showing analytics and relate data of cases using gra
 
 ## [OpenMF-release](https://swapnalshahil.github.io/OpenMF-release/)
                                                                                                                                                 
-## [Project Demo Video](http://LinkToDemoVideo)
+## [Project Demo Video](https://github.com/scorelab/OpenMF/wiki/Analytics)
 
 ## [Project Wiki](https://github.com/scorelab/OpenMF/wiki)
 
@@ -86,7 +86,8 @@ Also OpenMF is now able for showing analytics and relate data of cases using gra
 * Create Wiki for SCoRe Lab OpenMF.
 * Solved minor bugs.
 * Project update by writing blogs.
-
+                                                                                                                                                
+![Analytics Part only](https://github.com/swapnalshahil/OpenMF-release/blob/main/video/Analytics.gif?raw=true)
 
 # What left
   Some more analytics is possible if more research is done in project.
