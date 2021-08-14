@@ -39,6 +39,8 @@ Also OpenMF is now able for showing analytics and relate data of cases using gra
 
 ## [Commits during GSoC 2021](https://github.com/scorelab/OpenMF/commits?author=swapnalshahil)
 
+## [OpenMF-release](https://swapnalshahil.github.io/OpenMF-release/)
+                                                                                                                                                
 ## [Project Demo Video](http://LinkToDemoVideo)
 
 ## [Project Wiki](https://github.com/scorelab/OpenMF/wiki)
@@ -48,8 +50,9 @@ Also OpenMF is now able for showing analytics and relate data of cases using gra
 # Work Summary
 
 
-OpenMF is an open-source forensic tool for Android smartphones that helps digital forensic investigators throughout the life cycle of digital forensic investigation.From Google Summer of Code 2021 OpenMF will be able to extract data of SMS(text messages), Browser history, Bluetooth data, EXIF data from images, Location history along with General information of the device, Call logs,Facebook , WhatsApp and Contacts data(already exists). Data can be extracted from CMD as well as using API(POSTMAN) or from Frontend also. APIs were created to fetch data where ever required.
+OpenMF is an open-source forensic tool for Android smartphones that helps digital forensic investigators throughout the life cycle of digital forensic investigation.From Google Summer of Code 2021 OpenMF will be able to extract data of SMS(text messages), Browser history, Bluetooth data, EXIF data from images, Location history along with General information of the device, Call logs,Facebook , WhatsApp and Contacts data(already exists). Data can be extracted from CMD as well as using API(POSTMAN) or from Frontend also. APIs were created to fetch data where ever required. Also OpenMF portfolio created and hosted [OpenMF-release](https://swapnalshahil.github.io/OpenMF-release/)
 
+                                                                                                                                                
 Also OpenMF is now able for showing analytics and relate data of cases using graphs, maps and Tables which comes in Data Visualization.
 
 * **Common Words**: Search common between the data.
