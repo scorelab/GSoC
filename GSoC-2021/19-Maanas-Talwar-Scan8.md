@@ -53,6 +53,7 @@ The ```Testing``` module helps in maintaining the application and facilitating t
 * [GSoC’21: Application testing aspects](https://medium.com/scorelab/gsoc21-application-testing-aspects-e12aa11019a)
 * [GSoC’21: Refactoring code and formalizing unit tests](https://medium.com/scorelab/gsoc21-refactoring-code-and-formalizing-unit-tests-dd337f9352e1)
 * [GSoC’21: Developing the test suite](https://medium.com/scorelab/gsoc21-developing-the-test-suite-56c1f69bedb3)
+* [GSoC’21: Scan8 test suite and documentation](https://medium.com/scorelab/gsoc21-scan8-test-suite-and-documentation-a999d9fbc26e)
 
 ## Work Summary
 Scan8 is a distributed scanning system for detecting trojans, viruses, malware, and other malicious threats embedded in files. The system allows one to submit a list of files and get the scan results in return. Being a new project, the main objectives were to come up with an efficient system architecture/design and then implement the same.  
