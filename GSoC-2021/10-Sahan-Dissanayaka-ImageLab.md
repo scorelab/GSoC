@@ -19,7 +19,7 @@ ImageLab is a standalone tool which supports anyone to get started with image pr
 
 ### [GitHub Personal Repo](https://github.com/SahanDisa/imageLab)
 
-### [Commits during GSoC 2020](https://github.com/scorelab/ImageLab/commits?author=SahanDisa)
+### [Commits during GSoC 2021](https://github.com/scorelab/ImageLab/commits?author=SahanDisa)
 
 ### [Project Demo Video](https://drive.google.com/file/d/1SVIchmc2v9ikVRZJau7H3iNfLFyrdEeb/view?usp=sharing)
 
