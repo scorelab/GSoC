@@ -4,7 +4,7 @@
 
 - Name - Yash Vardhan
 - Email - yashvardhan513@gmail.com
-- University - Indian Institute of Technology(Indian School of Mines) Dhanbad(India)
+- University - Indian Institute of Technology (Indian School of Mines) Dhanbad, India
 - GitHub Profile - https://github.com/Grumpyyash
 - Medium - https://yash-dn.medium.com/
 - LinkedIn - https://www.linkedin.com/in/yash-vardhan-688952188/
@@ -117,7 +117,7 @@ I was able to achieve almost all the milestones that we had discussed and I alre
 - Created a sample-project based on npm-package explaining the use-cases of the package
 - Initialized storybook into the project and wrote stories for all of the webiu components
 - Document all components, projects and sub-projects with storybook and markdown files and depoloyed the storybook
-- Refactored the Leopards Lab website, populate it with the correct data and theme and deploy the site
+- Refactored the Leopards Lab website, populate it with the correct data and theme and deployed the site
 
 My Task Tracker during whole of the GSoC coding period could be found at - https://indecisive-salesman-fde.notion.site/53fb00ab909142aca74a758a1dd9ca45?v=eb3c383e568046c8a5b260699a507e49
 
