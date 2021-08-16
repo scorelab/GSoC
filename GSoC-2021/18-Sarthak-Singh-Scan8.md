@@ -103,4 +103,4 @@ Although I have completed almost all of the pre-decided milestones few topics ar
 * Proposing an Idea of creating public API endpoints by which anyone with the API key can scan the file passed in the body.
 * Publishing helm package of the application which can be easily integrated with the applications and run as a service.
 * Completing goals that are left.
-* Reducing image size by removing virus definitions database from the image to the PV which can be shared by the multiple worker pods and leads to reducing image size.
+* Reducing image size by removing virus definitions database from the image to the PV which can be shared by the multiple running worker pods and leads to reduced image size.
