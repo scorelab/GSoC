@@ -14,7 +14,7 @@ Scan8 is a Kubernetes based rapid URL/file scan system that allows users to subm
 
 ## [GSoC Project Page](https://summerofcode.withgoogle.com/projects/#4781449967828992)
 
-## [GSoC Project Proposal](https://storage.googleapis.com/summerofcode-prod.appspot.com/gsoc/core_project/doc/5978777126961152_1618324210_Scan8_SarthakSingh_AmityUniversityNoida.pdf?Expires=1629133925&GoogleAccessId=summerofcode-prod%40appspot.gserviceaccount.com&Signature=qth8kLLHCqXdoXOs3mIgoO1vCzqthTUG97Pwi7bzSWJOVtw64BjgH1qF2r6b%2F%2FY3YPp%2FhlSe0c%2FHxa47SyAwTJDRsFrKNPsee7ZgYKWX1aJQEdskmbsQAvccY25pIPjr5AVE0rW5%2B9AUTajed2%2BEZEv7N6%2F1ok0lKR2l33OqfcWf%2Bj1FqjBlkYVgiDGyd6DwWCqA%2FWpdGrK0l8EDdkyva1gNJYIEyKLI8E4zn9Eu1ZCY2uC7lGui6y68%2FJquY5vpc%2FmEsp7ONt1GLkuEoxT%2BlLUpw%2FfciGhFeOws686WbgALo6RKHSTJyNUt4AEYT4ukW2s7xRd29RN3PFWb9KX5cA%3D%3D)
+## [GSoC Project Proposal](https://drive.google.com/file/d/1jmdfi5HNK263QtBoNnKRQPQ1tppVDGG_/view?usp=sharing)
 
 ## [GitHub Organization Repo](https://github.com/scorelab/Scan8)
 
