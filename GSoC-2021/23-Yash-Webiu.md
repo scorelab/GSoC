@@ -85,8 +85,9 @@ All the components are well-documented with one example usage per component, doc
 Pull Requests for this milestone are -
 
 - [Pull 12](https://github.com/scorelab/Webiu/pull/170)
-- [Pull 13](https://github.com/scorelab/Webiu/pull/173)
+- [Pull 13](https://github.com/scorelab/Webiu/pull/172)
 - [Pull 14](https://github.com/scorelab/Webiu/pull/183)
+- [Pull 15](https://github.com/scorelab/Webiu/pull/164)
 
 All the created logos can be found at - https://www.figma.com/file/LfhcLPkLKUOYOJsknKSxVy/Webiu-Proposed-Logo?node-id=3%3A2
 
@@ -96,8 +97,8 @@ The Leopards Lab website, built using the webiu components initially had all the
 
 Pull Requests for this milestone are -
 
-- [Pull 15](https://github.com/leopardslab/leopardslab.github.io/pull/1)
-- [Pull 16](https://github.com/leopardslab/leopardslab.github.io/pull/2)
+- [Pull 16](https://github.com/leopardslab/leopardslab.github.io/pull/1)
+- [Pull 17](https://github.com/leopardslab/leopardslab.github.io/pull/2)
 
 For the time being, the Leopards Lab website can be found at - https://grumpyyash.github.io/leopardslab.github.io/
 
@@ -121,13 +122,12 @@ I was able to achieve almost all the milestones that we had discussed and I alre
 
 My Task Tracker during whole of the GSoC coding period could be found at - https://indecisive-salesman-fde.notion.site/53fb00ab909142aca74a758a1dd9ca45?v=eb3c383e568046c8a5b260699a507e49
 
-# What's left
+# What's left and future Aspects
 
 Although I was able to complete almost all of the pre-decided milestones, a few features and ideas that would benefit the project and might implement in future are-
 
 - Adding and writing tests for the components
 - Creating 3-4 websites using webiu for different cases and differnet themes
-- Adding contact and email logic without using any third-party package
 
 # References
 
