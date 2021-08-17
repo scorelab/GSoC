@@ -1,4 +1,12 @@
-# Project Name
+# Improving Fuctionality of OpenMF
+
+# Student Info
+
+- Name : Sachin Som
+- Email : sachinsom507@gmail.com
+- Github : [sachinsom93](https://github.com/sachinsom93)
+- Medium : [sachinsom507](https://medium.com/@sachinsom507)
+- LinkedIn : [sachinsom507](https://www.linkedin.com/in/sachinsom507)
 
 # Project Abstract
 
