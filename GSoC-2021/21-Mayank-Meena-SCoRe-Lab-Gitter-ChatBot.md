@@ -50,6 +50,9 @@ interests. GItter-ChatBot uses gitter-stream-api to listen to all the messages i
 - [GSoC’21 | Score Lab — A fable on the community bonding period](https://medium.com/leopards-lab/gsoc21-score-lab-a-new-chapter-19a56bec5deb)
 - [GSoC’21 with Score Lab | Gitter ChatBot | Phase-1](https://medium.com/leopards-lab/gsoc21-with-score-lab-gitter-chatbot-phase-1-55bc257b1fb1)
 - [GSOC 2021 | Score Lab: Unit testing and Code quality](https://medium.com/leopards-lab/gsoc-2021-score-lab-unit-testing-and-code-quality-4881ed1dfad4)
+- [GSoC 2021 | Score Lab: Database 'nd da bot](https://medium.com/leopards-lab/gsoc-2021-score-lab-database-nd-da-bot-f26491d18cc9)
+- [GSoC 2021 | Score Lab: Final Touches](https://medium.com/leopards-lab/gsoc-2021-score-lab-final-touches-54d11eb0475a)
+- [GSoC 2021 | Score Lab : Gitter-ChatBot da Deployment](https://medium.com/leopards-lab/gsoc-2021-score-lab-gitter-chatbot-da-deployment-75d0a0d3b5af)
 
 ### Work Summary
 
@@ -70,15 +73,15 @@ Implemented four use-cases:
 
 ![image](https://user-images.githubusercontent.com/55585868/129679929-c3d4b620-9771-4c04-a561-a8af0feb2bd8.png)
 
-3. Query the database for the given information and fetch a list of projects.
+2. Query the database for the given information and fetch a list of projects.
 
 ![image](https://user-images.githubusercontent.com/55585868/129680464-1c67acfb-3efa-4e6b-852b-681433776c52.png)
 
-4. Created a quick help guide for the ChatBot.
+3. Created a quick help guide for the ChatBot.
 
 ![image](https://user-images.githubusercontent.com/55585868/129680155-0df1749b-8c71-4377-b23a-8ee9aa7f68e8.png)
 
-5. An existing user can aslo ask for a project list.
+4. An existing user can aslo ask for a project list.
 
 ![image](https://user-images.githubusercontent.com/55585868/129680074-1824bf41-bd67-4aa0-b368-5dd46fe3ea07.png)
 
