@@ -36,6 +36,9 @@ interests. GItter-ChatBot uses gitter-stream-api to listen to all the messages i
 - [PR 8](https://github.com/leopardslab/Gitter-ChatBot/pull/18)
 - [PR 9](https://github.com/leopardslab/Gitter-ChatBot/pull/20)
 - [PR 10](https://github.com/leopardslab/Gitter-ChatBot/pull/22)
+- [PR 11](https://github.com/leopardslab/Gitter-ChatBot/pull/23)
+- [PR 12](https://github.com/leopardslab/Gitter-ChatBot/pull/24)
+- [PR 13](https://github.com/leopardslab/Gitter-ChatBot/pull/25)
 
 ### Project Demo Video
 
@@ -50,46 +53,55 @@ interests. GItter-ChatBot uses gitter-stream-api to listen to all the messages i
 
 ### Work Summary
 
+**Module Level Implementation of the features**
 
+Worked on connecting a python script to a Gitter channel (used python-gitterpy library). Used Gitter-stream API to liten to all the chat messages.
+Created modules to perform all the features like:
+- main.py module as the main body of the Gitter-ChatBot, it is responsible for the gitter-channel communication (listen and send messages).
+- data_extraction module to extract all the necessary information from a mesage. It searches for skills/Interests of the user.
+Created a MongoDB Atlas server for database queries and storage. It stores community projects `(_id, tags[], name, github-link, gitter-link, good-first-issues)`.
+- database module deals with the database connection(MongoDB) and fetching the project list from Github-API and updating the database with it.
+Worked on the response generation feature that responds to the gitter-channel.
 
 ### What Covered
 
-- Implemented parsers, transformers and generators in the code generation component for AWS, GCP and Azure.
-- Structuring the project as a monorepo with Yarn and Lerna.
-- Created dummy data for unit testing and Wrote unit tests for the code generation component.
-- Automating the API documentation process with JSDoc and Typescript compiler API.
-- Updating the documentation of the NodeCloud project.
-- Finalizing the `node-cloud.yml` file.
-- Generating the JavaScript classes for NodeCloud plugins and updating the plugins with them.
+Implemented four use-cases:
+1. Welcoming a new user, when they send their first message. If message does not contain any skill/interest of the user, ask the user to provide the same.
+
+![image](https://user-images.githubusercontent.com/55585868/129679929-c3d4b620-9771-4c04-a561-a8af0feb2bd8.png)
+
+3. Query the database for the given information and fetch a list of projects.
+
+![image](https://user-images.githubusercontent.com/55585868/129680464-1c67acfb-3efa-4e6b-852b-681433776c52.png)
+
+4. Created a quick help guide for the ChatBot.
+
+![image](https://user-images.githubusercontent.com/55585868/129680155-0df1749b-8c71-4377-b23a-8ee9aa7f68e8.png)
+
+5. An existing user can aslo ask for a project list.
+
+![image](https://user-images.githubusercontent.com/55585868/129680074-1824bf41-bd67-4aa0-b368-5dd46fe3ea07.png)
+
 
 **Github Issues**
 
 - [Issue 1](https://github.com/leopardslab/Gitter-ChatBot/issues/1)
 - [Issue 2](https://github.com/leopardslab/Gitter-ChatBot/issues/2)
 - [Issue 3](https://github.com/leopardslab/Gitter-ChatBot/issues/3)
-- [Issue 4](https://github.com/leopardslab/Gitter-ChatBot/issues/4)
+- [Issue 4](https://github.com/leopardslab/Gitter-ChatBot/issues/13)
 - [Issue 5](https://github.com/leopardslab/Gitter-ChatBot/issues/5)
-- [Issue 6](https://github.com/leopardslab/Gitter-ChatBot/issues/6)
+- [Issue 6](https://github.com/leopardslab/Gitter-ChatBot/issues/16)
 - [Issue 7](https://github.com/leopardslab/Gitter-ChatBot/issues/7)
-- [Issue 8](https://github.com/leopardslab/Gitter-ChatBot/issues/8)
+- [Issue 7](https://github.com/leopardslab/Gitter-ChatBot/issues/17)
+- [Issue 8](https://github.com/leopardslab/Gitter-ChatBot/issues/19)
 - [Issue 9](https://github.com/leopardslab/Gitter-ChatBot/issues/9)
-- [Issue 10](https://github.com/leopardslab/Gitter-ChatBot/issues/10)
 - [Issue 11](https://github.com/leopardslab/Gitter-ChatBot/issues/11)
-- [Issue 12](https://github.com/leopardslab/Gitter-ChatBot/issues/12)
-- [Issue 13](https://github.com/leopardslab/Gitter-ChatBot/issues/13)
-- [Issue 14](https://github.com/leopardslab/Gitter-ChatBot/issues/14)
-- [Issue 15](https://github.com/leopardslab/Gitter-ChatBot/issues/15)
-- [Issue 16](https://github.com/leopardslab/Gitter-ChatBot/issues/16)
-- [Issue 17](https://github.com/leopardslab/Gitter-ChatBot/issues/17)
-- [Issue 18](https://github.com/leopardslab/Gitter-ChatBot/issues/18)
-- [Issue 19](https://github.com/leopardslab/Gitter-ChatBot/issues/19)
-- [Issue 20](https://github.com/leopardslab/Gitter-ChatBot/issues/20)
-- [Issue 21](https://github.com/leopardslab/Gitter-ChatBot/issues/21)
-- [Issue 22](https://github.com/leopardslab/Gitter-ChatBot/issues/22)
+- [Issue 12](https://github.com/leopardslab/Gitter-ChatBot/issues/21)
 
 ### What left
 
-- 
+All the project milestones have been achieved and below improvements can be made to the project:
+- Publishing the project to PyPi.
 
 ### References
 
