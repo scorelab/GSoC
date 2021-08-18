@@ -42,8 +42,8 @@ interests. GItter-ChatBot uses gitter-stream-api to listen to all the messages i
 
 ### Project Demo Video
 
-- YouTube: 
-- Google drive:
+- YouTube: https://www.youtube.com/watch?v=Z5A6oj88Yp0
+- Google drive: https://drive.google.com/file/d/1qjrLzaTwPoNobzOmU1krzzrQ8yYxbGTL/view?usp=sharing
 
 ### GSoC Blog
 
@@ -64,7 +64,7 @@ Created modules to perform all the features like:
 - data_extraction module to extract all the necessary information from a mesage. It searches for skills/Interests of the user.
 Created a MongoDB Atlas server for database queries and storage. It stores community projects `(_id, tags[], name, github-link, gitter-link, good-first-issues)`.
 - database module deals with the database connection(MongoDB) and fetching the project list from Github-API and updating the database with it.
-Worked on the response generation feature that responds to the gitter-channel.
+Worked on the response generation feature that responds to the gitter-channel. Written unit-tests for the data_extraction module. Written a fully-fledged Documentation for the project.
 
 ### What Covered
 
