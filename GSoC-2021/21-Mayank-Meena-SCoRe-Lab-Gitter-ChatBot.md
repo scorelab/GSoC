@@ -39,6 +39,7 @@ interests. GItter-ChatBot uses gitter-stream-api to listen to all the messages i
 - [PR 11](https://github.com/leopardslab/Gitter-ChatBot/pull/23)
 - [PR 12](https://github.com/leopardslab/Gitter-ChatBot/pull/24)
 - [PR 13](https://github.com/leopardslab/Gitter-ChatBot/pull/25)
+- [PR 14](https://github.com/leopardslab/Gitter-ChatBot/pull/27)
 
 ### Project Demo Video
 
@@ -100,6 +101,7 @@ Implemented four use-cases:
 - [Issue 9](https://github.com/leopardslab/Gitter-ChatBot/issues/9)
 - [Issue 11](https://github.com/leopardslab/Gitter-ChatBot/issues/11)
 - [Issue 12](https://github.com/leopardslab/Gitter-ChatBot/issues/21)
+- [Issue 13](https://github.com/leopardslab/Gitter-ChatBot/issues/26)
 
 ### What left
 
