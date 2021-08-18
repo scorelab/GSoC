@@ -104,6 +104,8 @@ Implemented four use-cases:
 ### What left
 
 All the project milestones have been achieved and below improvements can be made to the project:
+- Unit test for response module
+- Fixing [bug](https://github.com/leopardslab/Gitter-ChatBot/issues/16) regarding data_extraction module. 
 - Publishing the project to PyPi.
 
 ### References
