@@ -45,7 +45,7 @@ NodeCloud is a standard library to get a single API on the open cloud with multi
 
 # Work Summary
 
-Nodecloud had support for AWS, Azure, and GCP. I worked on adding the support for Digital Ocean cloud. A plugin along with its code generation module is built. Digital Ocean has many third party SDK's out of which the best and suitable SDK is used that is the do-wrapper. I worked on making the parsers, generators and transformers using typescript compiler api to extract the classes and data(Like functions, parameters,comments, etc) from type definition files present in the digital ocean SDK. After auto generating the classes by the built tool, I made a digital ocean plugin out of it and added it to Nodecloud package. Now Nodecloiud has support for Digital Ocean alomg with improved documentation.
+Nodecloud had support for AWS, Azure, and GCP. I worked on adding the support for Digital Ocean cloud. A plugin along with its code generation module is built. Digital Ocean has many third party SDK's out of which the best and suitable SDK Do-wrapper is used. I worked on making the parsers, generators and transformers using typescript compiler api to extract the classes and data(Like functions, parameters,comments, etc) from type definition files present in the digital ocean SDK. After auto generating the classes by the built tool, I made a digital ocean plugin out of it and added it to Nodecloud package. Now Nodecloud has support for Digital Ocean along with improved documentation.
 
 # What Covered
 - Added function for saving generated class files to their specific folders
