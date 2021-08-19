@@ -26,9 +26,9 @@ NodeCloud is a standard library to get a single API on the open cloud with multi
 
 ## [GitHub Personal Repo](https://github.com/mbcse/nodecloud)
 
-## [Commits during GSoC 2021](http://github.com/commits)
+## [Commits during GSoC 2021](https://github.com/leopardslab/nodecloud/commits?author=mbcse)
 
-## [Project Demo Video](http://LinkToDemoVideo)
+## [Project Demo Video](https://youtu.be/Sd0L4qY-unQ)
 
 ## [Project Tracker During GSoC](https://www.notion.so/Google-Summer-Of-Code-2021-7e6cccd75dbe433b983202a1d09d0240)
 
@@ -97,6 +97,10 @@ Nodecloud had support for AWS, Azure, and GCP. I worked on adding the support fo
 | Final Changes and Issue's fixed(GSoC'21 Nodecloud Digital Ocean) | https://github.com/leopardslab/nodecloud/pull/108|   |
 
 
+Do-wrapper SDK Pull Requests:
+- https://github.com/matt-major/do-wrapper/pull/75
+- https://github.com/matt-major/do-wrapper/pull/74
+
 
 # What left
 - Fixing problem with Database format in Do-wrapper SDK Implementation 
@@ -106,5 +110,7 @@ Nodecloud had support for AWS, Azure, and GCP. I worked on adding the support fo
 # References
 - [https://astexplorer.net/](https://astexplorer.net/)
 - [https://ts-ast-viewer.com/](https://ts-ast-viewer.com/)
-- [https://github.com/madou/typescript-transformer-handbook](https://github.com/madou/typescript-transformer-handbook)
+- [Writing typescript custom AST transformer part-1](https://levelup.gitconnected.com/writing-typescript-custom-ast-transformer-part-1-7585d6916819)
+- [Writing typescript custom AST transformer part-2](https://levelup.gitconnected.com/writing-typescript-custom-ast-transformer-part-2-5322c2b1660e)
+- [Writing typescript custom AST transformer part-3](https://levelup.gitconnected.com/writing-typescript-custom-ast-transformer-part-3-93b6238ae21f)
 - [https://developers.digitalocean.com/documentation/v2](https://developers.digitalocean.com/documentation/v2/#snapshots)
