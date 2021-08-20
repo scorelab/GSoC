@@ -22,7 +22,7 @@ Project's frontend is developed using React and Material UI.
 
 ## [GitHub Personal Repo](https://github.com/piyumaldk/Codelabz/tree/material-ui)
 
-## [Commits during GSoC 2017](https://github.com/scorelab/Codelabz/commits/master?author=piyumaldk)
+## [Commits during GSoC 2021](https://github.com/scorelab/Codelabz/commits/master?author=piyumaldk)
 
 ## [Project Demo Video](http://LinkToDemoVideo)
 
