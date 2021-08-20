@@ -2,14 +2,15 @@
 
 ## Student Info
 
-* Name - Piyumal Kularathna	
-* Email - piyumaldk@gmail.com
-* GitHub Profile - https://github.com//piyumaldk
-* Medium - https://medium.com/@piyumal
+- Name - Piyumal Kularathna
+- Email - piyumaldk@gmail.com
+- GitHub Profile - https://github.com//piyumaldk
+- Medium - https://medium.com/@piyumal
 
 # Project Abstract
+
 Codelabz is a platform which gives users to engage with online tutorials
-and organizations to add tutroials. 
+and organizations to add tutroials.
 Project is developed using Google Firebase and Firestore as backend.
 Project's frontend is developed using React and Material UI.
 
