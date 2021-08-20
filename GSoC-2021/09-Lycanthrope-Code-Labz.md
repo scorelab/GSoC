@@ -32,8 +32,25 @@ Project's frontend is developed using React and Material UI.
 
 # Work Summary
 
+Main task was to develop components using Material UI. Some components of the
+project were built using AntD. Most challenging part of the project is to convert some functions to Material UI which was built easily using AntD. For an example, image croping. In the porcess, I was able design images to replace some previews of the project too as an additional task. I developed seperate common reusable components for image handling, field validations as Material UI does not provide simple components for these tasks. Dashboard, Profile, Profile Info Card, Profile View, and Edit Profile View are the main components which were developed by me. Other than that, common components such as app bar of the project was also developed by me. All developed components are both mobile and web friendly. Components were tested manually. Overall user interface fixing was done as finalizing the project also by me. Handling Firestore and designing user interfaces using Figma for the project were also done by me parallelly with the above mentioned tasks. In addition to that fixing some errors and warnings of the project was also done by me as I get those tasks directly from the mentor too.
+
+Live demo - [https://dev.codelabz.io/](https://dev.codelabz.io/)
+
 # What Covered
 
+- Dashboard Component and it's functions
+- Profile Component and it's functions
+- Profile Info Card Component and it's functions
+- Profile View Component and it's functions
+- Edit Profile Details Component and it's functions
+- App Bar of the Project and it's functions
+- Design preview SVG files
+- User Interface Designing using Figma
+- Error and Warning Fixing
+
 # What left
+
+- Complete User Home Page
 
 #
