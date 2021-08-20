@@ -32,8 +32,8 @@ Ask SCoRe app is the community app, which helps organisation in Collaboration, t
 ## [Commits during GSoC 2021](https://github.com/scorelab/Ask-SCoRe/commits?author=AbhiKul10)
 
 ## [Project Demo Video](https://drive.google.com/drive/folders/1gRM-dkqEem0BSxxNFDHij7Qzt4F3qfUT?usp=sharing)
-- [iOS](https://drive.google.com/file/d/1BPdVyXrvlP830NVEk4yEBu7sXBaPC5zL/view?usp=sharing)
-- [Android](https://drive.google.com/file/d/1AO6oPWlmLwye6sJdve7rbkHnxOpw3t4b/view?usp=sharing)
+- [iOS](https://drive.google.com/file/d/1RCPoGR-gkmYt0ZgOYH34mGQMocgMLoVi/view?usp=sharing)
+- [Android](https://drive.google.com/file/d/1AM3bKSAMCBAQBoTkj1b2CEphMBfPfQWI/view?usp=sharing)
 
 ## [Project Prototype and Wireframe](https://www.figma.com/file/ERa009n8zsCllGFSBCBrKE/SCORE?node-id=0%3A1)
 
