@@ -4,7 +4,7 @@
 
 - Name - Piyumal Kularathna
 - Email - piyumaldk@gmail.com
-- GitHub Profile - https://github.com//piyumaldk
+- GitHub Profile - https://github.com/piyumaldk
 - Medium - https://medium.com/@piyumal
 
 # Project Abstract
