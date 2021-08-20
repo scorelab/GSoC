@@ -53,52 +53,52 @@ In Google Summer of Code 2021, I have implemented and developed Ask-SCoRe Projec
 Here are some important insights:-
 
 ### Implementations of the Features
-| PR Link                                                                                                                                                              | Description                                              | Status    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------- |
-| [#4](https://github.com/scorelab/Ask-SCoRe/pull/4)                                                                                    | Added Onboarding Screens                                  | Merged ✅ |
-| [#8](https://github.com/scorelab/Ask-SCoRe/pull/8)                                                                                    | Login signup functionality     | Merged ✅ |
-| [#12](https://github.com/scorelab/Ask-SCoRe/pull/12)                                                                                    | Added BottomTabNavigator         | Merged ✅ |
-| [#15](https://github.com/scorelab/Ask-SCoRe/pull/15)                                                                                    | Designed and Implemented Profile View          | Merged ✅ |
-| [#19](https://github.com/scorelab/Ask-SCoRe/pull/19)                                                                                    | Implemented Query Screen  | Merged ✅ |
-| [#33](https://github.com/scorelab/Ask-SCoRe/pull/33)                                                                                    | Designed and Implemented Forum Screen      | Merged ✅ |
-| [#35](https://github.com/scorelab/Ask-SCoRe/pull/35)                                                                                    | Designed and Implemented Notification Screen             | Merged ✅ |
-| [#39](https://github.com/scorelab/Ask-SCoRe/pull/39)                                                                                    | Added Splash Screen             | Merged ✅ |
+| PR Link                                                                                                                                                              | Description                                              | Status   | Issues Link   
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------- | --------- |
+| [#4](https://github.com/scorelab/Ask-SCoRe/pull/4)                                                                                    | Added Onboarding Screens                                  | Merged ✅ | [#3](https://github.com/scorelab/Ask-SCoRe/issues/3) |
+| [#8](https://github.com/scorelab/Ask-SCoRe/pull/8)                                                                                    | Login signup functionality     | Merged ✅ | [#5](https://github.com/scorelab/Ask-SCoRe/issues/5) |
+| [#12](https://github.com/scorelab/Ask-SCoRe/pull/12)                                                                                    | Added BottomTabNavigator         | Merged ✅ | [#9](https://github.com/scorelab/Ask-SCoRe/issues/9) |
+| [#15](https://github.com/scorelab/Ask-SCoRe/pull/15)                                                                                    | Designed and Implemented Profile View          | Merged ✅ | [#10](https://github.com/scorelab/Ask-SCoRe/issues/10) |
+| [#19](https://github.com/scorelab/Ask-SCoRe/pull/19)                                                                                    | Implemented Query Screen  | Merged ✅ | [#18](https://github.com/scorelab/Ask-SCoRe/issues/18) |
+| [#33](https://github.com/scorelab/Ask-SCoRe/pull/33)                                                                                    | Designed and Implemented Forum Screen      | Merged ✅ |  [#20](https://github.com/scorelab/Ask-SCoRe/issues/20) |
+| [#35](https://github.com/scorelab/Ask-SCoRe/pull/35)                                                                                    | Designed and Implemented Notification Screen             | Merged ✅ | [#34](https://github.com/scorelab/Ask-SCoRe/issues/34) |
+| [#39](https://github.com/scorelab/Ask-SCoRe/pull/39)                                                                                    | Added Splash Screen             | Merged ✅ | [#38](https://github.com/scorelab/Ask-SCoRe/issues/38) |
 
 ### Markdown Documentation
-| PR Link                                                                                                                                                              | Description                                              | Status    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------- |
-| [#7](https://github.com/scorelab/Ask-SCoRe/pull/7)                                                                                    | Updated README.md                               | Merged ✅ |
-| [#17](https://github.com/scorelab/Ask-SCoRe/pull/17)                                                                                    | updated readme file            | Merged ✅ |
-| [#27](https://github.com/scorelab/Ask-SCoRe/pull/27)                                                                                    | Added Build Status                    | Merged ✅ |
-| [#36](https://github.com/scorelab/Ask-SCoRe/pull/36)                                                                                    | Update README.md                  | Merged ✅ |
+| PR Link                                                                                                                                                              | Description                                              | Status    | Issues Link   
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------- | --------- |
+| [#7](https://github.com/scorelab/Ask-SCoRe/pull/7)                                                                                    | Updated README.md                               | Merged ✅ | [#6](https://github.com/scorelab/Ask-SCoRe/issues/6) |
+| [#17](https://github.com/scorelab/Ask-SCoRe/pull/17)                                                                                    | updated readme file            | Merged ✅ | [#16](https://github.com/scorelab/Ask-SCoRe/issues/16) |
+| [#27](https://github.com/scorelab/Ask-SCoRe/pull/27)                                                                                    | Added Build Status                    | Merged ✅ | [#26](https://github.com/scorelab/Ask-SCoRe/issues/26) |
+| [#36](https://github.com/scorelab/Ask-SCoRe/pull/36)                                                                                    | Update README.md                  | Merged ✅ | [#16](https://github.com/scorelab/Ask-SCoRe/issues/16) |
 
 ### Reusable Components
-| PR Link                                                                                                                                                              | Description                                              | Status    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------- |
-| [#14](https://github.com/scorelab/Ask-SCoRe/pull/14)                                                                                    | Added Header Bar (Go-Social Component)                 | Merged ✅ |
+| PR Link                                                                                                                                                              | Description                                              | Status    | Issues Link   
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------- | --------- |
+| [#14](https://github.com/scorelab/Ask-SCoRe/pull/14)                                                                                    | Added Header Bar (Go-Social Component)                 | Merged ✅ | [#13](https://github.com/scorelab/Ask-SCoRe/issues/13) |
 | [#129](https://github.com/scorelab/Go-social/pull/129)                                                                                    | Added Header Bar and Forum Box Component                | Merged ✅ |
 
 ### Testing and Enhancement
-| PR Link                                                                                                                                                              | Description                                              | Status    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------- |
-| [#23](https://github.com/scorelab/Ask-SCoRe/pull/23)                                                                                    | Added Github Actions - PR Builder       | Merged ✅ |
-| [#28](https://github.com/scorelab/Ask-SCoRe/pull/28)                                                                                    | Added Test Cases             | Merged ✅ |
-| [#31](https://github.com/scorelab/Ask-SCoRe/pull/31)                                                                                    | Updated Github Action and config.js to run test   | Merged ✅ |
-| [#25](https://github.com/scorelab/Ask-SCoRe/pull/25)                                                                                    | Updated the Linting of the Codebase              | Merged ✅ |
-| [#37](https://github.com/scorelab/Ask-SCoRe/pull/37)                                                                                    | Used device height and width in the styles      | Merged ✅ |
+| PR Link                                                                                                                                                              | Description                                              | Status    | Issues Link   
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------- | --------- |
+| [#23](https://github.com/scorelab/Ask-SCoRe/pull/23)                                                                                    | Added Github Actions - PR Builder       | Merged ✅ | [#22](https://github.com/scorelab/Ask-SCoRe/issues/22) |
+| [#28](https://github.com/scorelab/Ask-SCoRe/pull/28)                                                                                    | Added Test Cases             | Merged ✅ | [#21](https://github.com/scorelab/Ask-SCoRe/issues/21) |
+| [#31](https://github.com/scorelab/Ask-SCoRe/pull/31)                                                                                    | Updated Github Action and config.js to run test   | Merged ✅ | [#29](https://github.com/scorelab/Ask-SCoRe/issues/29) [#30](https://github.com/scorelab/Ask-SCoRe/issues/30) |
+| [#25](https://github.com/scorelab/Ask-SCoRe/pull/25)                                                                                    | Updated the Linting of the Codebase              | Merged ✅ | [#24](https://github.com/scorelab/Ask-SCoRe/issues/24) |
+| [#37](https://github.com/scorelab/Ask-SCoRe/pull/37)                                                                                    | Used device height and width in the styles      | Merged ✅ | [#37](https://github.com/scorelab/Ask-SCoRe/issues/37) |
 
 ### Others
 
-| PR Link                                                                                                                                                              | Description                                              | Status    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------- |
-| [#2](https://github.com/scorelab/Ask-SCoRe/pull/2)                                                                                    | Initialised Ask-SCoRe Project            | Merged ✅ |
-| [#42](https://github.com/scorelab/Ask-SCoRe/pull/42)                                                                                    | Added Firebase Security Rules                   | Merged ✅ |
+| PR Link                                                                                                                                                              | Description                                              | Status    | Issues Link   
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------- | --------- |
+| [#2](https://github.com/scorelab/Ask-SCoRe/pull/2)                                                                                    | Initialised Ask-SCoRe Project            | Merged ✅ | [#1](https://github.com/scorelab/Ask-SCoRe/issues/1) |
+| [#42](https://github.com/scorelab/Ask-SCoRe/pull/42)                                                                                    | Added Firebase Security Rules                   | Merged ✅ | [#41](https://github.com/scorelab/Ask-SCoRe/issues/41) |
 
 
 # What Covered
 In Ask-SCoRe,
 
-- Designing Prototypes and wireframes.
+- Designed Prototypes and wireframes.
 - Implemented Onboarding Screens.
 - Implemented Login/Signup Functionality.
 - Implemented Forget Password Functionality using Firebase.
