@@ -1,5 +1,8 @@
 # Ask-SCoRe
 
+<img src="https://user-images.githubusercontent.com/40908684/130236620-d361678a-1e00-4d73-8804-aa080db50aa4.png" width="1000">
+
+
 ## Student Info 
 - Name - Abhi Kulshrestha
 - Email - abhikulshrestha1@gmail.com
@@ -76,7 +79,7 @@ Here are some important insights:-
 | PR Link                                                                                                                                                              | Description                                              | Status    | Issues Link   
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------- | --------- |
 | [#14](https://github.com/scorelab/Ask-SCoRe/pull/14)                                                                                    | Added Header Bar (Go-Social Component)                 | Merged ✅ | [#13](https://github.com/scorelab/Ask-SCoRe/issues/13) |
-| [#129](https://github.com/scorelab/Go-social/pull/129)                                                                                    | Added Header Bar and Forum Box Component                | Merged ✅ |
+| [#129](https://github.com/scorelab/Go-social/pull/129)                                                                                    | Added Header Bar and Forum Box Component                | Merged ✅ | NA |
 
 ### Testing and Enhancement
 | PR Link                                                                                                                                                              | Description                                              | Status    | Issues Link   
@@ -122,7 +125,7 @@ In Ask-SCoRe,
 - Developed Stable Versions of Ask-SCoRe Application (both iOS and Android) for Release.
 
 ## What left
-All the Project Milestones has been achieved according to the proposal. Few Improvements can be made which are listed below
+All the Project Milestones have been achieved according to the proposal. Few Improvements can be made which are listed below
 - Enhancement of the feature by adding minor functionalities
 - Adding Continuous Deployment
 - Can use other Firebase Services like FCM.
