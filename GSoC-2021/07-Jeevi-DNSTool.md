@@ -26,7 +26,7 @@ DNSTool-CLI is an extension of the DNSTool, which is designed to monitor the giv
 
 ## [Commits during GSoC 2021](https://github.com/scorelab/DNS-Command-Line-Tool/pulls?q=is%3Apr+is%3Aclosed)
 
-## [Project Demo Video](http://LinkToDemoVideo)
+## [Project Demo Video](https://drive.google.com/file/d/1iqgdKL61aG-_veFg6mWb-wQ2-W9CuBqN/view?usp=sharing)
 
 ## [Project Wiki](https://github.com/scorelab/DNS-Command-Line-Tool#readme)
 
