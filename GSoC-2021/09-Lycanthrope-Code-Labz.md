@@ -24,7 +24,7 @@ Project's frontend is developed using React and Material UI.
 
 ## [Commits during GSoC 2021](https://github.com/scorelab/Codelabz/commits/master?author=piyumaldk)
 
-## [Project Demo Video](http://LinkToDemoVideo)
+## [Project Demo Video](https://youtu.be/_Rp10p7O_gY)
 
 ## [Project Wiki](https://github.com/scorelab/Codelabz#readme)
 
@@ -47,10 +47,12 @@ Live demo - [https://dev.codelabz.io/](https://dev.codelabz.io/)
 - App Bar of the Project and it's functions
 - Design preview SVG files
 - User Interface Designing using Figma
+- User Interface fixing
 - Error and Warning Fixing
 
 # What left
 
 - Complete User Home Page
+- Extend functionalities
 
 #
