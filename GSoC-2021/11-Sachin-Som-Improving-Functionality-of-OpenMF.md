@@ -1,4 +1,4 @@
-# Improving Fuctionality of OpenMF
+# Improving Functionality of OpenMF
 
 # Student Info
 
