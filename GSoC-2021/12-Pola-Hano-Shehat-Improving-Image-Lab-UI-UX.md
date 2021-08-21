@@ -22,7 +22,7 @@ ImageLab is a standalone tool which supports anyone to get started with image pr
 
 ### [Project Demo Video](https://drive.google.com/file/d/1qqARDWuTBXQCHXiRmsgiZVivvucDf2Mg/view?usp=sharing)
 
-### [GSoC Blog]()
+### [GSoC Blog](https://medium.com/@pola.hano/my-journey-with-score-lab-in-gsoc-2021-4b6f580d3390)
 
 ### Work Summary
 
