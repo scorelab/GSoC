@@ -11,9 +11,13 @@
 # Project Abstract
 DNSTool-Frontend is the main access portal of the DNSTool which is designed to monitor the given set of internet resources like domains, IP, SOA, etc. Frontend allows users to upload their scanning seed list(s) and control the scans as well as schedule them. This project is to design a responsible and user-friendly single-page application as the frontend (dashboard).
 
+Live demo - [https://dnsip.pages.dev/](https://dnsip.pages.dev/)
+
 <kbd>
   <img src="https://user-images.githubusercontent.com/43110114/130364461-e363c231-292f-4fc9-b973-eefdfb2b10a6.png">
 </kbd>
+
+
 
 ## [GSoC Project Page](https://summerofcode.withgoogle.com/projects/#5463237421694976)
 
@@ -25,7 +29,7 @@ DNSTool-Frontend is the main access portal of the DNSTool which is designed to m
 
 ## [Commits during GSoC 2021](https://github.com/scorelab/DNSTool-Web-Application/commits/main)
 
-## [Project Demo Video](http://LinkToDemoVideo)
+## [Project Demo Video](https://youtu.be/nQgedVSq1Hs)
 
 ## [Project Wiki](https://github.com/scorelab/DNSTool-Web-Application/blob/main/README.md)
 
