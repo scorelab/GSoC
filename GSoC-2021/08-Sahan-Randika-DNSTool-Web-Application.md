@@ -10,10 +10,11 @@
 
 # Project Abstract
 DNSTool-Frontend is the main access portal of the DNSTool which is designed to monitor the given set of internet resources like domains, IP, SOA, etc. Frontend allows users to upload their scanning seed list(s) and control the scans as well as schedule them. This project is to design a responsible and user-friendly single-page application as the frontend (dashboard).
+![image](https://user-images.githubusercontent.com/43110114/130364265-d8285b06-4c04-4668-aa12-48b074d614f6.png)
 
 ## [GSoC Project Page](https://summerofcode.withgoogle.com/projects/#5463237421694976)
 
-## [GSoC Project Proposal](http://LinikToYourGSoCProjectProposal)
+## [GSoC Project Proposal](https://drive.google.com/file/d/1iPjKnFnNijsDMghImMNgEfoqJhAKCaV9/view?usp=sharing)
 
 ## [GitHub Organization Repo](https://github.com/scorelab/DNSTool-Web-Application)
 
@@ -45,7 +46,7 @@ After the UI coding finished, I focused on connecting the backend APIs with the 
 10. Implemented the download key option in the frontend.
 11. Implemented a material ui table to view the scans, filter and multi select the scans.
 12. Implemented frontend authentication to add route guards to UI components using the redux-auth-wrapper library. 
-
+13. Made the frontend responsive using Material UI media queries.
 
 # What left
 1. Create storyboard components.
