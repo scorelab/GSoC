@@ -46,14 +46,31 @@ After the UI coding finished, I focused on connecting the backend APIs with the 
 3. Implemented redux store using the redux state management library.
 4. Implemented all UI mockups into react components using Material UI library.
 5. Added user login using Google Firebase Authentication.
-6. Implemented user registration. For the user registration I've added password strength meter, validations(Email validation - Check if the email belong to accepted organisation domain/Correct Format) and Google reCAPTCHA v3 protection.
-7. Connected all the backend APIs with the frontend using the axios library and using the redux actions methods.
-8. Implemented create scan functionality.
-9. Implemented delete scan and update state of the scan functionalities.
-10. Implemented the download key option in the frontend.
-11. Implemented a material ui table to view the scans, filter and multi select the scans.
-12. Implemented frontend authentication to add route guards to UI components using the redux-auth-wrapper library. 
-13. Made the frontend responsive using Material UI media queries.
+6. Implemented user registration. For the user registration I've implemented a password strength meter using zxcvbn library.
+7. Added form validations(Email validation - Check if the email belong to accepted organisation domain and Correct Email Format) to the user registration.
+8. Added Google reCAPTCHA v3 protection to the user registration.
+9. Connected all the backend APIs with the frontend using the axios library and using the redux actions methods.
+10. Implemented create scan functionality.
+11. Implemented delete scan and update state of the scan functionalities.
+12. Implemented the download key option in the frontend.
+13. Implemented a material ui table to view the scans, filter and multi select the scans.
+14. Implemented frontend authentication to add route guards to UI components using the redux-auth-wrapper library. 
+15. Made the frontend responsive using Material UI media queries.
 
 # What left
-1. Create storyboard components.
+1. Create storybook components.
+
+# References
+
+1. [React](https://reactjs.org/)
+2. [Redux](https://redux.js.org/)
+3. [React-Redux](https://react-redux.js.org/)
+4. [Firebase Authentication](https://firebase.google.com/docs/auth)
+5. [Material-UI](https://next.material-ui.com/)
+6. [Google reCAPTCHA v3](https://developers.google.com/recaptcha/docs/v3)
+7. [zxcvbn](https://github.com/dropbox/zxcvbn)
+8. [Axios](https://www.npmjs.com/package/axios)
+9. [Redux Auth Wrapper](https://www.npmjs.com/package/redux-auth-wrapper)
+10. [Figma](https://www.figma.com/)
+11. [Storybook](https://storybook.js.org/)
+
