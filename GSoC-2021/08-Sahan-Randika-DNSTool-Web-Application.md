@@ -1,27 +1,51 @@
-# Project Name
+# DNSTool-Web-Application
+
+## Student Info
+
+- Name - Sahan Randika
+- Email - [shnrndk@gmail.com](mailto:shnrndk@gmail.com)
+- GitHub Profile - [shnrndk](https://github.com/shnrndk)
+- Medium - [@shnrndk](https://shnrndk.medium.com/)
+- Twitter - [@shnrndk](https://twitter.com/shnrndk)
 
 # Project Abstract
+DNSTool-Frontend is the main access portal of the DNSTool which is designed to monitor the given set of internet resources like domains, IP, SOA, etc. Frontend allows users to upload their scanning seed list(s) and control the scans as well as schedule them. This project is to design a responsible and user-friendly single-page application as the frontend (dashboard).
 
-## [GSoC Project Page](http://LinikToYourGSoCProjectPage)
+## [GSoC Project Page](https://summerofcode.withgoogle.com/projects/#5463237421694976)
 
 ## [GSoC Project Proposal](http://LinikToYourGSoCProjectProposal)
 
-## [GitHub Organization Repo](http://github.com/repo)
+## [GitHub Organization Repo](https://github.com/scorelab/DNSTool-Web-Application)
 
-## [GitHub Personal Repo](http://github.com/repo)
+## [GitHub Personal Repo](https://github.com/shnrndk/DNSTool-Web-Application)
 
-## [Commits during GSoC 2017](http://github.com/commits)
+## [Commits during GSoC 2021](https://github.com/scorelab/DNSTool-Web-Application/commits/main)
 
 ## [Project Demo Video](http://LinkToDemoVideo)
 
-## [Project Wiki](http://github.com)
+## [Project Wiki](https://github.com/scorelab/DNSTool-Web-Application/blob/main/README.md)
 
-## [GSoC Blog](http://GSoCBlog)
+## [GSoC Blog](https://medium.com/scorelab/gsoc-2021-with-score-lab-da95b0686f29)
 
 # Work Summary
-
+Throughout the GSoC 2021 program, I implemented the DNSTool-Web-Application. In the first step of the coding phase, I started to communicate with mentors to get a proper initial plan of the DNSTool-Web-Application. 
+Before moving on to the coding, first I've designed UI mockups using the Figma. Then I focused on the coding part of the UI mockups.
+DNSTool-Web-Application is developed by React. React is the most popular front-end framework right now. For the state management, I used the Redux library. To implement with the React I used the react-redux library. I used the material-UI component library to develop UI components with React. It makes front-end development easier and faster. 
+After the UI coding finished, I focused on connecting the backend APIs with the DNSTool-Web-Application. To make requests with the APIs, I've used the Axios library. I implemented the user login function using Google Firebase Authentication. I have implemented front-end authentication using the redux-auth-wrapper library. 
 # What Covered
+1. Designed the UI mockups using Figma
+2. Initiated DNSTool-Web-Application using React frontend framework.
+3. Implemented redux store using the redux state management library.
+4. Implemented all UI mockups into react components using Material UI library.
+5. Added user login using Google Firebase Authentication.
+6. Implemented user registration. For the user registration I've added password strength meter, validations(Email validation - Check if the email belong to accepted organisation domain/Correct Format) and Google reCAPTCHA v3 protection.
+7. Connected all the backend APIs with the frontend using the axios library and using the redux actions methods.
+8. Implemented create scan functionality.
+9. Implemented delete scan and update state of the scan functionalities.
+10. Implemented the download key option in the frontend.
+11. Implemented a material ui table to view the scans, filter and multi select the scans.
+12. Implemented frontend authentication to add route guards to UI components using the redux-auth-wrapper library. 
+
 
 # What left
-
-#
+1. Create storyboard components.
