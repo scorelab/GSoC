@@ -10,7 +10,7 @@ CodeLabz is a platform where the users can engage with online tutorials and the 
 
 ## [GSoC Project Proposal](https://drive.google.com/file/d/1iSgA85WCMPhXnc1EM4CGc20cj0OixvLS/view?usp=sharing)
 
-## [GitHub Organization Repo]([http://github.com/repo](https://github.com/scorelab/Codelabz))
+## [GitHub Organization Repo](https://github.com/scorelab/Codelabz))
 
 ## [GitHub Personal Repo](https://github.com/IITvamp/Codelabz))
 
