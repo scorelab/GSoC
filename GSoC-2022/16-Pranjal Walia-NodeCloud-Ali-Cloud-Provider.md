@@ -36,6 +36,15 @@ NodeCloud is a standard library to get a single API on the open cloud with multi
 ## GSoC Blogs
 
 
+- Community Bonding : [https://medium.com/scorelab/google-summer-of-code-22-score-lab-community-bonding-period-2ed27d1b392a](https://medium.com/scorelab/google-summer-of-code-22-score-lab-community-bonding-period-2ed27d1b392a)
+- Week 1 Blog : [https://medium.com/leopards-lab/coding-week-1-gsoc-22-with-score-lab-90937055e985](https://medium.com/leopards-lab/coding-week-1-gsoc-22-with-score-lab-90937055e985)
+- Week 2 Blog : [https://medium.com/leopards-lab/coding-week-2-gsoc-22-with-score-lab-1f84c8995913](https://medium.com/leopards-lab/coding-week-2-gsoc-22-with-score-lab-1f84c8995913)
+- Week 3 & 4 Blog : [https://medium.com/leopards-lab/coding-week-3-4-gsoc-22-with-score-lab-23f8dd0df940](https://medium.com/leopards-lab/coding-week-3-4-gsoc-22-with-score-lab-23f8dd0df940)
+- Week 5 & 6 Blog : [https://medium.com/@pranjalwalia77/coding-week-5-6-gsoc-22-with-score-lab-ebb88c3538a3](https://medium.com/@pranjalwalia77/coding-week-5-6-gsoc-22-with-score-lab-ebb88c3538a3)
+- Week 7 & 8 Blog : [https://medium.com/@pranjalwalia77/coding-week-7-8-gsoc-22-with-score-lab-935dd83bd173](https://medium.com/@pranjalwalia77/coding-week-7-8-gsoc-22-with-score-lab-935dd83bd173)
+- Week 9 & 10 Blog : [https://medium.com/@pranjalwalia77/coding-week-8-9-gsoc-22-with-score-lab-797576597add](https://medium.com/@pranjalwalia77/coding-week-8-9-gsoc-22-with-score-lab-797576597add)
+
+
 # Work Summary
 
 The current implementation of NodeCloud is a core library that supports AWS, Azure, GCP and DigitalOcean cloud services as extensible plugins. I worked on extending this plugin functionality built into NodeCloud to include another emerging cloud provider i.e. Alibaba Cloud. The distribution of the project is in two major parts. First, implement the core functionalities of the AliCloud platform along with a suitable SDK that supports the latest OpenAPI specification. Second, the implementation of a code generation module to consume the SDK and auto-generate service implementations that can be assembled as the “alicloud-plugin” for NodeCloud integration. This is achieved by writing out parsers, generators and transformers specifically made for the SDK built out in the previous part. The built SDK is made public [here](https://github.com/masterchief01/alibabacloud-v2-typescript-sdk/) and is an unofficial alternative to the official SDK that still relies on the legacy API which is onward for deprecation.
