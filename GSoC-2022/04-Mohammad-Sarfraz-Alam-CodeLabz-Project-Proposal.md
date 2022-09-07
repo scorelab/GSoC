@@ -56,7 +56,7 @@ In GSoC 2022, I worked on the development of the new UI by creating Storybook st
 - Developed in new storybook stories for the components.
 - Initialized Developed new pages for the UI.
 - Integrated the new UI with the existing backend.
-- Worked on Firebase Emulator
+- Worked on Firebase Emulator.
 
 # What left
-- The new UI is not fully integrated with the backend.
+- Implement the new UI with the existing backend.
