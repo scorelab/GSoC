@@ -1,5 +1,5 @@
 # Project Name
-Codelabz - Frontend Improvement
+SCoRe Lab - CodeLabz (GSOC'22)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/31257148/130365723-eabdac33-f1da-4de4-8f4f-68fa4b906154.png" width="300">
 </p>
