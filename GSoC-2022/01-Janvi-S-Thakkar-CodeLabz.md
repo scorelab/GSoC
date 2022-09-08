@@ -45,12 +45,9 @@ CodeLabz is a platform where the users can engage with online tutorials and the 
 | [#313](https://github.com/scorelab/Codelabz/pull/313)                                                                                        | Merged ✅ | [#311](https://github.com/scorelab/Codelabz/issues/311) |
 | [#310](https://github.com/scorelab/Codelabz/pull/310)                                                                                        | Merged ✅ | [#295](https://github.com/scorelab/Codelabz/issues/295) |
 | [#308](https://github.com/scorelab/Codelabz/pull/308)                                                                                        | Merged ✅ | [#295](https://github.com/scorelab/Codelabz/issues/295) |
-| [#301](https://github.com/scorelab/Codelabz/pull/301)                                                                                        | Merged ✅ | [#290]
-(https://github.com/scorelab/Codelabz/issues/290) |
-| [#297](https://github.com/scorelab/Codelabz/pull/297)                                                                                        | Merged ✅ | [#296]
-(https://github.com/scorelab/Codelabz/issues/296) |
-| [#224](https://github.com/scorelab/Codelabz/pull/224)                                                                                        | Merged ✅ | [#223]
-(https://github.com/scorelab/Codelabz/issues/223) |
+| [#301](https://github.com/scorelab/Codelabz/pull/301)                                                                                        | Merged ✅ | [#290](https://github.com/scorelab/Codelabz/issues/290) |
+| [#297](https://github.com/scorelab/Codelabz/pull/297)                                                                                        | Merged ✅ | [#296](https://github.com/scorelab/Codelabz/issues/296) |
+| [#224](https://github.com/scorelab/Codelabz/pull/224)                                                                                        | Merged ✅ | [#223](https://github.com/scorelab/Codelabz/issues/223) |
 
 
 # What Covered
