@@ -16,7 +16,7 @@ get an idea about image processing.
 
 ## [GSoC Project Page](https://summerofcode.withgoogle.com/programs/2022/projects/9njzCFJk)
 
-## [GSoC Project Proposal](https://docs.google.com/document/d/1x-AKBoeqbkqVuNFiDhkJv_gSCtPqZ0VtsuBT-lt1h8E/edit)
+## [GSoC Project Proposal](https://drive.google.com/file/d/1rdi8WWZB8QI322vNQpXUZQx8dZ-ItCbh/view?usp=sharing)
 
 ## [GitHub Organization Repo](https://github.com/scorelab/imagelab)
 
@@ -24,11 +24,7 @@ get an idea about image processing.
 
 ## [Commits during GSoC 2022](https://github.com/scorelab/imagelab/commits?author=kaveeshadinamidu)
 
-## [Project Demo Video](http://LinkToDemoVideo)
-
-## [Project Wiki](http://github.com)
-
-## [GSoC Blog](http://GSoCBlog)
+## [Project Demo Video](https://drive.google.com/file/d/1vN04vmGKFcaNro7UmoDF8c5tJ19boRpR/view?usp=sharing)
 
 # Work Summary
 
@@ -75,6 +71,7 @@ Integrated the image proccessing functions in the UI with the backend functions.
 - Added the validations related with the operators and their flow.
 - Operation execution mechanism added.
 - Operation binding mechanism added according to the block order.
+- Code refactored and commented.
 - Documentation updated.
 
 # What left
