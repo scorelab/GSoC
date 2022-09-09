@@ -22,7 +22,7 @@ The applications built using NFT-Toolbox will empower creators to monetize their
 
 ## [Commits during GSoC 2017](https://github.com/scorelab/NFT-Toolbox/commits/main?author=SadashayKanungo)
 
-## [Project Demo Video](http://LinkToDemoVideo)
+## [Project Demo Video](https://www.youtube.com/watch?v=tU_mQwra5vM)
 
 ## [Project Tracker During GSoC](https://roomy-submarine-95b.notion.site/GSoC-22-Progress-Report-c8d43182fcda4bfbb88f78d229e89a3f)
 
@@ -88,6 +88,7 @@ Docusaurus has been used as the documentation generation tool.
 | Added Deploy and Interaction methods to Contract Class | https://github.com/scorelab/NFT-Toolbox/pull/22 | [(#8)](https://github.com/scorelab/mint-NFT/issues/8), [(#10)](https://github.com/scorelab/mint-NFT/issues/10)
 | Added Documentation with Examples and Guides | https://github.com/scorelab/NFT-Toolbox/pull/23 | [(#12)](https://github.com/scorelab/mint-NFT/issues/12), [(#13)](https://github.com/scorelab/mint-NFT/issues/13)
 | Sadashay Branch | https://github.com/scorelab/NFT-Toolbox/pull/24 |  |
+| Final Changes | https://github.com/scorelab/NFT-Toolbox/pull/25 |  |
 
 
 # What is Covered
