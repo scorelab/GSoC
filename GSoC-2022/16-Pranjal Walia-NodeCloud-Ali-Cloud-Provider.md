@@ -29,21 +29,19 @@ NodeCloud is a standard library to get a single API on the open cloud with multi
 
 ## [Commits during GSoC 2022](https://github.com/leopardslab/nodecloud/commits?author=masterchief01)
 
-## [Project Demo Video]()
+## [Project Demo Video](https://youtu.be/dD61Jb6IUqE)
 
 ## [Project Tracker During GSoC](https://complex-wall-1d1.notion.site/GSoC-22-SCoRe-Lab-34d63054e89f426fb380defddc630c32)
 
 ## GSoC Blogs
 
-
 - Community Bonding : [https://medium.com/scorelab/google-summer-of-code-22-score-lab-community-bonding-period-2ed27d1b392a](https://medium.com/scorelab/google-summer-of-code-22-score-lab-community-bonding-period-2ed27d1b392a)
 - Week 1 Blog : [https://medium.com/leopards-lab/coding-week-1-gsoc-22-with-score-lab-90937055e985](https://medium.com/leopards-lab/coding-week-1-gsoc-22-with-score-lab-90937055e985)
 - Week 2 Blog : [https://medium.com/leopards-lab/coding-week-2-gsoc-22-with-score-lab-1f84c8995913](https://medium.com/leopards-lab/coding-week-2-gsoc-22-with-score-lab-1f84c8995913)
 - Week 3 & 4 Blog : [https://medium.com/leopards-lab/coding-week-3-4-gsoc-22-with-score-lab-23f8dd0df940](https://medium.com/leopards-lab/coding-week-3-4-gsoc-22-with-score-lab-23f8dd0df940)
-- Week 5 & 6 Blog : [https://medium.com/@pranjalwalia77/coding-week-5-6-gsoc-22-with-score-lab-ebb88c3538a3](https://medium.com/@pranjalwalia77/coding-week-5-6-gsoc-22-with-score-lab-ebb88c3538a3)
-- Week 7 & 8 Blog : [https://medium.com/@pranjalwalia77/coding-week-7-8-gsoc-22-with-score-lab-935dd83bd173](https://medium.com/@pranjalwalia77/coding-week-7-8-gsoc-22-with-score-lab-935dd83bd173)
-- Week 9 & 10 Blog : [https://medium.com/@pranjalwalia77/coding-week-8-9-gsoc-22-with-score-lab-797576597add](https://medium.com/@pranjalwalia77/coding-week-8-9-gsoc-22-with-score-lab-797576597add)
-
+- Week 5 & 6 Blog : [https://medium.com/scorelab/coding-week-5-6-gsoc-22-with-score-lab-ebb88c3538a3](https://medium.com/scorelab/coding-week-5-6-gsoc-22-with-score-lab-ebb88c3538a3)
+- Week 7 & 8 Blog : [https://medium.com/leopards-lab/coding-week-7-8-gsoc-22-with-score-lab-935dd83bd173](https://medium.com/leopards-lab/coding-week-7-8-gsoc-22-with-score-lab-935dd83bd173)
+- Week 9 & 10 Blog : [https://medium.com/leopards-lab/coding-week-8-9-gsoc-22-with-score-lab-797576597add](https://medium.com/leopards-lab/coding-week-8-9-gsoc-22-with-score-lab-797576597add)
 
 # Work Summary
 
@@ -63,6 +61,7 @@ The current implementation of NodeCloud is a core library that supports AWS, Azu
 - Wrote Examples for implemented AliCloud Services for Nodecloud
 
 ### Issues created
+
 **[Update existing documentation for Aliyun plugin usage](https://github.com/leopardslab/nodecloud/issues/142)** #142
 
 **[Initialize the compute module](https://github.com/leopardslab/nodecloud/issues/133)** #133
@@ -93,16 +92,16 @@ The current implementation of NodeCloud is a core library that supports AWS, Azu
 
 ### Pull Requests
 
-| Issue Name                                                  |                   Pull Request                    |                                                                                                                                                                                                                                    Linked Issue |
-| ----------------------------------------------------------- | :-----------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| update formatter conf and apply formatter                   | https://github.com/leopardslab/nodecloud/pull/137 |                                                                                                                                                                                     [#116](https://github.com/leopardslab/nodecloud/issues/116) |
-| Aliyun parser                                               | https://github.com/leopardslab/nodecloud/pull/138 |                                                                                                                         [#121](https://github.com/leopardslab/nodecloud/issues/121) [#124](https://github.com/leopardslab/nodecloud/issues/124) |
-| Addition of transformations to generator                    | https://github.com/leopardslab/nodecloud/pull/139 | [#122](https://github.com/leopardslab/nodecloud/issues/122) [#123](https://github.com/leopardslab/nodecloud/issues/123) [#125](https://github.com/leopardslab/nodecloud/issues/125) [#126](https://github.com/leopardslab/nodecloud/issues/126) |
-| AliCloud Provider: Storage                                  | https://github.com/leopardslab/nodecloud/pull/140 |                                                                                                                                                                                     [#127](https://github.com/leopardslab/nodecloud/issues/127) |
-| Package Aliyun Services                                     | https://github.com/leopardslab/nodecloud/pull/141 |                                                                                                                         [#127](https://github.com/leopardslab/nodecloud/issues/127) [#120](https://github.com/leopardslab/nodecloud/issues/120) |
-| Added Examples for AliCloud NodeCloud-Plugin       | https://github.com/leopardslab/nodecloud/pull/144 |                                                                                                                                                                                       [#128](https://github.com/leopardslab/nodecloud/issues/128) |
-| Updated Documentation for Nodecloud and Generator  | https://github.com/leopardslab/nodecloud/pull/143 | [#142](https://github.com/leopardslab/nodecloud/issues/142)                          |                                                                                                                                                                                                                                                 |
-<!-- | [Update] Final Changes and Issue's fixed(GSoC'22 Nodecloud) | https://github.com/leopardslab/nodecloud/pull/108 |                                                                                                                                                                                                                                                 | -->
+| Issue Name                                        |                        Pull Request                         |                                                                                                                                                                                                                                    Linked Issue |
+| ------------------------------------------------- | :---------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | --- | --- |
+| update formatter conf and apply formatter         |      https://github.com/leopardslab/nodecloud/pull/137      |                                                                                                                                                                                     [#116](https://github.com/leopardslab/nodecloud/issues/116) |
+| Aliyun parser                                     |      https://github.com/leopardslab/nodecloud/pull/138      |                                                                                                                         [#121](https://github.com/leopardslab/nodecloud/issues/121) [#124](https://github.com/leopardslab/nodecloud/issues/124) |
+| Addition of transformations to generator          |      https://github.com/leopardslab/nodecloud/pull/139      | [#122](https://github.com/leopardslab/nodecloud/issues/122) [#123](https://github.com/leopardslab/nodecloud/issues/123) [#125](https://github.com/leopardslab/nodecloud/issues/125) [#126](https://github.com/leopardslab/nodecloud/issues/126) |
+| AliCloud Provider: Storage                        |      https://github.com/leopardslab/nodecloud/pull/140      |                                                                                                                                                                                     [#127](https://github.com/leopardslab/nodecloud/issues/127) |
+| Package Aliyun Services                           |      https://github.com/leopardslab/nodecloud/pull/141      |                                                                                                                         [#127](https://github.com/leopardslab/nodecloud/issues/127) [#120](https://github.com/leopardslab/nodecloud/issues/120) |
+| Added Examples for AliCloud NodeCloud-Plugin      |      https://github.com/leopardslab/nodecloud/pull/144      |                                                                                                                                                                                     [#128](https://github.com/leopardslab/nodecloud/issues/128) |
+| Updated Documentation for Nodecloud and Generator |      https://github.com/leopardslab/nodecloud/pull/143      |                                                                                                                                                                                     [#142](https://github.com/leopardslab/nodecloud/issues/142) |     |
+| <!--                                              | [Update] Final Changes and Issue's fixed(GSoC'22 Nodecloud) |                                                                                                                                                                                               https://github.com/leopardslab/nodecloud/pull/108 |     | --> |
 
 Aliyun V2 SDK:
 
