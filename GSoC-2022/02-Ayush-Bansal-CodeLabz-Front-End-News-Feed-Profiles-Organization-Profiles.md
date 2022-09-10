@@ -52,7 +52,7 @@ During GSoC'22 I worked on the frontend part of the CodelabZ project. In the fir
 -all the components were updated according to new design
 -storybook has also been updated.
 -all the components are tested.
--Removed small bugs and Gramattical errors.
+-Removed small bugs and Grammatical errors.
 -worked on the pre-GSoC tasks that included creating figma design for the website and creating the storybook according to that design.
 
 
