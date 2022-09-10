@@ -24,7 +24,7 @@ GitHub Profile - <a href="https://github.com/PrerakMathur20">PrerakMathur20 </a>
 
 # Project Abstract
 
-OpenMF is an open-source forensic tool for Android smartphones that helps digital forensic investigators throughout the life cycle of digital forensic investigation. OpenMF is currently able to extract data of SMS(text messages), Facebook, WhatsApp, Browser history, Bluetooth data, EXIF data from images, Location history, General information of the device, Call logs, and Contacts. Data can be extracted from CMD as well as using API(POSTMAN) or from Frontend also. OpenMF is now able for showing analytics and relate data of cases using graphs, maps and Tables.
+OpenMF is an open-source forensic tool for Android smartphones that helps digital forensic investigators throughout the life cycle of digital forensic investigation. It is a collection of tools that can be used to extract and analyze data from Android smartphones. It is a part of the SCoRe Lab. The project aims to develop an analytics API and UI for OpenMF. The analytics API will be used to extract and analyze data from Android smartphones. The analytics UI will be used to visualize the data extracted from the smartphones. The project will be developed using Python and JavaScript.
 
 ## [GSoC Project Page](https://summerofcode.withgoogle.com/programs/2022/projects/gnn8Hro3)
 
@@ -44,11 +44,12 @@ OpenMF is an open-source forensic tool for Android smartphones that helps digita
 
 # Work Summary
 
-OpenMF is an open-source forensic solution for Android smartphones that assists digital forensic investigators throughout the investigation life cycle. Since the conclusion of the Google Summer of Code 2022, OpenMF has completed numerous unfinished frontend and backend functionalities. Multiple new features have been added to improve the user experience and facilitate better management and control. 
+OpenMF is an open-source forensic solution for Android smartphones that assists digital forensic investigators throughout the investigation life cycle. The purpose is to enhance the user experience and expedite a new user's understanding of the software. Since the conclusion of the Google Summer of Code 2022, OpenMF has completed numerous unfinished frontend and backend functionalities. Multiple new features have been added to improve the user experience and facilitate better management and control. Below is a summary of all the software additions. [Here](https://github.com/scorelab/OpenMF/wiki), you can also find the project's wiki and additional information.
 
 # Work Covered
 
 The following are the major features that have been added to OpenMF:
+
 * Authentication with Google OAuth for
   * Admin
   * Management
@@ -59,7 +60,7 @@ The following are the major features that have been added to OpenMF:
   * Register
   * Contact
   * About
-* Allow Admin to Create new Management and Extractor users with Googlr OAuth
+* Allow Admin to Create new Management and Extractor users with Google OAuth
 * Added the incomplete functionality to mark tasks as completed
 * Added the incomplete functionality in Sidebar for -
   * Search User
@@ -70,7 +71,26 @@ The following are the major features that have been added to OpenMF:
   * Home and About Page to display information about the Software itself.
   * Login and Register page to be replaced by Login Modal with Google OAuth
   * Contact Page created to contact the Admin and Management
-* Created Use
-
+* Created a Profile Card component for the User to view their details
+* Created **Dashboard** for all Users which displays -
+  * The Current User's Details
+  * If Admin, list of all Management and Extractor Users' Tasks and their details
+  * If Extractor or Management, list of all the Tasks assigned to the User and their details
+* Enabled the feature to Locally Open routes in  generated in Managemnt's Analytics Page's Filter and Keyword Search.
+* Removed Irrelevant Profile Route and Page from Navbar 
+* Fixed the issue of the Navbar showing the wrong User's Options on specific tabs
+* Created and Routes, Frontend and API to Edit the following details of the User -
+  * Task Title
+  * Task Descreption
+  * Task Status
+  * Task Due Date
+  * Task Priority
+* Added Fucntionality to download Case Tree and its details in the following formats-
+  * `.xml`
+  * `.json`
 
 # What left
+
+Add a few more data visualizations to the Analytics Page, and show the data extracted in the form of table and graphs and from the extrcated data, implement OCR to extract text.
+Add Data classification cases for *WhatsApp* and *Facebook*.
+Implement the entire project in iOS environmet.
