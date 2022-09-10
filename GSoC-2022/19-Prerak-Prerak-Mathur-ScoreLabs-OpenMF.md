@@ -36,7 +36,7 @@ OpenMF is an open-source forensic tool for Android smartphones that helps digita
 
 ## [Commits during GSoC 2022](https://github.com/scorelab/OpenMF/commits?author=PrerakMathur20)
 
-## [Project Demo Video](http://LinkToDemoVideo)
+## [Project Demo Video](https://youtube.com/playlist?list=PLA0bgXZugdjcxcn3kprNTW9LvzaAyvUAV)
 
 ## [Project Wiki](https://github.com/scorelab/OpenMF/wiki)
 
@@ -84,13 +84,17 @@ The following are the major features that have been added to OpenMF:
   * Task Descreption
   * Task Status
   * Task Due Date
-  * Task Priority
 * Added Fucntionality to download Case Tree and its details in the following formats-
   * `.xml`
   * `.json`
 
+# Demo
+* [Register Google OAuth (Admin)](https://youtu.be/L63swPPCTfg)
+* [Adding New members ad Admin (Management and Extractor)](https://youtu.be/gxPdERIyvTg)
+* [Search User](https://youtu.be/b1vBGXvVZns)
+* [Update Tasks](https://youtu.be/kwehTiXTlAs)
+* [Open Case File Routes Locally](https://youtu.be/2ufhgqsFv9k)
 # What left
 
-Add a few more data visualizations to the Analytics Page, and show the data extracted in the form of table and graphs and from the extrcated data, implement OCR to extract text.
-Add Data classification cases for *WhatsApp* and *Facebook*.
+Add a more data visualizations to the Analytics Page, and show the data extracted in the form of table and graphs and from the extrcated data, implement OCR to extract text, Add Data classification cases for *WhatsApp* and *Facebook*.
 Implement the entire project in iOS environmet.
