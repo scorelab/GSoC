@@ -27,8 +27,6 @@ LabelLab is an image analysis and classification platform for machine learning (
 
 ## [Project Wiki](https://github.com/scorelab/LabelLab/wiki)
 
-## [GSoC Blog](https://medium.com/@vaishnavigup1892)
-
 # Work Summary
 
 The codebase architecture involves three components :
