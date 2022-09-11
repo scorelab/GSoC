@@ -1,5 +1,9 @@
 # SCoRe Lab: OpenMF Analytics API and UI Development
 
+<p align="center">
+<img src="https://summerofcode.withgoogle.com/assets/media/gsoc-2022-badge.svg" height=300px>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/scorelab/OpenMF/master/Logo.png" width=300px> 
+</p>
+
 # Contributor Info
 
 <div container>
@@ -50,51 +54,164 @@ OpenMF is an open-source forensic solution for Android smartphones that assists 
 
 The following are the major features that have been added to OpenMF:
 
-* Authentication with Google OAuth for
-  * Admin
-  * Management
-  * Extractor
-* Missing Routes and Pages added such as -
-  * Home (Hover)
-  * Login
-  * Register
-  * Contact
-  * About
-* Allow Admin to Create new Management and Extractor users with Google OAuth
-* Added the incomplete functionality to mark tasks as completed
-* Added the incomplete functionality in Sidebar for -
-  * Search User
-  * Download list of Users and their details in `.csv` and `.pdf` format
-  * Sort and Filter by details and Columns
-  * Abstract the data in the table to show only the required details
-* Created pages and modals on **Pre-Declared** Routes for -
-  * Home and About Page to display information about the Software itself.
-  * Login and Register page to be replaced by Login Modal with Google OAuth
-  * Contact Page created to contact the Admin and Management
-* Created a Profile Card component for the User to view their details
-* Created **Dashboard** for all Users which displays -
-  * The Current User's Details
-  * If Admin, list of all Management and Extractor Users' Tasks and their details
-  * If Extractor or Management, list of all the Tasks assigned to the User and their details
-* Enabled the feature to Locally Open routes in  generated in Managemnt's Analytics Page's Filter and Keyword Search.
-* Removed Irrelevant Profile Route and Page from Navbar 
-* Fixed the issue of the Navbar showing the wrong User's Options on specific tabs
-* Created and Routes, Frontend and API to Edit the following details of the User -
-  * Task Title
-  * Task Descreption
-  * Task Status
-  * Task Due Date
-* Added Fucntionality to download Case Tree and its details in the following formats-
-  * `.xml`
-  * `.json`
+- Authentication with Google OAuth for
+  - Admin
+  - Management
+  - Extractor
+- Missing Routes and Pages added such as -
+  - Home (Hover)
+  - Login
+  - Register
+  - Contact
+  - About
+- Allow Admin to Create new Management and Extractor users with Google OAuth
+- Added the incomplete functionality to mark tasks as completed
+- Added the incomplete functionality in Sidebar for -
+  - Search User
+  - Download list of Users and their details in `.csv` and `.pdf` format
+  - Sort and Filter by details and Columns
+  - Abstract the data in the table to show only the required details
+- Created pages and modals on **Pre-Declared** Routes for -
+  - Home and About Page to display information about the Software itself.
+  - Login and Register page to be replaced by Login Modal with Google OAuth
+  - Contact Page created to contact the Admin and Management
+- Created a Profile Card component for the User to view their details
+- Created **Dashboard** for all Users which displays -
+  - The Current User's Details
+  - If Admin, list of all Management and Extractor Users' Tasks and their details
+  - If Extractor or Management, list of all the Tasks assigned to the User and their details
+- Enabled the feature to Locally Open routes in generated in Managemnt's Analytics Page's Filter and Keyword Search.
+- Removed Irrelevant Profile Route and Page from Navbar
+- Fixed the issue of the Navbar showing the wrong User's Options on specific tabs
+- Created and Routes, Frontend and API to Edit the following details of the User -
+  - Task Title
+  - Task Descreption
+  - Task Status
+  - Task Due Date
+- Added Fucntionality to download Case Tree and its details in the following formats-
+  - `.xml`
+  - `.json`
 
 # Demo
-* [Register Google OAuth (Admin)](https://youtu.be/L63swPPCTfg)
-* [Adding New members ad Admin (Management and Extractor)](https://youtu.be/gxPdERIyvTg)
-* [Search User](https://youtu.be/b1vBGXvVZns)
-* [Update Tasks](https://youtu.be/kwehTiXTlAs)
-* [Open Case File Routes Locally](https://youtu.be/2ufhgqsFv9k)
+
+- [Register Google OAuth (Admin)](https://youtu.be/L63swPPCTfg)
+- [Adding New members ad Admin (Management and Extractor)](https://youtu.be/gxPdERIyvTg)
+- [Search User](https://youtu.be/b1vBGXvVZns)
+- [Update Tasks](https://youtu.be/kwehTiXTlAs)
+- [Open Case File Routes Locally](https://youtu.be/2ufhgqsFv9k)
+
 # What left
 
-Add a more data visualizations to the Analytics Page, and show the data extracted in the form of table and graphs and from the extrcated data, implement OCR to extract text, Add Data classification cases for *WhatsApp* and *Facebook*.
+Add a more data visualizations to the Analytics Page, and show the data extracted in the form of table and graphs and from the extrcated data, implement OCR to extract text, Add Data classification cases for _WhatsApp_ and _Facebook_.
 Implement the entire project in iOS environmet.
+
+# Issues Opened and Linked PRs
+For more details and information on Issues Opened and their respective, please refer the table and linkes below.
+
+<table>
+<tr>
+<th>Issue Number</th>
+<th>Issue</th>
+<th>PR Number</th>
+<th>PR</th>
+</tr>
+
+<tr>
+<td><a href="https://github.com/scorelab/OpenMF/issues/265" target="_blank">#265</a></td>
+<td>[Backend] Auth Required </td>
+<td><a href="https://github.com/scorelab/OpenMF/pull/279" target="_blank">#279</a></td>
+<td>Google Auth Implemented</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/scorelab/OpenMF/issues/280" target="_blank">#280</a></td>
+<td>[Frontend]Finish Incomplete Pages and Routes Links </td>
+<td><a href="https://github.com/scorelab/OpenMF/pull/289" target="_blank">#289</a></td>
+<td>Fixed Incomplete/Missing Pages, Routes</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/scorelab/OpenMF/issues/281" target="_blank">#281</a></td>
+<td>[Frontend][Backend]Search User Feature </td>
+<td><a href="https://github.com/scorelab/OpenMF/pull/293" target="_blank">#293</a></td>
+<td>Search User implementation</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/scorelab/OpenMF/issues/283" target="_blank">#283</a></td>
+<td>[Backend]Management and Extractor with Google Auth </td>
+<td><a href="https://github.com/scorelab/OpenMF/pull/290" target="_blank">#290</a></td>
+<td>Login and Add user with Google</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/scorelab/OpenMF/issues/284" target="_blank">#284</a></td>
+<td>[Frontend][Backend]Inaccessible Routes in cases </td>
+<td><a href="https://github.com/scorelab/OpenMF/pull/294" target="_blank">#294</a></td>
+<td>Open method to Open case files</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/scorelab/OpenMF/issues/296" target="_blank">#296</a></td>
+<td>[Frontend] Create Profile Card Component </td>
+<td><a href="https://github.com/scorelab/OpenMF/pull/298" target="_blank">#298</a></td>
+<td>Created User Dashboard</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/scorelab/OpenMF/issues/301" target="_blank">#301</a></td>
+<td>[Frontend] Add icons to task card </td>
+<td><a href="https://github.com/scorelab/OpenMF/pull/302" target="_blank">#302</a></td>
+<td>Task card icon</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/scorelab/OpenMF/issues/304" target="_blank">#304</a></td>
+<td>[Frontend]Hide Profile Option from Navbar </td>
+<td><a href="https://github.com/scorelab/OpenMF/pull/305" target="_blank">#305</a></td>
+<td>Commented Profile Option</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/scorelab/OpenMF/issues/288" target="_blank">#288</a></td>
+<td>[Frontend][Backend]Task Update </td>
+<td><a href="https://github.com/scorelab/OpenMF/pull/306" target="_blank">#306</a></td>
+<td>Task update</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/scorelab/OpenMF/issues/295" target="_blank">#295</a></td>
+<td>[Frontend][Backend] Create User DashBoard </td>
+<td><a href="" target="_blank">-</a></td>
+<td>Multiple PRs</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/scorelab/OpenMF/issues/296" target="_blank">#296</a></td>
+<td>[Frontend] Create Profile Card Component</a></td>
+<td><a href="https://github.com/scorelab/OpenMF/pull/298" target="_blank">#298</a></td>
+<td>Created User Dashboard</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/scorelab/OpenMF/issues/297" target="_blank">#297</a></td>
+<td>[Frontend] Add tasks to Dashboard</a></td>
+<td><a href="https://github.com/scorelab/OpenMF/pull/298" target="_blank">#298</a></td>
+<td>Created User Dashboard</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/scorelab/OpenMF/issues/299" target="_blank">#299</a></td>
+<td>[Frontend]Sidebar showing wrong options</a></td>
+<td><a href="https://github.com/scorelab/OpenMF/pull/303" target="_blank">#303</a></td>
+<td>Fixed Sidebar</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/scorelab/OpenMF/issues/267" target="_blank">#267</a></td>
+<td>[Backend][Frontend] Extraction of Data </a></td>
+<td><a href="https://github.com/scorelab/OpenMF/pull/307" target="_blank">#307</a></td>
+<td>Download the JSON as .json and .xml</td>
+</tr>
+
+</table>
