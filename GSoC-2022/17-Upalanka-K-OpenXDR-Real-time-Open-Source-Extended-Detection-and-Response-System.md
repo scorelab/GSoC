@@ -8,7 +8,7 @@ OpenXDR is a real-time open source extended detection and response system. The e
 
 ## [GSoC Project Page](https://summerofcode.withgoogle.com/programs/2022/projects/eW0iWrUd)
 
-## [GSoC Project Proposal](https://summerofcode.withgoogle.com/media/user/d826c10d0b6b/proposal/gAAAAABjHBY5svYjnrwaUGkmpuPxtqo9xLAnZJtcRURws-d1sI9rB6EzQiugBKIkcVMUSmn7cW13JPMNHS7OH6Fj1pqNk1tNuFGwTjq7M3kYWxPBQT5YV4E=.pdf)
+## [GSoC Project Proposal](https://drive.google.com/file/d/1KFvrdTrdvQJDWyhzFelsEaetnuzAjlPP/view?usp=sharing)
 
 ## [GitHub Organization Repo](https://github.com/scorelab/OpenXDR)
 
