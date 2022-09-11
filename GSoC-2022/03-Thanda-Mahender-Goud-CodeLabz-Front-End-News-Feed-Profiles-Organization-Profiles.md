@@ -84,7 +84,7 @@ CodeLabz is a platform where the users can engage with online tutorials and the 
 - [GSoC’22 with SCoRE Lab:week-8](https://medium.com/scorelab/gsoc22-with-score-lab-week-8-935fcea5b886)
 - [GSoC’22 with SCoRE Lab:week-9](https://medium.com/scorelab/gsoc22-with-score-lab-week-9-f68d6f22a0d0)
 - [GSoC’22 with SCoRE Lab:week-10](https://medium.com/scorelab/gsoc22-with-score-lab-week-10-d3ab76f2d05d)
-- GSoC’22 with SCoRE Lab:week-11 and Week-12
+- [GSoC’22 with SCoRE Lab:week-11 and Week-12](https://medium.com/scorelab/gsoc22-with-score-lab-week-11-and-week-12-ede2a6fd3a97)
 
 # Work Summary
 
