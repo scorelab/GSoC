@@ -20,10 +20,10 @@ Kubernetes is a great tool for container orchestration, running Kubernetes in yo
 | [#10](https://github.com/leopardslab/kubebot/pull/10) | Merged ✅ | [#16](https://github.com/leopardslab/kubebot/issues/16) [#12](https://github.com/leopardslab/kubebot/issues/12) |
 | [#11](https://github.com/leopardslab/kubebot/pull/11) | Merged ✅ | [#15](https://github.com/leopardslab/kubebot/issues/15) [#14](https://github.com/leopardslab/kubebot/issues/14) |
 | [#19](https://github.com/leopardslab/kubebot/pull/19) | Merged ✅ | [#16](https://github.com/leopardslab/kubebot/issues/16) [#15](https://github.com/leopardslab/kubebot/issues/15) [#13](https://github.com/leopardslab/kubebot/issues/13) [#8](https://github.com/leopardslab/kubebot/issues/8) [#7](https://github.com/leopardslab/kubebot/issues/7) [#17](https://github.com/leopardslab/kubebot/issues/17) [#18](https://github.com/leopardslab/kubebot/issues/18) |
-| [#9](https://github.com/leopardslab/kubebot/pull/9) | Merged ✅ | [#](https://github.com/leopardslab/kubebot/issues/13) [#](https://github.com/leopardslab/kubebot/issues/8) [#](https://github.com/leopardslab/kubebot/issues/7) |
-| [#27](https://github.com/leopardslab/kubebot/pull/27) | Merged ✅ | [#](https://github.com/leopardslab/kubebot/issues/21) [#](https://github.com/leopardslab/kubebot/issues/20) |
-| [#28](https://github.com/leopardslab/kubebot/pull/28) | Merged ✅ | [#](https://github.com/leopardslab/kubebot/issues/26) [#](https://github.com/leopardslab/kubebot/issues/22) |
-| [#29](https://github.com/leopardslab/kubebot/pull/29) | Merged ✅ | [#](https://github.com/leopardslab/kubebot/issues/25) [#](https://github.com/leopardslab/kubebot/issues/24) [#](https://github.com/leopardslab/kubebot/issues/23) |
+| [#9](https://github.com/leopardslab/kubebot/pull/9) | Merged ✅ | [#13](https://github.com/leopardslab/kubebot/issues/13) [#8](https://github.com/leopardslab/kubebot/issues/8) [#7](https://github.com/leopardslab/kubebot/issues/7) |
+| [#27](https://github.com/leopardslab/kubebot/pull/27) | Merged ✅ | [#21](https://github.com/leopardslab/kubebot/issues/21) [#20](https://github.com/leopardslab/kubebot/issues/20) |
+| [#28](https://github.com/leopardslab/kubebot/pull/28) | Merged ✅ | [#26](https://github.com/leopardslab/kubebot/issues/26) [#22](https://github.com/leopardslab/kubebot/issues/22) |
+| [#29](https://github.com/leopardslab/kubebot/pull/29) | Merged ✅ | [#25](https://github.com/leopardslab/kubebot/issues/25) [#24](https://github.com/leopardslab/kubebot/issues/24) [#23](https://github.com/leopardslab/kubebot/issues/23) |
 
 
 ## [Project Demo Video](https://drive.google.com/drive/folders/1YAop5fDTnFnsKy6Oj4M6hsUSC49eIW1a?usp=sharing)
@@ -46,6 +46,14 @@ KubeBot is a smart tool that pulls out of box metrics, traces, events and logs c
 3. Prometheus capable of pulling metrics and export to Grafana.
 4. Auto installation of OpenTelemetry Collector with same helm chart.
 5. End-to-End unit testing to validate monitoring stack deployment.
+6. Added a log collector agent to ingest all the application logs > [filebeat](https://www.elastic.co/guide/en/beats/filebeat/current/filebeat-installation-configuration.html).
+7. Developed a codec to compress the collected log output in the OTLP packet.
+8. Developed an exporter to export the compressed OTLP packets.
+9. Built exporter on gRPC.
+10. Tested the resulting log collection agent by running it as a Deamonset.
+11. End-to-End unit testing of entire program.
 
 
 # What left
+
+- Storing the logs from OTEL in a database and creating an ML model.
