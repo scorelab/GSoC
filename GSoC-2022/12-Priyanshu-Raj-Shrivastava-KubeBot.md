@@ -12,11 +12,23 @@ Kubernetes is a great tool for container orchestration, running Kubernetes in yo
 
 ## [GitHub Personal Repo](https://github.com/priyanshuraj400/kubebot---GSoC-2022)
 
-## [Commits during GSoC 2017](http://github.com/commits)
+## Commits during GSoC 2022
 
-## [Project Demo Video](http://LinkToDemoVideo)
+| PR Link | Status | Issues |
+| --- | --- | --- |
+| [#6](https://github.com/leopardslab/kubebot/pull/6) | Merged ✅ | [#4](https://github.com/leopardslab/kubebot/issues/4) [#3](https://github.com/leopardslab/kubebot/issues/3) |
+| [#10](https://github.com/leopardslab/kubebot/pull/10) | Merged ✅ | [#16](https://github.com/leopardslab/kubebot/issues/16) [#12](https://github.com/leopardslab/kubebot/issues/12) |
+| [#11](https://github.com/leopardslab/kubebot/pull/11) | Merged ✅ | [#15](https://github.com/leopardslab/kubebot/issues/15) [#14](https://github.com/leopardslab/kubebot/issues/14) |
+| [#19](https://github.com/leopardslab/kubebot/pull/19) | Merged ✅ | [#16](https://github.com/leopardslab/kubebot/issues/16) [#15](https://github.com/leopardslab/kubebot/issues/15) [#13](https://github.com/leopardslab/kubebot/issues/13) [#8](https://github.com/leopardslab/kubebot/issues/8) [#7](https://github.com/leopardslab/kubebot/issues/7) [#17](https://github.com/leopardslab/kubebot/issues/17) [#18](https://github.com/leopardslab/kubebot/issues/18) |
+| [#9](https://github.com/leopardslab/kubebot/pull/9) | Merged ✅ | [#](https://github.com/leopardslab/kubebot/issues/13) [#](https://github.com/leopardslab/kubebot/issues/8) [#](https://github.com/leopardslab/kubebot/issues/7) |
+| [#27](https://github.com/leopardslab/kubebot/pull/27) | Merged ✅ | [#](https://github.com/leopardslab/kubebot/issues/21) [#](https://github.com/leopardslab/kubebot/issues/20) |
+| [#28](https://github.com/leopardslab/kubebot/pull/28) | Merged ✅ | [#](https://github.com/leopardslab/kubebot/issues/26) [#](https://github.com/leopardslab/kubebot/issues/22) |
+| [#29](https://github.com/leopardslab/kubebot/pull/29) | Merged ✅ | [#](https://github.com/leopardslab/kubebot/issues/25) [#](https://github.com/leopardslab/kubebot/issues/24) [#](https://github.com/leopardslab/kubebot/issues/23) |
 
-## [Project Wiki](http://github.com)
+
+## [Project Demo Video](https://drive.google.com/drive/folders/1YAop5fDTnFnsKy6Oj4M6hsUSC49eIW1a?usp=sharing)
+
+## [Project Wiki](https://github.com/leopardslab/kubebot)
 
 ## [GSoC Blog](https://medium.com/@priyanshuraj400)
 
@@ -29,6 +41,11 @@ KubeBot is a smart tool that pulls out of box metrics, traces, events and logs c
 
 # What Covered
 
-# What left
+1. Helm chart to install KubeBot
+2. Chart includes auto-configured montioring stack, i.e. Prometheus and Grafana.
+3. Prometheus capable of pulling metrics and export to Grafana.
+4. Auto installation of OpenTelemetry Collector with same helm chart.
+5. End-to-End unit testing to validate monitoring stack deployment.
 
-#
+
+# What left
