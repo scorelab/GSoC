@@ -80,10 +80,10 @@ The following are the major features that have been added to OpenMF:
   - The Current User's Details
   - If Admin, list of all Management and Extractor Users' Tasks and their details
   - If Extractor or Management, list of all the Tasks assigned to the User and their details
-- Enabled the feature to Locally Open routes in generated in Managemnt's Analytics Page's Filter and Keyword Search.
+- Enabled the feature to Locally Open routes in generated in Management's Analytics Page's Filter and Keyword Search.
 - Removed Irrelevant Profile Route and Page from Navbar
 - Fixed the issue of the Navbar showing the wrong User's Options on specific tabs
-- Created and Routes, Frontend and API to Edit the following details of the User -
+- Created End-routes, Frontend and API to Edit the following details of the User -
   - Task Title
   - Task Descreption
   - Task Status
@@ -152,10 +152,10 @@ For more details and information on Issues Opened and their respective, please r
 </tr>
 
 <tr>
-<td><a href="https://github.com/scorelab/OpenMF/issues/296" target="_blank">#296</a></td>
-<td>[Frontend] Create Profile Card Component </td>
-<td><a href="https://github.com/scorelab/OpenMF/pull/298" target="_blank">#298</a></td>
-<td>Created User Dashboard</td>
+<td><a href="https://github.com/scorelab/OpenMF/issues/282" target="_blank">#282</a></td>
+<td>[Frontend][Backend]Non-Interactive Tasks Blocks </td>
+<td><a href="https://github.com/scorelab/OpenMF/pull/292" target="_blank">#292</a></td>
+<td>Toggle Task's is_complete status</td>
 </tr>
 
 <tr>
