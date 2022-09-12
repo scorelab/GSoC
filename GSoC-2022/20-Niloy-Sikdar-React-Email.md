@@ -1,19 +1,10 @@
 # React Email
 
-<div
-  style="
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 30px;
-  "
->
-
+<p align="center">
 <img src="https://i.imgur.com/r75AKIA.png" height="250px">
-<img src="https://i.imgur.com/KeZOLZu.png" height="300px">
-
-</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/KeZOLZu.png" height="250px">
+</p>
 
 # Contributor Info
 
@@ -21,23 +12,16 @@
 <table>
 
 <tr>
-<td style="
-    font-size: large;
-    display: flex;
-    flex-direction: column;
-    justify-content: start;
-    gap: 8px;
-    width: 400px;
-  ">
-<div>&#8226; Name - <span style="font-weight: bold">Niloy Sikdar</span></div>
-<div>&#8226; Email - <a href="mailto:niloysikdar30@gmail.com" target="_blank">niloysikdar30@gmail.com</a></div>
-<div>&#8226; GitHub - <a href="https://github.com/niloysikdar" target="_blank">niloysikdar</a></div>
-<div>&#8226; Linkedin - <a href="https://www.linkedin.com/in/niloysikdar" target="_blank">Niloy Sikdar</a></div>
-<div>&#8226; Twitter - <a href="https://twitter.com/niloysikdar_" target="_blank">niloysikdar_</a></div>
-<div>&#8226; Medium - <a href="https://niloysikdar.medium.com" target="_blank">niloysikdar</a></div>
+<td width="400px">
+&#8226; Name - Niloy Sikdar <br />
+&#8226; Email - <a href="mailto:niloysikdar30@gmail.com" target="_blank">niloysikdar30@gmail.com</a><br />
+&#8226; GitHub - <a href="https://github.com/niloysikdar" target="_blank">niloysikdar</a><br />
+&#8226; Linkedin - <a href="https://www.linkedin.com/in/niloysikdar" target="_blank">Niloy Sikdar</a><br />
+&#8226; Twitter - <a href="https://twitter.com/niloysikdar_" target="_blank">niloysikdar_</a><br />
+&#8226; Medium - <a href="https://niloysikdar.medium.com" target="_blank">niloysikdar</a><br />
 </td>
 <td>
-<a href="https://github.com/niloysikdar"><img src="https://i.imgur.com/wDO1nLU.png" height="250px" width="250px;" alt="Niloy Sikdar"/></a>
+<a href="https://github.com/niloysikdar"><img src="https://i.imgur.com/wDO1nLU.png" height="180px" width="180px;" alt="Niloy Sikdar"/></a>
 </td>
 </tr>
 </table>
@@ -112,7 +96,7 @@ React-based component and utility methods-based lightweight library to provide a
 
 # Work Summary
 
-We started the React Email Project from scratch this summer. From initializing the package, to implementing CI/CD, creating components and utility methods, writing tests and stories using Storybook, creating documentation, and finally publishing the package on NPM, we did it all of these in just 13 weeks. We also created a docs page using Docusaurus and deployed it on Netlify along with the Storybook and TypeDoc documentation. Also, we have used TypeScript for the whole project to make it more robust, reliable, and typesafe for the users. We have also used ESLint and Prettier for linting and formatting the codebase. We started from finalizing the Task breakdown and creating the project roadmap. We also finalized the approach for creating the components and utility methods in several meetings. I learnt a lot of new things while working on this project under the guidance of my mentor. You can find the detailed work summary in the [GSoC Blogs](#gsoc-blogs) and the [Project Board](https://github.com/orgs/leopardslab/projects/3).
+We started the React Email Project from scratch this summer. From initializing the package, to implementing CI/CD, creating components and utility methods, writing tests and stories using Storybook, creating documentation, and finally publishing the package on NPM - we did all of these in just 13 weeks. We also created a docs page using Docusaurus and deployed it on Netlify along with the Storybook and TypeDoc documentation. Also, we have used TypeScript for the whole project to make it more robust, reliable, and typesafe for the users. We have also used ESLint and Prettier for linting and formatting the codebase. We started by finalizing the Task breakdown and creating the project roadmap. We also finalized the approach for creating the components and utility methods in several meetings. I learnt a lot of new things while working on this project under the guidance of my mentor. You can find the detailed work summary in the [GSoC Blogs](#gsoc-blogs) and the [Project Board](https://github.com/orgs/leopardslab/projects/3).
 
 # Project Timeline
 
