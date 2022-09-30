@@ -5,12 +5,28 @@ SCoRe Lab - Webiu (GSOC'22)
 </p>
 
 ## Student Info 
-- Name - Abhijay jain
-- Email - Abhijay007j@gmail.com
-- University - Guru gobind singh indraprastha university ,India
-- GitHub Profile - https://github.com/Abhijay007
-- Medium - https://medium.com/@abhijay007j
-- LinkedIn - https://www.linkedin.com/in/abhijay-jain-551b01193/
+
+
+<div container>
+<table>
+
+<tr>
+<td width="400px">
+&#8226; Name - Abhijay jain <br />
+&#8226; Email - <a href="mailto:Abhijay007@gmail.com" target="_blank">Abhijay007@gmail.com</a><br />
+&#8226; GitHub - <a href="https://github.com/Abhijay007" target="_blank">Abhijay007</a><br />
+&#8226; Linkedin - <a href="https://www.linkedin.com/in/abhijay-jain-551b01193/" target="_blank">Abhijay jain</a><br />
+&#8226; Twitter - <a href="https://twitter.com/CodeInVeins" target="_blank">codeInVeins</a><br />
+&#8226; Medium - <a href="https://medium.com/@abhijay007j" target="_blank">abhijay007j</a><br />
+</td>
+<td>
+<a href="https://github.com/niloysikdar"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQFdvRfLQfwDMg/profile-displayphoto-shrink_800_800/0/1635177515901?e=1669852800&v=beta&t=GNbM9bjZZgKpxGxMZc_KGeNdjG8xSzHMxF5ntkMwn-M" height="180px" width="180px;" alt="Niloy Sikdar"/></a>
+</td>
+</tr>
+</table>
+</div>
+
+
 
 # Project Abstract
 
@@ -40,6 +56,10 @@ Developed Service Info theme with reusable components, so that the beginners can
 
 Project Figma File (Service info First theme): https://www.figma.com/file/0ISIz6XklEToDd4KXfIWRB/SCoRe-Lab-Theme-designs?node-id=0%3A1
 
+- Services Info Theme Preview
+  
+    ![Services Info Theme Preview](https://user-images.githubusercontent.com/64387054/179288236-35dd5e26-282f-48a3-aa72-6b3cf05be8b1.png)
+
 Pull Requests for this milestone are:
 
 | PR Link                                                                                                                                                              | Description                                              |  Issues Link   | 
@@ -61,6 +81,10 @@ Pull Requests for this milestone are:
 Developed Startup theme with reusable componentsm, So that the beginners can use this theme as a starting project and they can develop their features on top of this theme. 
 
 Project Figma File (Startup Second theme): https://www.figma.com/file/0ISIz6XklEToDd4KXfIWRB/SCoRe-Lab-Theme-designs?node-id=3%3A5
+
+- Startup Theme Preview
+  
+    ![Startup Theme Preview](https://user-images.githubusercontent.com/64387054/180659301-546b6c71-60f6-45df-8b42-79cdf5a1adb4.png)
 
 Pull Requests for this milestone are:
 
@@ -89,12 +113,56 @@ Developed BlockChain theme with reusable components, so that the beginners can u
 
 Project Figma File (BlockChain Third theme): https://www.figma.com/file/0ISIz6XklEToDd4KXfIWRB/SCoRe-Lab-Theme-designs?node-id=3%3A3
 
+- BlockChain Theme Preview
+  
+    ![BlockChain Theme Preview](https://user-images.githubusercontent.com/64387054/184938224-3ca77a0f-5d6c-4be3-9305-ae9eda851a4d.png)
+
+Pull Requests for this milestone are:
+
+
+| PR Link                                                                                                                                                              | Description                                              |  Issues Link   | 
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------- | 
+| [#309](https://github.com/scorelab/Webiu/pull/309)                                                                                        | Merged ✅ | [#296](https://github.com/scorelab/Webiu/issues/296) |
+| [#315](https://github.com/scorelab/Webiu/pull/315)                                                                                        | Merged ✅ | [#295](https://github.com/scorelab/Webiu/issues/295) |
+| [#320](https://github.com/scorelab/Webiu/pull/320)                                                                                        | Merged ✅ | [#300](https://github.com/scorelab/Webiu/issues/300) |
+| [#334](https://github.com/scorelab/Webiu/pull/334)                                                                                        | Merged ✅ | [#299](https://github.com/scorelab/Webiu/issues/299) |
+| [#337](https://github.com/scorelab/Webiu/pull/337)                                                                                        | Merged ✅ | [#317](https://github.com/scorelab/Webiu/issues/317)                                                            |
+| [#334](https://github.com/scorelab/Webiu/pull/344)                                                                                        | Merged ✅ | [#321](https://github.com/scorelab/Webiu/issues/321) |
+| [#376](https://github.com/scorelab/Webiu/pull/376)                                                                                        | Merged ✅ | [#305](https://github.com/scorelab/Webiu/issues/305) |
+| [#382](https://github.com/scorelab/Webiu/pull/382)                                                                                        | Merged ✅ | [#322](https://github.com/scorelab/Webiu/issues/322) |
+
+
+
 
 ### 4) Implement Finance as the fourth theme
 
 Developed Finance theme with reusable components, so that the beginners can use this theme as a starting project and they can develop their features on top of this theme.
 
 Project Figma File (Finance Fourth theme): https://www.figma.com/file/0ISIz6XklEToDd4KXfIWRB/SCoRe-Lab-Theme-designs?node-id=3%3A2
+
+
+- Finance Theme Preview
+  
+    ![Finance Theme Preview](https://user-images.githubusercontent.com/64387054/190560431-cf0948cc-6f13-4cac-98f4-851bfda44f97.png)
+
+| PR Link                                                                                                                                                              | Description                                              |  Issues Link   | 
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------- | 
+| [#364](https://github.com/scorelab/Webiu/pull/364)                                                                                        | Merged ✅ | [#341](https://github.com/scorelab/Webiu/issues/341) |
+| [#372](https://github.com/scorelab/Webiu/pull/372)                                                                                        | Merged ✅ | [#347](https://github.com/scorelab/Webiu/issues/347) |
+| [#375](https://github.com/scorelab/Webiu/pull/375)                                                                                        | Merged ✅ | [#350](https://github.com/scorelab/Webiu/issues/350) |
+| [#377](https://github.com/scorelab/Webiu/pull/377)                                                                                        | Merged ✅ | [#370](https://github.com/scorelab/Webiu/issues/370) |
+| [#378](https://github.com/scorelab/Webiu/pull/378)                                                                                        | Merged ✅ | [#318](https://github.com/scorelab/Webiu/issues/318)                                                            |
+| [#379](https://github.com/scorelab/Webiu/pull/379)                                                                                        | Merged ✅ | [#346](https://github.com/scorelab/Webiu/issues/346) |
+| [#389](https://github.com/scorelab/Webiu/pull/389)                                                                                        | Merged ✅ | [#384](https://github.com/scorelab/Webiu/issues/384) |
+| [#390](https://github.com/scorelab/Webiu/pull/390)                                                                                        | Merged ✅ | [#353](https://github.com/scorelab/Webiu/issues/353) |
+| [#391](https://github.com/scorelab/Webiu/pull/391)                                                                                        | Merged ✅ | [#385](https://github.com/scorelab/Webiu/issues/385) |
+| [#392](https://github.com/scorelab/Webiu/pull/392)                                                                                        | Merged ✅ | [#383](https://github.com/scorelab/Webiu/issues/383) |
+| [#393](https://github.com/scorelab/Webiu/pull/393)                                                                                        | Merged ✅ | [#351](https://github.com/scorelab/Webiu/issues/351) |
+| [#394](https://github.com/scorelab/Webiu/pull/394)                                                                                        | Merged ✅ | [#387](https://github.com/scorelab/Webiu/issues/387) |
+| [#395](https://github.com/scorelab/Webiu/pull/395)                                                                                        | Merged ✅ | [#387](https://github.com/scorelab/Webiu/issues/387) |
+| [#396](https://github.com/scorelab/Webiu/pull/396)                                                                                        | Merged ✅ | [#386](https://github.com/scorelab/Webiu/issues/386) |
+| [#400](https://github.com/scorelab/Webiu/pull/400)                                                                                        | Merged ✅ | [#380](https://github.com/scorelab/Webiu/issues/380) |
+
 
 
 ### 5) Implement Conference as the fifth theme
@@ -118,8 +186,6 @@ Project Figma File (Conference Fifth theme): https://www.figma.com/file/0ISIz6Xk
 
 # What left and future Aspects
 
--   compilation of complete third theme (BlockChain).
--   compilation of complete fourth theme (Finance).
 -   Implemented all new reusable components regarding to fifth theme.
 -   Implemented complete first theme (Conference).
 
