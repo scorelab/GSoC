@@ -10,7 +10,7 @@
 ### Project Abstract
 ImageLab is a standalone tool which supports anyone to get started with image processing related concepts and techniques in an interactive, less logical way. So, this tool enables and also motivates the fresh users to understand how image processing concepts work by interacting with ImageLab. Moreover, for the users who are already comfortable with image processing tasks ImageLab offers a test environment before they move ahead with actual implementation or development.
 
-### [GSoC Project Page](https://summerofcode.withgoogle.com/dashboard/project/5223011512221696/overview/)
+### [GSoC Project Page](https://summerofcode.withgoogle.com/archive/2021/projects/5708407146807296)
 
 ### [GSoC Project Proposal](https://docs.google.com/document/d/14zHGm2HtsyNfw1Z8AQkUBqlRf3ZsQVPfx5EHjZzqNZ4/edit?usp=sharing)
 
