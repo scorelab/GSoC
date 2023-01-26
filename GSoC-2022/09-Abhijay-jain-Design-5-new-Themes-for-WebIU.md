@@ -20,7 +20,7 @@ SCoRe Lab - Webiu (GSOC'22)
 &#8226; Medium - <a href="https://medium.com/@abhijay007j" target="_blank">abhijay007j</a><br />
 </td>
 <td>
-<a href="https://github.com/niloysikdar"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQFdvRfLQfwDMg/profile-displayphoto-shrink_800_800/0/1635177515901?e=1669852800&v=beta&t=GNbM9bjZZgKpxGxMZc_KGeNdjG8xSzHMxF5ntkMwn-M" height="180px" width="180px;" alt="Niloy Sikdar"/></a>
+<a href="https://github.com/Abhijay007"><img src="https://media.licdn.com/dms/image/C4E03AQFdvRfLQfwDMg/profile-displayphoto-shrink_400_400/0/1635177515901?e=1679529600&v=beta&t=k-1ivpBxLRsxZNBV68HyHUFaJoCHv0tCKCF0UsrSrfk" height="180px" width="180px;" alt="Abhijay jain"/></a>
 </td>
 </tr>
 </table>
