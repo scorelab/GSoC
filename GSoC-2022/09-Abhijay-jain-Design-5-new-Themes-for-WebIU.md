@@ -20,7 +20,7 @@ SCoRe Lab - Webiu (GSOC'22)
 &#8226; Medium - <a href="https://medium.com/@abhijay007j" target="_blank">abhijay007j</a><br />
 </td>
 <td>
-<a href="https://github.com/Abhijay007"><img src="https://media.licdn.com/dms/image/C4E03AQFdvRfLQfwDMg/profile-displayphoto-shrink_400_400/0/1635177515901?e=1679529600&v=beta&t=k-1ivpBxLRsxZNBV68HyHUFaJoCHv0tCKCF0UsrSrfk" height="180px" width="180px;" alt="Abhijay jain"/></a>
+<a href="https://github.com/Abhijay007"><img src="https://media.licdn.com/dms/image/C4E03AQFdvRfLQfwDMg/profile-displayphoto-shrink_400_400/0/1635177515901?e=1697068800&v=beta&t=pJeJcMLfO9_dL8nLWTy1Xj2iEv7SisglWpfyncvKDLg" height="180px" width="180px;" alt="Abhijay jain"/></a>
 </td>
 </tr>
 </table>
@@ -42,13 +42,13 @@ Website built with Webiu: https://www.scorelab.org/
 
 ## [GitHub Personal Repo](https://github.com/Abhijay007/Webiu)
 
-## [Commits during GSoC 2017](https://github.com/scorelab/Webiu/commits?author=Abhijay007)
+## [Commits during GSoC 2022](https://github.com/scorelab/Webiu/commits?author=Abhijay007)
 
 ## [GSoC Blog](https://medium.com/@abhijay007j)
 
 # Work Summary
 
-### Below is a comprehensive list of the milestone that were achieved during the coding period
+### Below is a comprehensive list of the milestone that was achieved during the coding period
 
 ### 1) Implement Service Info as the first theme
 
