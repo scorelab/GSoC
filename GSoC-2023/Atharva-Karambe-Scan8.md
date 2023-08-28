@@ -28,8 +28,8 @@ The Testing module helps in maintaining the application and facilitating the CI/
 ## [Project Tracker During GSoC](https://drive.google.com/file/d/15iM1QnKRXWfbXAlF5lUDcnu0HFmXhfe-/view?usp=sharing)
 
 ## GSoC Blogs
-- [GSoC’22 Week 0 & 2: Early Initiations](https://medium.com/@atharvakarambe262/google-summer-of-code-2023-scan8-43ff8dd7c131)
-- [GSoC’22 Week 2 & 4: Colorful Permutations](https://medium.com/@atharvakarambe262/google-summer-of-code-2023-scan8-d2560687ac09)
+- [GSoC’22 Week 0 & 2 : Webcrawwler ](https://medium.com/@atharvakarambe262/google-summer-of-code-2023-scan8-43ff8dd7c131)
+- [GSoC’22 Week 2 & 4 : Proxy ](https://medium.com/@atharvakarambe262/google-summer-of-code-2023-scan8-d2560687ac09)
 
 
 # Work Summary
